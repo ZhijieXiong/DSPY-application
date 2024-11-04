@@ -1,0 +1,92 @@
+[2024-11-02T20:43:40.716450]
+
+**System message:**
+Your input fields are:
+1. `question` (str)
+
+Your output fields are:
+1. `reasoning` (str)
+2. `answer` (str)
+
+All interactions will be structured in the following way, with the appropriate values filled in.
+
+[[ ## question ## ]]
+{question}
+
+[[ ## reasoning ## ]]
+{reasoning}
+
+[[ ## answer ## ]]
+{answer}
+
+[[ ## completed ## ]]
+
+In adhering to this structure, your objective is: 
+        Answer questions with reasoning.
+
+
+**User message:**
+[[ ## question ## ]]
+The state of Virginia had 3.79 inches of rain in March, 4.5 inches of rain in April, 3.95 inches of rain in May, 3.09 inches of rain in June and 4.67 inches in July.  What is the average rainfall amount, in inches, in Virginia?
+
+Respond with the corresponding output fields, starting with the field `[[ ## reasoning ## ]]`, then `[[ ## answer ## ]]`, and then ending with the marker for `[[ ## completed ## ]]`.
+
+
+**Assistant message:**
+[[ ## reasoning ## ]]
+It rained for a total of 3.79+4.5+3.95+3.09+4.67 = <<3.79+4.5+3.95+3.09+4.67=20>>20 inches
+The rain period is from March through July for a total of 5 months so the average rainfall is 20/5 = <<20/5=4>>4 inches of rain per month
+
+
+[[ ## answer ## ]]
+ 4
+
+[[ ## completed ## ]]
+
+
+**User message:**
+[[ ## question ## ]]
+A chocolate box contains 200 bars. Thomas and his 4 friends take 1/4 of the bars and decide to divide them equally between them. One of Thomas's friends doesn't like chocolate bars very much and returns 5 of his bars to the box. Later, his sister Piper comes home and takes 5 fewer bars than those taken in total by Thomas and his friends so she can also share with her friends. What's the total number of bars left in the box?
+
+Respond with the corresponding output fields, starting with the field `[[ ## reasoning ## ]]`, then `[[ ## answer ## ]]`, and then ending with the marker for `[[ ## completed ## ]]`.
+
+
+**Assistant message:**
+[[ ## reasoning ## ]]
+Thomas and his friends took 1/4*200 = <<1/4*200=50>>50 bars.
+The total number of bars left in the box was 200-50 = <<200-50=150>>150 bars.
+Since there are five of them sharing, each of them got 50/5 = <<50/5=10>>10 bars.
+After a friend returned 5 bars, there were 150 + 5 = <<150+5=155>>155 bars in the box.
+Piper took five fewer bars, that is 50 - 5 = <<50-5=45>>45 bars.
+The total remaining bars left in the box is 155 - 45 = <<155-45=110>>110 bars.
+
+
+[[ ## answer ## ]]
+ 110
+
+[[ ## completed ## ]]
+
+
+**User message:**
+[[ ## question ## ]]
+Janet’s ducks lay 16 eggs per day. She eats three for breakfast every morning and bakes muffins for her friends every day with four. She sells the remainder at the farmers' market daily for $2 per fresh duck egg. How much in dollars does she make every day at the farmers' market?
+
+Respond with the corresponding output fields, starting with the field `[[ ## reasoning ## ]]`, then `[[ ## answer ## ]]`, and then ending with the marker for `[[ ## completed ## ]]`.
+
+
+**Response:**
+[[ ## reasoning ## ]]
+Janet's ducks lay 16 eggs per day.
+She uses 3 eggs for breakfast and 4 eggs for baking muffins, so she uses a total of 3 + 4 = <<3+4=7>>7 eggs per day.
+This leaves her with 16 - 7 = <<16-7=9>>9 eggs to sell at the farmers' market.
+She sells each egg for $2, so she makes 9 * 2 = <<9*2=18>>18 dollars every day at the farmers' market.
+
+
+[[ ## answer ## ]]
+ 18
+
+[[ ## completed ## ]]
+
+
+
+

@@ -1,0 +1,55 @@
+[2024-11-02T23:09:38.886861]
+
+**System message:**
+Your input fields are:
+1. `context` (str): may contain relevant facts
+2. `question` (str)
+
+Your output fields are:
+1. `reasoning` (str)
+2. `answer` (str): often between 1 and 5 words
+
+All interactions will be structured in the following way, with the appropriate values filled in.
+
+[[ ## context ## ]]
+{context}
+
+[[ ## question ## ]]
+{question}
+
+[[ ## reasoning ## ]]
+{reasoning}
+
+[[ ## answer ## ]]
+{answer}
+
+[[ ## completed ## ]]
+
+In adhering to this structure, your objective is: 
+        Answer questions with short factoid answers.
+
+
+**User message:**
+[[ ## context ## ]]
+[1] «Our net cash provided by operating activities was $3.9 billion in 2023, compared to $3.4 billion, in the prior year.»
+[2] «Net cash provided by operating activities in 2023 was $3.9 billion, which was primarily due to income from operations of $1.5 billion and interest income of $721 million from our investment portfolio, adjusted for non-cash items including stock-based compensation expense of $1.1 billion.»
+[3] «Net cash provided by operating activities in 2022 was $3.4 billion, which was primarily due to income from operations of $1.8 billion, adjusted for non-cash items, primarily consisting of $930 million of stock-based compensation expense, impairment of long-lived assets of $91 million, and $62 million of foreign exchange losses due to the strengthening of the U.S. dollar against the Euro and British Pound.»
+
+[[ ## question ## ]]
+What was Airbnb's net cash provided by operating activities in 2023?
+
+Respond with the corresponding output fields, starting with the field `[[ ## reasoning ## ]]`, then `[[ ## answer ## ]]`, and then ending with the marker for `[[ ## completed ## ]]`.
+
+
+**Response:**
+[[ ## reasoning ## ]]
+The context states that "Our net cash provided by operating activities was $3.9 billion in 2023."
+
+[[ ## answer ## ]]
+$3.9 billion
+
+[[ ## completed ## ]]
+
+
+
+

@@ -1,0 +1,52 @@
+[2024-11-02T19:47:54.540652]
+
+**System message:**
+Your input fields are:
+1. `question` (str)
+
+Your output fields are:
+1. `reasoning` (str)
+2. `answer` (str)
+
+All interactions will be structured in the following way, with the appropriate values filled in.
+
+[[ ## question ## ]]
+{question}
+
+[[ ## reasoning ## ]]
+{reasoning}
+
+[[ ## answer ## ]]
+{answer}
+
+[[ ## completed ## ]]
+
+In adhering to this structure, your objective is: 
+        Answer questions with reasoning. Step by step.
+
+
+**User message:**
+[[ ## question ## ]]
+Janet’s ducks lay 16 eggs per day. She eats three for breakfast every morning and bakes muffins for her friends every day with four. She sells the remainder at the farmers' market daily for $2 per fresh duck egg. How much in dollars does she make every day at the farmers' market?
+
+Respond with the corresponding output fields, starting with the field `[[ ## reasoning ## ]]`, then `[[ ## answer ## ]]`, and then ending with the marker for `[[ ## completed ## ]]`.
+
+
+**Response:**
+[[ ## reasoning ## ]]
+1. Janet's ducks lay 16 eggs per day.
+2. She eats 3 eggs for breakfast every morning.
+3. She uses 4 eggs to bake muffins every day.
+4. Therefore, the total number of eggs she uses for herself is 3 (for breakfast) + 4 (for muffins) = 7 eggs.
+5. The number of eggs she sells at the farmers' market is the total number of eggs laid minus the eggs she uses for herself: 16 (total eggs) - 7 (used eggs) = 9 eggs.
+6. She sells each egg for $2.
+7. Therefore, the total amount she makes at the farmers' market is 9 (eggs) * $2 (per egg) = $18.
+
+[[ ## answer ## ]]
+$18
+
+[[ ## completed ## ]]
+
+
+
+

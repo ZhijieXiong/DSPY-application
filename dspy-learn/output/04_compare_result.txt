@@ -1,0 +1,3 @@
+basic predict acc: 0.4
+cot acc: 1.0
+pot acc: 1.0

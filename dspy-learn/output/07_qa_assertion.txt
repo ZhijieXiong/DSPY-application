@@ -1,0 +1,169 @@
+[2024-11-03T23:47:23.385049]
+
+System message:
+
+Your input fields are:
+1. `context` (str): may contain relevant facts
+2. `question` (str)
+
+Your output fields are:
+1. `reasoning` (str)
+2. `query` (str)
+
+All interactions will be structured in the following way, with the appropriate values filled in.
+
+[[ ## context ## ]]
+{context}
+
+[[ ## question ## ]]
+{question}
+
+[[ ## reasoning ## ]]
+{reasoning}
+
+[[ ## query ## ]]
+{query}
+
+[[ ## completed ## ]]
+
+In adhering to this structure, your objective is:
+        Write a simple search query that will help answer a complex question.
+
+
+User message:
+
+[[ ## context ## ]]
+N/A
+
+[[ ## question ## ]]
+At My Window was released by which American singer-songwriter?
+
+Respond with the corresponding output fields, starting with the field `[[ ## reasoning ## ]]`, then `[[ ## query ## ]]`, and then ending with the marker for `[[ ## completed ## ]]`.
+
+
+Response:
+
+[[ ## reasoning ## ]]
+To find out which American singer-songwriter released the song "At My Window," we need to search for the song title along with keywords that would likely be associated with its artist. Using specific terms like "American singer-songwriter" alongside the song title will help narrow down the search results to the relevant artist.
+
+[[ ## query ## ]]
+"At My Window" American singer-songwriter
+
+[[ ## completed ## ]]
+
+
+
+
+
+[2024-11-03T23:47:29.836371]
+
+System message:
+
+Your input fields are:
+1. `context` (str): may contain relevant facts
+2. `question` (str)
+
+Your output fields are:
+1. `reasoning` (str)
+2. `query` (str)
+
+All interactions will be structured in the following way, with the appropriate values filled in.
+
+[[ ## context ## ]]
+{context}
+
+[[ ## question ## ]]
+{question}
+
+[[ ## reasoning ## ]]
+{reasoning}
+
+[[ ## query ## ]]
+{query}
+
+[[ ## completed ## ]]
+
+In adhering to this structure, your objective is:
+        Write a simple search query that will help answer a complex question.
+
+
+User message:
+
+[[ ## context ## ]]
+[1] «At My Window (album) | At My Window is an album released by Folk/country singer-songwriter Townes Van Zandt in 1987. This was Van Zandt's first studio album in the nine years that followed 1978's "Flyin' Shoes", and his only studio album recorded in the 1980s. Although the songwriter had become less prolific, this release showed that the quality of his material remained high.»
+[2] «Windows and Walls | Windows and Walls is the eighth album by American singer-songwriter Dan Fogelberg, released in 1984 (see 1984 in music). The first single, "The Language of Love", reached 13 on the U.S. "Billboard" Hot 100 chart. Although the follow-up, "Believe in Me", missed the Top 40 of the pop chart, peaking at No. 48, it became the singer's fourth No. 1 song on the "Billboard" adult contemporary chart.»
+
+[[ ## question ## ]]
+At My Window was released by which American singer-songwriter?
+
+Respond with the corresponding output fields, starting with the field `[[ ## reasoning ## ]]`, then `[[ ## query ## ]]`, and then ending with the marker for `[[ ## completed ## ]]`.
+
+
+Response:
+
+[[ ## reasoning ## ]]
+The context directly mentions that "At My Window" is an album released by Townes Van Zandt. Therefore, the query should be designed to confirm this information succinctly.
+
+[[ ## query ## ]]
+"At My Window album artist"
+
+[[ ## completed ## ]]
+
+
+
+
+
+[2024-11-03T23:47:33.882620]
+
+System message:
+
+Your input fields are:
+1. `context` (str): may contain relevant facts
+2. `question` (str)
+
+Your output fields are:
+1. `reasoning` (str)
+2. `answer` (str): often between 1 and 5 words
+
+All interactions will be structured in the following way, with the appropriate values filled in.
+
+[[ ## context ## ]]
+{context}
+
+[[ ## question ## ]]
+{question}
+
+[[ ## reasoning ## ]]
+{reasoning}
+
+[[ ## answer ## ]]
+{answer}
+
+[[ ## completed ## ]]
+
+In adhering to this structure, your objective is:
+        Answer questions with short factoid answers.
+
+
+User message:
+
+[[ ## context ## ]]
+[1] «At My Window (album) | At My Window is an album released by Folk/country singer-songwriter Townes Van Zandt in 1987. This was Van Zandt's first studio album in the nine years that followed 1978's "Flyin' Shoes", and his only studio album recorded in the 1980s. Although the songwriter had become less prolific, this release showed that the quality of his material remained high.»
+[2] «Windows and Walls | Windows and Walls is the eighth album by American singer-songwriter Dan Fogelberg, released in 1984 (see 1984 in music). The first single, "The Language of Love", reached 13 on the U.S. "Billboard" Hot 100 chart. Although the follow-up, "Believe in Me", missed the Top 40 of the pop chart, peaking at No. 48, it became the singer's fourth No. 1 song on the "Billboard" adult contemporary chart.»
+[3] «My Side of Your Window | My Side of Your Window is the third album released in the UK by British folk musician Ralph McTell, and the first produced by the artist himself.»
+
+[[ ## question ## ]]
+At My Window was released by which American singer-songwriter?
+
+Respond with the corresponding output fields, starting with the field `[[ ## reasoning ## ]]`, then `[[ ## answer ## ]]`, and then ending with the marker for `[[ ## completed ## ]]`.
+
+
+Response:
+
+[[ ## reasoning ## ]]
+The context explicitly states that "At My Window is an album released by Folk/country singer-songwriter Townes Van Zandt in 1987." This directly answers the question about which American singer-songwriter released the album.
+
+[[ ## answer ## ]]
+Townes Van Zandt
+
+[[ ## completed ## ]]

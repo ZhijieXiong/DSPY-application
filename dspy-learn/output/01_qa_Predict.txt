@@ -1,0 +1,54 @@
+[2024-11-02T19:40:20.126300]
+
+**System message:**
+Your input fields are:
+1. `question` (str)
+
+Your output fields are:
+1. `answer` (str)
+
+All interactions will be structured in the following way, with the appropriate values filled in.
+
+[[ ## question ## ]]
+{question}
+
+[[ ## answer ## ]]
+{answer}
+
+[[ ## completed ## ]]
+
+In adhering to this structure, your objective is: 
+        Answer questions with reasoning. Step by step.
+
+
+**User message:**
+[[ ## question ## ]]
+Janet’s ducks lay 16 eggs per day. She eats three for breakfast every morning and bakes muffins for her friends every day with four. She sells the remainder at the farmers' market daily for $2 per fresh duck egg. How much in dollars does she make every day at the farmers' market?
+
+Respond with the corresponding output fields, starting with the field `[[ ## answer ## ]]`, and then ending with the marker for `[[ ## completed ## ]]`.
+
+
+**Response:**
+[[ ## answer ## ]]
+To determine how much Janet makes every day at the farmers' market, we need to follow these steps:
+
+1. **Calculate the total number of eggs consumed daily:**
+   - Janet eats 3 eggs for breakfast.
+   - She bakes muffins with 4 eggs.
+   - Total eggs consumed = 3 (breakfast) + 4 (muffins) = 7 eggs.
+
+2. **Calculate the number of eggs sold daily:**
+   - Janet’s ducks lay 16 eggs per day.
+   - Eggs sold = Total eggs laid - Eggs consumed = 16 - 7 = 9 eggs.
+
+3. **Calculate the revenue from selling the eggs:**
+   - Janet sells each egg for $2.
+   - Daily revenue = Number of eggs sold * Price per egg = 9 * $2 = $18.
+
+Therefore, Janet makes $18 every day at the farmers' market.
+
+[[ ## completed ## ]]
+
+
+
+

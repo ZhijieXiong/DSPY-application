@@ -1,0 +1,46 @@
+{
+  "builder_name": "parquet",
+  "citation": "@article{suzgun2022challenging,\n  title={Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them},\n  author={Suzgun, Mirac and Scales, Nathan and Sch{\"a}rli, Nathanael and Gehrmann, Sebastian and Tay, Yi and Chung, Hyung Won and Chowdhery, Aakanksha and Le, Quoc V and Chi, Ed H and Zhou, Denny and and Wei, Jason},\n  journal={arXiv preprint arXiv:2210.09261},\n  year={2022}\n}\n",
+  "config_name": "temporal_sequences",
+  "dataset_name": "bigbenchhard",
+  "dataset_size": 139546,
+  "description": "BIG-Bench (Srivastava et al., 2022) is a diverse evaluation suite that focuses on tasks believed to be beyond the capabilities of current language models. Language models have already made good progress on this benchmark, with the best model in the BIG-Bench paper outperforming average reported human-rater results on 65% of the BIG-Bench tasks via few-shot prompting. But on what tasks do language models fall short of average human-rater performance, and are those tasks actually unsolvable by current language models?\n",
+  "download_checksums": {
+    "hf://datasets/maveriq/bigbenchhard@a493490a030bfe06c7baa2db022263afbfa04cfb/temporal_sequences/train/0000.parquet": {
+      "num_bytes": 35571,
+      "checksum": null
+    }
+  },
+  "download_size": 35571,
+  "features": {
+    "input": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "target": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "https://github.com/suzgunmirac/BIG-Bench-Hard",
+  "license": "MIT license",
+  "size_in_bytes": 175117,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 139546,
+      "num_examples": 250,
+      "dataset_name": "bigbenchhard"
+    }
+  },
+  "supervised_keys": {
+    "input": "input",
+    "output": "target"
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

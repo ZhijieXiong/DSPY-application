@@ -1,0 +1,11 @@
+**/*.pyc
+**/.DS_Store
+**/__pycache__/
+
+
+/dspy-demo
+
+/papers
+paper_note.md
+/imgs
+
