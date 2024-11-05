@@ -1,7 +1,6 @@
 **/*.pyc
 **/.DS_Store
 **/__pycache__/
-**/.idea
 
 
 /dspy-demo
@@ -10,3 +9,6 @@
 paper_note.md
 /imgs
 
+/dspy-project/DOTS/output
+/dspy-project/DOTS/model.py
+/dspy-project/DOTS/case

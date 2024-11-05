@@ -6,7 +6,7 @@ import argparse
 
 
 from get_big_bench_hard_data import get_dspy_data
-from remote_llm.GLM import GLM
+from local_llm.LocalLLM import LocalLLM
 from evaluate import evaluate_from_last
 
 
@@ -30,8 +30,8 @@ if __name__ == "__main__":
         os.mkdir(output_dir)
 
     # 选择LLM
-    if args.llm in ["glm-4-plus"]:
-        dspy_lm = GLM("zhipu/glm-4-plus")
+    if args.llm in ["llama2-7b-chat", "llama2-7b-chat-hf", "llama3-8b-instruct"]:
+        dspy_lm = LocalLLM(args.llm)
     else:
         raise NotImplementedError()
     dspy.configure(lm=dspy_lm)

@@ -1,0 +1,224 @@
+[2024-11-05T12:56:52.680101]
+
+**System message:**
+Your input fields are:
+1. `question` (str)
+2. `trajectory` (str)
+
+Your output fields are:
+1. `next_thought` (str)
+2. `next_tool_name` (Literal[Search, finish])
+3. `next_tool_args` (dict[str, Any])
+
+All interactions will be structured in the following way, with the appropriate values filled in.
+
+[[ ## question ## ]]
+{question}
+
+[[ ## trajectory ## ]]
+{trajectory}
+
+[[ ## next_thought ## ]]
+{next_thought}
+
+[[ ## next_tool_name ## ]]
+{next_tool_name}        # note: the value you produce must be one of: Search; finish
+
+[[ ## next_tool_args ## ]]
+{next_tool_args}        # note: the value you produce must be pareseable according to the following JSON schema: {"type": "object"}
+
+[[ ## completed ## ]]
+
+In adhering to this structure, your objective is: 
+        Answer questions with reasoning.
+        
+        You will be given `question` and your goal is to finish with `answer`.
+        
+        To do this, you will interleave Thought, Tool Name, and Tool Args, and receive a resulting Observation.
+        
+        Thought can reason about the current situation, and Tool Name can be the following types:
+        
+        (1) Search, whose description is <desc>takes a search query and returns one or more potentially relevant passages from a corpus</desc>. It takes arguments {'query': <class 'str'>} in JSON format.
+        (2) finish, whose description is <desc>Signals that the final outputs, i.e. `answer`, are now available and marks the task as complete.</desc>. It takes arguments {} in JSON format.
+
+
+**User message:**
+[[ ## question ## ]]
+At My Window was released by which American singer-songwriter?
+
+[[ ## trajectory ## ]]
+
+Respond with the corresponding output fields, starting with the field `[[ ## next_thought ## ]]`, then `[[ ## next_tool_name ## ]]` (must be formatted as a valid Python Literal[Search, finish]), then `[[ ## next_tool_args ## ]]` (must be formatted as a valid Python dict[str, Any]), and then ending with the marker for `[[ ## completed ## ]]`.
+
+
+**Response:**
+[[ ## next_thought ## ]]
+To find out which American singer-songwriter released the song "At My Window," I need to perform a search.
+
+[[ ## next_tool_name ## ]]
+Search
+
+[[ ## next_tool_args ## ]]
+{"query": "At My Window American singer-songwriter"}
+
+
+
+
+[2024-11-05T12:56:57.175402]
+
+**System message:**
+Your input fields are:
+1. `question` (str)
+2. `trajectory` (str)
+
+Your output fields are:
+1. `next_thought` (str)
+2. `next_tool_name` (Literal[Search, finish])
+3. `next_tool_args` (dict[str, Any])
+
+All interactions will be structured in the following way, with the appropriate values filled in.
+
+[[ ## question ## ]]
+{question}
+
+[[ ## trajectory ## ]]
+{trajectory}
+
+[[ ## next_thought ## ]]
+{next_thought}
+
+[[ ## next_tool_name ## ]]
+{next_tool_name}        # note: the value you produce must be one of: Search; finish
+
+[[ ## next_tool_args ## ]]
+{next_tool_args}        # note: the value you produce must be pareseable according to the following JSON schema: {"type": "object"}
+
+[[ ## completed ## ]]
+
+In adhering to this structure, your objective is: 
+        Answer questions with reasoning.
+        
+        You will be given `question` and your goal is to finish with `answer`.
+        
+        To do this, you will interleave Thought, Tool Name, and Tool Args, and receive a resulting Observation.
+        
+        Thought can reason about the current situation, and Tool Name can be the following types:
+        
+        (1) Search, whose description is <desc>takes a search query and returns one or more potentially relevant passages from a corpus</desc>. It takes arguments {'query': <class 'str'>} in JSON format.
+        (2) finish, whose description is <desc>Signals that the final outputs, i.e. `answer`, are now available and marks the task as complete.</desc>. It takes arguments {} in JSON format.
+
+
+**User message:**
+[[ ## question ## ]]
+At My Window was released by which American singer-songwriter?
+
+[[ ## trajectory ## ]]
+[[ ## thought_0 ## ]]
+To find out which American singer-songwriter released the song "At My Window," I need to perform a search.
+
+[[ ## tool_name_0 ## ]]
+Search
+
+[[ ## tool_args_0 ## ]]
+{"query": "At My Window American singer-songwriter"}
+
+[[ ## observation_0 ## ]]
+Prediction(
+    passages=['At My Window (album) | At My Window is an album released by Folk/country singer-songwriter Townes Van Zandt in 1987. This was Van Zandt\'s first studio album in the nine years that followed 1978\'s "Flyin\' Shoes", and his only studio album recorded in the 1980s. Although the songwriter had become less prolific, this release showed that the quality of his material remained high.']
+)
+
+Respond with the corresponding output fields, starting with the field `[[ ## next_thought ## ]]`, then `[[ ## next_tool_name ## ]]` (must be formatted as a valid Python Literal[Search, finish]), then `[[ ## next_tool_args ## ]]` (must be formatted as a valid Python dict[str, Any]), and then ending with the marker for `[[ ## completed ## ]]`.
+
+
+**Response:**
+[[ ## next_thought ## ]]
+The search result indicates that "At My Window" is an album released by the American singer-songwriter Townes Van Zandt in 1987. This information directly answers the question.
+
+[[ ## next_tool_name ## ]]
+finish
+
+[[ ## next_tool_args ## ]]
+{}
+
+[[ ## completed ## ]]
+
+
+
+
+[2024-11-05T12:57:00.948800]
+
+**System message:**
+Your input fields are:
+1. `question` (str)
+2. `trajectory` (str)
+
+Your output fields are:
+1. `reasoning` (str)
+2. `answer` (str)
+
+All interactions will be structured in the following way, with the appropriate values filled in.
+
+[[ ## question ## ]]
+{question}
+
+[[ ## trajectory ## ]]
+{trajectory}
+
+[[ ## reasoning ## ]]
+{reasoning}
+
+[[ ## answer ## ]]
+{answer}
+
+[[ ## completed ## ]]
+
+In adhering to this structure, your objective is: 
+        Given the fields `question`, produce the fields `answer`.
+
+
+**User message:**
+[[ ## question ## ]]
+At My Window was released by which American singer-songwriter?
+
+[[ ## trajectory ## ]]
+[[ ## thought_0 ## ]]
+To find out which American singer-songwriter released the song "At My Window," I need to perform a search.
+
+[[ ## tool_name_0 ## ]]
+Search
+
+[[ ## tool_args_0 ## ]]
+{"query": "At My Window American singer-songwriter"}
+
+[[ ## observation_0 ## ]]
+Prediction(
+    passages=['At My Window (album) | At My Window is an album released by Folk/country singer-songwriter Townes Van Zandt in 1987. This was Van Zandt\'s first studio album in the nine years that followed 1978\'s "Flyin\' Shoes", and his only studio album recorded in the 1980s. Although the songwriter had become less prolific, this release showed that the quality of his material remained high.']
+)
+
+[[ ## thought_1 ## ]]
+The search result indicates that "At My Window" is an album released by the American singer-songwriter Townes Van Zandt in 1987. This information directly answers the question.
+
+[[ ## tool_name_1 ## ]]
+finish
+
+[[ ## tool_args_1 ## ]]
+{}
+
+[[ ## observation_1 ## ]]
+Completed.
+
+Respond with the corresponding output fields, starting with the field `[[ ## reasoning ## ]]`, then `[[ ## answer ## ]]`, and then ending with the marker for `[[ ## completed ## ]]`.
+
+
+**Response:**
+[[ ## reasoning ## ]]
+The search result indicates that "At My Window" is an album released by the American singer-songwriter Townes Van Zandt in 1987. This information directly answers the question.
+
+[[ ## answer ## ]]
+Townes Van Zandt
+
+[[ ## completed ## ]]
+
+
+
+

@@ -21,9 +21,9 @@ if __name__ == "__main__":
                         choices=['computer science', 'math', 'chemistry', 'engineering', 'law', 'biology',
                                  'health', 'physics', 'business', 'philosophy', 'economics', 'other',
                                  'psychology', 'history'])
-    parser.add_argument("--prompt_method", type=str, default="Predict",
+    parser.add_argument("--prompt_method", type=str, default="PoT",
                         choices=("Predict", "CoT", "PoT"))
-    parser.add_argument("--num2evaluate", type=int, default=5)
+    parser.add_argument("--num2evaluate", type=int, default=35)
     args = parser.parse_args()
 
     # 获取当前目录
@@ -37,7 +37,6 @@ if __name__ == "__main__":
         os.mkdir(output_dir)
 
     if args.llm in ["glm-4-plus"]:
-        # remote
         dspy_lm = GLM("zhipu/glm-4-plus")
     else:
         raise NotImplementedError()

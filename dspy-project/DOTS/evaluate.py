@@ -33,7 +33,7 @@ def evaluate_from_last(data, output_path, dspy_predictor, args):
             }
             if args.prompt_method in ["CoT", "PoT"]:
                 qa_results[q_id]["reasoning"] = predict_response.reasoning
-        except ValueError:
+        except:
             # 可能LLM不按照格式输出，导致解析错误，目前就随便输出错误字符串，当作做错
             qa_results[q_id] = {
                 "question": example.question,
