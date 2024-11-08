@@ -20,7 +20,6 @@ def evaluate_from_last(data, output_path, dspy_predictor, args):
         idx_start = max(indices_evaluated) + 1
         data2evaluate = data[idx_start: idx_start + args.num2evaluate]
 
-    print("start evaluating")
     for i, example in enumerate(tqdm(data2evaluate)):
         q_id = i + idx_start
 

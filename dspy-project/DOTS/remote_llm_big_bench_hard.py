@@ -8,15 +8,26 @@ import argparse
 from get_big_bench_hard_data import get_dspy_data
 from remote_llm.GLM import GLM
 from evaluate import evaluate_from_last
+from model import DOTS
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--llm", type=str, default="glm-4-plus")
-    parser.add_argument("--subset", type=str, default="causal_judgement")
-    parser.add_argument("--prompt_method", type=str, default="CoT",
-                        choices=("Predict", "CoT", "PoT"))
-    parser.add_argument("--num2evaluate", type=int, default=5)
+    parser.add_argument("--subset", type=str, default="causal_judgement",
+                        choices=["tracking_shuffled_objects_seven_objects", "salient_translation_error_detection",
+                                 "tracking_shuffled_objects_three_objects", "geometric_shapes", "object_counting",
+                                 "word_sorting", "logical_deduction_five_objects", "hyperbaton", "sports_understanding",
+                                 "logical_deduction_seven_objects", "multistep_arithmetic_two", "ruin_names",
+                                 "causal_judgement", "logical_deduction_three_objects", "formal_fallacies", "snarks",
+                                 "boolean_expressions", "reasoning_about_colored_objects", "dyck_languages", "navigate",
+                                 "disambiguation_qa", "temporal_sequences", "web_of_lies",
+                                 "tracking_shuffled_objects_five_objects",
+                                 "penguins_in_a_table", "movie_recommendation", "date_understanding"]
+                        )
+    parser.add_argument("--prompt_method", type=str, default="DOTS",
+                        choices=("Predict", "CoT", "PoT", "DOTS"))
+    parser.add_argument("--num2evaluate", type=int, default=3)
     args = parser.parse_args()
 
     # 获取当前目录
@@ -43,6 +54,8 @@ if __name__ == "__main__":
         predictor = dspy.ChainOfThought("question -> answer")
     elif args.prompt_method == "PoT":
         predictor = dspy.ProgramOfThought("question -> answer")
+    elif args.prompt_method == "DOTS":
+        predictor = DOTS()
     else:
         raise NotImplementedError()
 
@@ -54,24 +67,3 @@ if __name__ == "__main__":
 
     with open(output_path, 'w') as file:
         file.write(json.dumps(qa_results, indent=4))
-
-    result_path = os.path.join(output_dir, f"result_{dataset_name}_{args.llm}.json")
-    if not os.path.exists(result_path):
-        evaluation_result = {args.subset: {}}
-    else:
-        with open(result_path, 'r') as file:
-            evaluation_result = json.load(file)
-
-    scores = []
-    for qa in qa_results.values():
-        score = float(qa["answer"].lower() == qa["response"].strip().strip("(").strip(")").strip().lower())
-        scores.append(score)
-
-    if args.subset not in evaluation_result:
-        evaluation_result[args.subset] = {}
-    evaluation_result[args.subset][args.prompt_method] = {
-        "acc": sum(scores) / len(scores)
-    }
-
-    with open(result_path, 'w') as file:
-        file.write(json.dumps(evaluation_result, indent=4))

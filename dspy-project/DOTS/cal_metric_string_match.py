@@ -13,8 +13,8 @@ if __name__ == "__main__":
     parser.add_argument("--llm", type=str, default="glm-4-plus")
     parser.add_argument("--dataset_name", type=str, default="big_bench_hard")
     parser.add_argument("--subset", type=str, default="causal_judgement")
-    parser.add_argument("--prompt_method", type=str, default="CoT",
-                        choices=("Predict", "CoT", "PoT"))
+    parser.add_argument("--prompt_method", type=str, default="PoT",
+                        choices=("Predict", "CoT", "PoT", "DOTS"))
     args = parser.parse_args()
 
     # 获取当前目录
@@ -24,9 +24,10 @@ if __name__ == "__main__":
     # 创建输出目录
     output_dir = os.path.join(current_dir, "output")
     if not os.path.exists(output_dir):
-        os.mkdir(output_dir)
+        sys.exit(0)
 
-    output_path = os.path.join(output_dir, f"output_{args.dataset_name}_{args.subset}_{args.llm}_{args.prompt_method}.json")
+    output_path = os.path.join(output_dir,
+                               f"output_{args.dataset_name}_{args.subset}_{args.llm}_{args.prompt_method}.json")
     if not os.path.exists(output_path):
         sys.exit(0)
 
@@ -36,7 +37,12 @@ if __name__ == "__main__":
     if len(qa_results) == 0:
         sys.exit(0)
 
-    result_path = os.path.join(output_dir, f"metric_string_match_{args.dataset_name}_{args.llm}.json")
+    # 创建输出目录
+    result_dir = os.path.join(current_dir, "metric")
+    if not os.path.exists(result_dir):
+        os.mkdir(result_dir)
+
+    result_path = os.path.join(result_dir, f"metric_string_match_{args.dataset_name}_{args.llm}.json")
     if not os.path.exists(result_path):
         evaluation_result = {args.subset: {}}
     else:

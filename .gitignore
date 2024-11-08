@@ -10,5 +10,7 @@ paper_note.md
 /imgs
 
 /dspy-project/DOTS/output
+/dspy-project/DOTS/metric
 /dspy-project/DOTS/model.py
 /dspy-project/DOTS/case
+/dspy-project/DOTS/simple_evals

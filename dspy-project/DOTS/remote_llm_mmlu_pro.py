@@ -7,6 +7,7 @@ import dspy
 from get_mmlu_pro import get_dspy_data
 from remote_llm.GLM import GLM
 from evaluate import evaluate_from_last
+from model import DOTS
 
 
 class BasicQA(dspy.Signature):
@@ -22,7 +23,7 @@ if __name__ == "__main__":
                                  'health', 'physics', 'business', 'philosophy', 'economics', 'other',
                                  'psychology', 'history'])
     parser.add_argument("--prompt_method", type=str, default="PoT",
-                        choices=("Predict", "CoT", "PoT"))
+                        choices=("Predict", "CoT", "PoT", "DOTS"))
     parser.add_argument("--num2evaluate", type=int, default=35)
     args = parser.parse_args()
 
@@ -48,8 +49,9 @@ if __name__ == "__main__":
     elif args.prompt_method == "CoT":
         predictor = dspy.ChainOfThought(BasicQA)
     elif args.prompt_method == "PoT":
-        # 有问题
         predictor = dspy.ProgramOfThought(BasicQA)
+    elif args.prompt_method == "DOTS":
+        predictor = DOTS()
     else:
         raise NotImplementedError()
 
@@ -61,25 +63,3 @@ if __name__ == "__main__":
 
     with open(output_path, 'w') as file:
         file.write(json.dumps(qa_results, indent=4))
-
-    # 计算ACC
-    result_path = os.path.join(output_dir, f"result_{dataset_name}_{args.llm}.json")
-    if not os.path.exists(result_path):
-        metric_results = {args.subset: {}}
-    else:
-        with open(result_path, 'r') as file:
-            metric_results = json.load(file)
-
-    scores = []
-    for qa in qa_results.values():
-        score = float(qa["answer"].lower() == qa["response"].strip().strip("(").strip(")").strip().lower())
-        scores.append(score)
-
-    if args.subset not in metric_results:
-        metric_results[args.subset] = {}
-    metric_results[args.subset][args.prompt_method] = {
-        "acc": sum(scores) / len(scores)
-    }
-
-    with open(result_path, 'w') as file:
-        file.write(json.dumps(metric_results, indent=4))
