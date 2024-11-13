@@ -3,10 +3,15 @@ import torch
 import os
 import transformers
 from datetime import datetime
-from transformers import AutoTokenizer
+from transformers import AutoTokenizer, AutoModelForCausalLM
 
+# 运行
 from .model.llama2.generation import Llama as Llama2
 from .model.llama3.generation import Llama as Llama3
+
+# 调试
+# from model.llama2.generation import Llama as Llama2
+# from model.llama3.generation import Llama as Llama3
 
 
 MODEL_NAME2TYPE = {
@@ -16,12 +21,12 @@ MODEL_NAME2TYPE = {
 
 
 LLM_DIR = "/data/xiongzj/LLM"
-LLMs = ["llama2-7b-chat", "llama2-7b-chat-hf", "llama3-8b-instruct"]
+LLMs = ["llama2-7b-chat", "llama2-7b-chat-hf", "llama3-8b-instruct", "Qwen2-7B-instruct", "Qwen2.5-Math-7B-Instruct"]
 LLM_DICT = {
     llm_name: {
-        "path": os.path.join(LLM_DIR, llm_name), 
+        "path": os.path.join(LLM_DIR, llm_name),
         "is_hf": "hf" in llm_name
-    } 
+    }
     for llm_name in LLMs
 }
 
@@ -77,6 +82,13 @@ class LocalLLM(dspy.LM):
                 device_map="auto",
             )
             self.tokenizer = AutoTokenizer.from_pretrained(LLM_DICT[llm_name]["path"])
+        elif "Qwen" in llm_name:
+            self.model = AutoModelForCausalLM.from_pretrained(
+                LLM_DICT[llm_name]["path"],
+                torch_dtype="auto",
+                device_map="auto"
+            )
+            self.tokenizer = AutoTokenizer.from_pretrained(LLM_DICT[llm_name]["path"])
         else:
             self.model = MODEL_NAME2TYPE[llm_name].build(
                 ckpt_dir=LLM_DICT[llm_name]["path"],
@@ -98,18 +110,33 @@ class LocalLLM(dspy.LM):
                 num_return_sequences=1,
                 eos_token_id=self.tokenizer.eos_token_id,
                 truncation=False,
-                max_length=8192,
+                max_length=8192*2,
             )
             generated_text = sequences[0]["generated_text"]
+        elif "Qwen" in self.llm_name:
+            text = self.tokenizer.apply_chat_template(
+                messages,
+                tokenize=False,
+                add_generation_prompt=True
+            )
+            model_inputs = self.tokenizer([text], return_tensors="pt").to(self.model.device)
+            generated_ids = self.model.generate(
+                **model_inputs,
+                max_new_tokens=8192*2
+            )
+            generated_ids = [
+                output_ids[len(input_ids):] for input_ids, output_ids in zip(model_inputs.input_ids, generated_ids)
+            ]
+            generated_text = self.tokenizer.batch_decode(generated_ids, skip_special_tokens=True)[0]
         else:
             generated_results = self.model.chat_completion(
                 [messages],
-                max_gen_len=None,
+                max_gen_len=8192*2,
                 # temperature=params["temperature"],
                 # top_p=params["top_p"],
             )
             generated_text = generated_results[0]['generation']['content']
-        
+
         outputs = [generated_text]
         self.history.append({"messages": messages, "outputs": outputs, "timestamp": datetime.now().isoformat()})
 
@@ -121,7 +148,7 @@ class LocalLLM(dspy.LM):
 
 
 # if __name__ == "__main__":
-#     lm = LocalLLM("llama3-8b-instruct")
+#     lm = LocalLLM("Qwen2-7B-instruct")
 #     dspy.configure(lm=lm)
 
 #     qa = dspy.ChainOfThought("question->answer")

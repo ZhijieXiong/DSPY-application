@@ -5,8 +5,12 @@ import inspect
 import dspy
 
 
-from get_mmlu_pro import get_dspy_data
+import config
+# 不用管显示报错，实际可以运行，手动将local_llm添加到路径中了的
 from local_llm.LocalLLM import LocalLLM
+
+
+from get_mmlu_pro import get_dspy_data
 from evaluate import evaluate_from_last
 from model import DOTS
 

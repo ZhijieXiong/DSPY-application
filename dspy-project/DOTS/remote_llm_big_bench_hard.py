@@ -5,8 +5,12 @@ import inspect
 import argparse
 
 
-from get_big_bench_hard_data import get_dspy_data
+import config
+# 不用管显示报错，实际可以运行，手动将remote_llm添加到路径中了的
 from remote_llm.GLM import GLM
+
+
+from get_big_bench_hard_data import get_dspy_data
 from evaluate import evaluate_from_last
 from model import DOTS
 
