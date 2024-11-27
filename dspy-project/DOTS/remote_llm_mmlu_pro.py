@@ -8,6 +8,7 @@ import dspy
 import config
 # 不用管显示报错，实际可以运行，手动将remote_llm添加到路径中了的
 from remote_llm.GLM import GLM
+from remote_llm.BaiLian import BaiLian
 
 
 from get_mmlu_pro import get_dspy_data
@@ -43,7 +44,9 @@ if __name__ == "__main__":
         os.mkdir(output_dir)
 
     if args.llm in ["glm-4-plus"]:
-        dspy_lm = GLM("zhipu/glm-4-plus")
+        dspy_lm = GLM(f"zhipu/{args.llm}")
+    elif args.llm in ["qwen-plus"]:
+        dspy_lm = BaiLian(f"bailian/{args.llm}")
     else:
         raise NotImplementedError()
     dspy.configure(lm=dspy_lm)

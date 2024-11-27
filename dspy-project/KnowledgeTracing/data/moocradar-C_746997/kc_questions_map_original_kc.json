@@ -1,0 +1,1827 @@
+{
+  "Voltage current characteristics of semiconductor diodes": [
+    0,
+    1,
+    3
+  ],
+  "Unidirectional conductivity": [
+    0,
+    1
+  ],
+  "Electronic Science and Technology": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    96,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183,
+    184,
+    185,
+    186,
+    187,
+    188,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222,
+    223,
+    224,
+    225,
+    226,
+    227,
+    228,
+    229,
+    230,
+    231,
+    310,
+    406
+  ],
+  "Reverse current": [
+    2
+  ],
+  "Positive conduction voltage drop": [
+    2
+  ],
+  "Transistor characteristics": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    36,
+    37
+  ],
+  "Crystal transistor": [
+    4,
+    5,
+    34
+  ],
+  "Magnify state": [
+    6
+  ],
+  "Penetrating current": [
+    7,
+    81
+  ],
+  "Junction voltage current": [
+    8
+  ],
+  "Input characteristic curve": [
+    9
+  ],
+  "Output characteristic curve": [
+    10,
+    11,
+    80,
+    81,
+    142
+  ],
+  "DC component ": [
+    12
+  ],
+  "Amplifying circuit": [
+    12,
+    16,
+    17,
+    18,
+    29,
+    30,
+    31,
+    32,
+    33,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    102,
+    103,
+    104,
+    105,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    276,
+    277,
+    297,
+    298,
+    299,
+    303,
+    323,
+    324,
+    330,
+    331,
+    332,
+    364,
+    370,
+    371,
+    372,
+    373,
+    374,
+    375,
+    376,
+    377,
+    378,
+    379,
+    380,
+    381,
+    382,
+    383,
+    384,
+    385,
+    386,
+    387,
+    388,
+    389,
+    390,
+    391,
+    392,
+    393,
+    398,
+    402,
+    403,
+    404,
+    405,
+    406,
+    407,
+    408,
+    409,
+    411,
+    412,
+    413,
+    494,
+    498
+  ],
+  "Resistive capacitance coupling amplification circuit": [
+    13,
+    15,
+    17,
+    355,
+    512,
+    514
+  ],
+  "Communication component": [
+    13
+  ],
+  "Direct coupling amplification circuit": [
+    14,
+    16,
+    17,
+    244,
+    513,
+    515,
+    518
+  ],
+  "DC signal": [
+    14
+  ],
+  "Communication signal": [
+    15,
+    180,
+    181,
+    183
+  ],
+  "Signal distortion": [
+    18
+  ],
+  "output characteristic ": [
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "graphic method": [
+    19,
+    20,
+    21,
+    22,
+    23,
+    31,
+    32,
+    33
+  ],
+  "Common emitter amplifier circuit": [
+    19,
+    20,
+    21,
+    22,
+    23,
+    28,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    197,
+    200,
+    209,
+    210,
+    326,
+    341,
+    377,
+    385,
+    389
+  ],
+  "Distortion analysis": [
+    19,
+    20,
+    21,
+    22,
+    23,
+    77
+  ],
+  "Basic common emitter amplifier circuit": [
+    24
+  ],
+  "Saturation distortion": [
+    24,
+    320
+  ],
+  "Transistor status": [
+    25
+  ],
+  "Static potential": [
+    25
+  ],
+  "Circuit": [
+    25,
+    29
+  ],
+  "Basic amplifier circuit": [
+    26,
+    27,
+    113,
+    547
+  ],
+  "Communication channels": [
+    30
+  ],
+  "DC path": [
+    30
+  ],
+  "Maximum dissipated power of collector": [
+    34
+  ],
+  "Co injection DC current amplification factor": [
+    35
+  ],
+  "Co injection AC current amplification factor": [
+    35
+  ],
+  "Saturation tube pressure drop": [
+    36,
+    346
+  ],
+  "characteristic frequency": [
+    37,
+    369
+  ],
+  "Static working point": [
+    38,
+    39,
+    40,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    67,
+    68,
+    76,
+    80,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    193,
+    304,
+    359,
+    425
+  ],
+  "Input resistance": [
+    38,
+    43,
+    46,
+    72,
+    102,
+    105,
+    108,
+    109,
+    130,
+    131,
+    162,
+    178,
+    181,
+    191,
+    282
+  ],
+  "Voltage amplification factor": [
+    39,
+    42,
+    48,
+    94,
+    95,
+    101,
+    104,
+    111,
+    129,
+    161,
+    175,
+    189,
+    190,
+    211,
+    239,
+    272,
+    273,
+    277,
+    281,
+    319,
+    408,
+    458,
+    475,
+    536,
+    537
+  ],
+  "Output resistance": [
+    44,
+    47,
+    71,
+    74,
+    103,
+    110,
+    163,
+    179,
+    182,
+    192
+  ],
+  "Static current": [
+    45,
+    301,
+    302
+  ],
+  "Stable circuit": [
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93
+  ],
+  "Divided pressure working point": [
+    56
+  ],
+  "Stable static working point": [
+    57,
+    58,
+    59,
+    60
+  ],
+  "temperature compensation": [
+    57,
+    58
+  ],
+  "DC negative feedback": [
+    57,
+    249,
+    296,
+    463
+  ],
+  "Positive temperature coefficient": [
+    59
+  ],
+  "Thermistor": [
+    59,
+    60
+  ],
+  "Negative temperature coefficient": [
+    60
+  ],
+  "DC equivalent model": [
+    61,
+    62,
+    63,
+    64
+  ],
+  "H-parameter equivalent model": [
+    65,
+    66,
+    67,
+    68,
+    69
+  ],
+  "High frequency small signal": [
+    66
+  ],
+  "Collector current": [
+    69
+  ],
+  "Internal resistance of signal source": [
+    73
+  ],
+  "Load resistance": [
+    74,
+    406,
+    412
+  ],
+  "output voltage ": [
+    75
+  ],
+  "Equivalent circuit for communication": [
+    76,
+    79,
+    370,
+    372,
+    373,
+    380,
+    381
+  ],
+  "Graphical analysis": [
+    77,
+    78
+  ],
+  "High frequency large signal analysis": [
+    78
+  ],
+  "Current amplification factor": [
+    82,
+    212
+  ],
+  "negative feedback": [
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    498
+  ],
+  "Transistor parameters": [
+    94,
+    95
+  ],
+  "temperature stability ": [
+    96
+  ],
+  "Collective amplification circuit": [
+    97,
+    98,
+    99,
+    100,
+    196,
+    198,
+    201,
+    517
+  ],
+  "Common base amplifier circuit": [
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    125,
+    126,
+    127,
+    128,
+    131
+  ],
+  "Basic Circuit Connections": [
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112
+  ],
+  "Current amplification capability": [
+    112
+  ],
+  "Voltage following characteristics": [
+    113
+  ],
+  "configuration": [
+    113
+  ],
+  "Common base circuit": [
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    129,
+    130,
+    388
+  ],
+  "common-base configuration ": [
+    114,
+    118,
+    120,
+    124
+  ],
+  "Collective configuration": [
+    115,
+    116,
+    119,
+    121,
+    122
+  ],
+  "Co injection configuration": [
+    117,
+    123
+  ],
+  "N-channel junction field-effect transistor": [
+    132,
+    133,
+    134,
+    135,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    159
+  ],
+  "Deadline Zone": [
+    136
+  ],
+  "Constant current zone": [
+    136,
+    184,
+    186,
+    187,
+    188
+  ],
+  "Variable resistance area": [
+    136,
+    138,
+    141,
+    185
+  ],
+  "Transfer characteristic curve": [
+    137
+  ],
+  "Pre clamping trajectory": [
+    139
+  ],
+  "Pinch off zone": [
+    140
+  ],
+  "Enhanced type": [
+    143,
+    144,
+    145,
+    146,
+    147,
+    154,
+    159
+  ],
+  "Conductive channel": [
+    148,
+    150,
+    152,
+    154,
+    155
+  ],
+  "N-channel depletion type": [
+    149,
+    150,
+    151,
+    152,
+    155,
+    157,
+    158
+  ],
+  "Junction field-effect transistor": [
+    153,
+    156,
+    158,
+    203,
+    206,
+    207,
+    208
+  ],
+  "Conductive channel type": [
+    153
+  ],
+  "Equivalent resistance": [
+    156,
+    157
+  ],
+  "P-channel enhanced MOS transistor": [
+    160
+  ],
+  "Static voltage": [
+    169
+  ],
+  "Low frequency characteristics": [
+    174,
+    323,
+    402,
+    413
+  ],
+  "Circuit performance": [
+    176
+  ],
+  "High frequency characteristics": [
+    177,
+    363
+  ],
+  "Multi-stage amplification circuit": [
+    189,
+    190,
+    191,
+    192,
+    193,
+    194,
+    195,
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211,
+    212,
+    394,
+    395,
+    396,
+    397,
+    399,
+    401,
+    525
+  ],
+  "Input level": [
+    194,
+    325
+  ],
+  "Output stage": [
+    195,
+    314,
+    316,
+    322
+  ],
+  "Common source amplification circuit": [
+    199,
+    209,
+    210,
+    211
+  ],
+  "Voltage Divider Biasing Circuit ": [
+    202,
+    205
+  ],
+  "Depletion type MOS transistor": [
+    202
+  ],
+  "Self-sufficient bias circuit": [
+    203,
+    204
+  ],
+  "Enhanced MOS transistor": [
+    204,
+    205
+  ],
+  "Communication Equivalent Model": [
+    206,
+    207
+  ],
+  "Leakage current": [
+    208
+  ],
+  "Composite pipe": [
+    212,
+    213,
+    214
+  ],
+  "Dual ended input": [
+    215,
+    216
+  ],
+  "Common mode rejection ratio": [
+    216,
+    234,
+    259,
+    274,
+    276,
+    278,
+    279,
+    335
+  ],
+  "Characteristic Ideal Symmetry": [
+    217,
+    218
+  ],
+  "a vd ": [
+    219,
+    228,
+    299
+  ],
+  "Output changes": [
+    220
+  ],
+  "Circuit amplification": [
+    221
+  ],
+  "Differential amplification circuit": [
+    222,
+    223,
+    227,
+    230,
+    231,
+    238,
+    243,
+    245,
+    246,
+    247,
+    248,
+    249,
+    250,
+    251,
+    252,
+    253,
+    254,
+    255,
+    256,
+    257,
+    258,
+    259,
+    260,
+    261,
+    262,
+    263,
+    264,
+    265,
+    266,
+    267,
+    268,
+    269,
+    270,
+    271,
+    272,
+    273,
+    274,
+    275,
+    276,
+    277,
+    278,
+    279,
+    280,
+    281,
+    282,
+    283,
+    284,
+    285,
+    286,
+    287,
+    288,
+    289,
+    290,
+    291,
+    292,
+    300,
+    301,
+    325,
+    329,
+    340,
+    344,
+    345
+  ],
+  "Differential signal effect": [
+    224,
+    226
+  ],
+  "Common mode (signal)": [
+    225
+  ],
+  "common-mode gain ": [
+    229
+  ],
+  "operational amplifier ": [
+    232,
+    233,
+    234,
+    235,
+    235,
+    236,
+    237,
+    238,
+    239,
+    532,
+    533
+  ],
+  "Active load": [
+    235,
+    297,
+    305,
+    306,
+    336
+  ],
+  "Bias circuit": [
+    236,
+    324,
+    337
+  ],
+  "Direct coupling method": [
+    237
+  ],
+  "Integrated amplifier circuit": [
+    237,
+    238
+  ],
+  "Zero drift": [
+    240,
+    241,
+    242,
+    243,
+    244,
+    245,
+    246
+  ],
+  "Common mode signal": [
+    241,
+    242,
+    246
+  ],
+  "Differential mode signal": [
+    241,
+    242,
+    245
+  ],
+  "Suppress common mode signals": [
+    243,
+    248
+  ],
+  "static analysis": [
+    247,
+    248,
+    249,
+    250,
+    251
+  ],
+  "temperature drift ": [
+    250
+  ],
+  "Differential mode AC equivalent circuit": [
+    254
+  ],
+  "Amplify differential mode signal": [
+    258
+  ],
+  "Single ended input, dual ended output": [
+    265,
+    266,
+    267,
+    268,
+    269
+  ],
+  "Differential input signal": [
+    270
+  ],
+  "Common mode input signal": [
+    271
+  ],
+  "Static working current": [
+    275
+  ],
+  "Differential voltage amplification": [
+    285,
+    287,
+    289,
+    291
+  ],
+  "Common mode voltage amplification": [
+    286,
+    288,
+    290,
+    292
+  ],
+  "current mirror ": [
+    293,
+    294,
+    295,
+    304
+  ],
+  "Current source circuit": [
+    293,
+    294,
+    295,
+    296,
+    300,
+    305,
+    311,
+    312,
+    313
+  ],
+  "Reference current": [
+    296
+  ],
+  "Magnifying tube": [
+    298,
+    330
+  ],
+  "Dynamic time flow": [
+    302
+  ],
+  "Main amplifier": [
+    303
+  ],
+  "Principle of integrated operational amplifier": [
+    303,
+    304,
+    305,
+    306,
+    307,
+    308,
+    309,
+    310
+  ],
+  "Input protection circuit": [
+    307
+  ],
+  "Output protection circuit": [
+    308
+  ],
+  "Power supply polarity": [
+    309
+  ],
+  "Differential input": [
+    310
+  ],
+  "protection circuit ": [
+    310
+  ],
+  "Multi channel current output": [
+    311,
+    312
+  ],
+  "Channel": [
+    311
+  ],
+  "Collector area": [
+    312,
+    313
+  ],
+  "Complementary output stage": [
+    314,
+    315,
+    317,
+    318,
+    320,
+    331
+  ],
+  "Basic common amplification circuit": [
+    316
+  ],
+  "Collective form": [
+    318
+  ],
+  "Quasi complementary output stage": [
+    319,
+    327
+  ],
+  "Crossing distortion": [
+    320,
+    321,
+    332,
+    346
+  ],
+  "Multiplier circuit": [
+    322
+  ],
+  "Resistance capacitance coupling": [
+    323,
+    402
+  ],
+  "Integrated operational amplifier": [
+    323,
+    324,
+    328
+  ],
+  "Intermediate level": [
+    326,
+    341
+  ],
+  "Input/output terminal": [
+    328
+  ],
+  "Integrated operational amplifier circuit": [
+    333,
+    334,
+    335,
+    336,
+    337,
+    338,
+    339,
+    340,
+    341,
+    342,
+    343,
+    344,
+    345,
+    346
+  ],
+  "Input offset voltage": [
+    333
+  ],
+  "Input offset current": [
+    334
+  ],
+  "Dynamic current": [
+    337
+  ],
+  "Direct coupling": [
+    338
+  ],
+  "Low frequency signal": [
+    339
+  ],
+  "Operational Amplifier ": [
+    339
+  ],
+  "Warm float": [
+    340
+  ],
+  "Types of integrated operational amplifiers": [
+    342,
+    343
+  ],
+  "Constant current source": [
+    344
+  ],
+  "Coupling capacitor": [
+    347,
+    351,
+    357,
+    358,
+    370,
+    372,
+    380
+  ],
+  "frequency response": [
+    347,
+    348,
+    349,
+    350,
+    351,
+    352,
+    353,
+    354,
+    355,
+    356,
+    357,
+    358,
+    359,
+    360,
+    362,
+    368
+  ],
+  "Lower cut-off frequency": [
+    347,
+    349,
+    353,
+    357,
+    358,
+    376
+  ],
+  "Upper limit cutoff frequency": [
+    348,
+    350,
+    354,
+    356,
+    390,
+    403
+  ],
+  "Interelectrode capacitance": [
+    349,
+    352,
+    370,
+    373,
+    381
+  ],
+  "High pass circuit": [
+    351
+  ],
+  "Low pass circuit": [
+    352
+  ],
+  "High frequency response": [
+    355
+  ],
+  "Single tube common source amplifier circuit": [
+    356
+  ],
+  "Upper and lower cutoff frequencies": [
+    360,
+    364
+  ],
+  "High frequency equivalent model": [
+    361,
+    362,
+    363,
+    371
+  ],
+  "High frequency equivalent circuit": [
+    361
+  ],
+  "Matrix resistance": [
+    362
+  ],
+  "transistor": [
+    363,
+    364,
+    365,
+    366,
+    367,
+    368,
+    369
+  ],
+  "Frequency response of amplification factor": [
+    365
+  ],
+  "The amplitude of the amplification factor": [
+    366
+  ],
+  "Advanced phase shift": [
+    367
+  ],
+  "Intermediate frequency amplification factor": [
+    371,
+    374,
+    375,
+    382,
+    383,
+    410
+  ],
+  "Low frequency amplification factor": [
+    374,
+    375,
+    377
+  ],
+  "gain": [
+    378,
+    386,
+    391,
+    403
+  ],
+  "terminal voltage": [
+    379,
+    387
+  ],
+  "High frequency amplification factor": [
+    382,
+    383,
+    385
+  ],
+  "High frequency cutoff frequency": [
+    384
+  ],
+  "Bandwidth gain product": [
+    388
+  ],
+  "Capacitor affects the lower limit cutoff frequency": [
+    389
+  ],
+  "Intermediate frequency voltage": [
+    391
+  ],
+  "Lower limit frequency": [
+    392,
+    397,
+    412,
+    413
+  ],
+  "Upper limit frequency": [
+    393,
+    397,
+    398
+  ],
+  "Passband": [
+    394
+  ],
+  "Additional phase shift": [
+    395,
+    396,
+    549
+  ],
+  "Bode Plots": [
+    399
+  ],
+  "Two-stage amplification circuit": [
+    400,
+    411
+  ],
+  "Low frequency response": [
+    401
+  ],
+  "Upper and lower limit frequencies": [
+    404,
+    405,
+    406,
+    407,
+    411
+  ],
+  "Coupling method": [
+    409
+  ],
+  "feedback": [
+    414,
+    415,
+    416,
+    417,
+    418,
+    419,
+    420,
+    421,
+    422,
+    423,
+    424,
+    425,
+    426,
+    427,
+    428,
+    429,
+    430,
+    431,
+    432,
+    433,
+    434,
+    435,
+    436,
+    437,
+    438,
+    439,
+    440,
+    441,
+    442,
+    443,
+    444,
+    445,
+    446,
+    447,
+    448,
+    449,
+    450,
+    451,
+    452,
+    453,
+    454,
+    455,
+    456,
+    457,
+    458,
+    459,
+    460,
+    461,
+    462,
+    463,
+    464,
+    465,
+    466,
+    467,
+    468,
+    469,
+    470,
+    471,
+    476,
+    477,
+    478,
+    479,
+    480,
+    481,
+    482,
+    483,
+    484,
+    485,
+    486,
+    487,
+    488,
+    489,
+    490,
+    491,
+    492,
+    493,
+    494,
+    495,
+    496,
+    497,
+    498,
+    499,
+    500,
+    501,
+    502,
+    503,
+    504,
+    505,
+    506,
+    507,
+    508,
+    509,
+    510,
+    511,
+    512,
+    513,
+    514,
+    515,
+    516,
+    517,
+    518,
+    519,
+    520,
+    521,
+    522,
+    523,
+    524,
+    525,
+    526,
+    527,
+    528,
+    529,
+    530,
+    531,
+    532,
+    533,
+    534,
+    535,
+    536,
+    537,
+    538,
+    539,
+    540,
+    541,
+    542,
+    543,
+    544,
+    545,
+    546,
+    547,
+    548,
+    549
+  ],
+  "Feedback quantity": [
+    414,
+    415,
+    416,
+    418,
+    440
+  ],
+  "Output quantity": [
+    414
+  ],
+  "Net input voltage": [
+    415
+  ],
+  "Input quantity": [
+    416
+  ],
+  "Feedback circuit": [
+    417
+  ],
+  "Feedback amplification circuit": [
+    418,
+    419,
+    423,
+    424,
+    425,
+    450,
+    452
+  ],
+  "Net input quantity": [
+    419,
+    448,
+    449,
+    455,
+    456
+  ],
+  "Negative feedback circuit": [
+    420,
+    438,
+    441,
+    475,
+    476,
+    479,
+    492,
+    505
+  ],
+  "DC feedback": [
+    421,
+    423,
+    433,
+    464
+  ],
+  "Inter level feedback": [
+    422
+  ],
+  "Voltage negative feedback": [
+    426,
+    444,
+    447,
+    467,
+    468,
+    483,
+    499,
+    502,
+    545
+  ],
+  "Serial feedback": [
+    427,
+    431,
+    443,
+    445
+  ],
+  "Negative current feedback": [
+    428,
+    429,
+    447,
+    451,
+    467,
+    468,
+    500,
+    501,
+    546
+  ],
+  "Parallel feedback": [
+    430,
+    446
+  ],
+  "signal source": [
+    431
+  ],
+  "Feedback pathway": [
+    432,
+    436,
+    437
+  ],
+  "Exchange feedback": [
+    434,
+    435,
+    464,
+    529
+  ],
+  "open loop": [
+    436
+  ],
+  "closed loop": [
+    437
+  ],
+  "Positive feedback circuit": [
+    439,
+    442
+  ],
+  "Feedback Network": [
+    440,
+    469
+  ],
+  "Constant current source signal": [
+    445
+  ],
+  "Constant voltage source signal": [
+    446
+  ],
+  "Discrete component": [
+    448,
+    449,
+    450,
+    451,
+    452
+  ],
+  "Negative feedback amplification circuit": [
+    453,
+    454,
+    457,
+    459,
+    460,
+    481,
+    482,
+    506,
+    507,
+    510,
+    511,
+    519,
+    520,
+    521,
+    526
+  ],
+  "Voltage series connection": [
+    453,
+    459
+  ],
+  "Parallel current connection": [
+    454
+  ],
+  "Deep negative feedback amplification circuit": [
+    455,
+    456,
+    458
+  ],
+  "Deep negative feedback": [
+    461,
+    470,
+    471,
+    493
+  ],
+  "Communicating negative feedback": [
+    462,
+    463,
+    469,
+    497,
+    530
+  ],
+  "Communicating positive feedback": [
+    462,
+    531
+  ],
+  "Parallel negative feedback": [
+    465,
+    503,
+    544
+  ],
+  "Series negative feedback": [
+    465,
+    504,
+    543
+  ],
+  "Negative feedback of AC current": [
+    466
+  ],
+  "Negative feedback of AC voltage": [
+    466
+  ],
+  "Feedback coefficient": [
+    470,
+    471,
+    480,
+    516
+  ],
+  "Ideal operational amplifier": [
+    472,
+    473,
+    474,
+    475,
+    536,
+    537,
+    547
+  ],
+  "Linear region": [
+    472,
+    473
+  ],
+  "Open-loop differential mode gain": [
+    474
+  ],
+  "Deep negative feedback condition": [
+    477,
+    478,
+    479
+  ],
+  "Feedback amplification circuit with integrated operational amplifier": [
+    480
+  ],
+  "Stable load current": [
+    483
+  ],
+  "Current series negative feedback": [
+    484,
+    485,
+    488
+  ],
+  "Voltage parallel negative feedback": [
+    486,
+    490
+  ],
+  "Current parallel negative feedback": [
+    487,
+    491
+  ],
+  "Voltage series negative feedback": [
+    489
+  ],
+  "Broadband": [
+    493,
+    494,
+    496
+  ],
+  "Output fundamental amplitude": [
+    495
+  ],
+  "Reduce nonlinear distortion": [
+    495,
+    496
+  ],
+  "Self-excited oscillation": [
+    506,
+    507,
+    508,
+    509,
+    510,
+    511,
+    512,
+    513,
+    516,
+    517,
+    518,
+    519,
+    520,
+    521,
+    523,
+    526,
+    528,
+    534,
+    535,
+    549
+  ],
+  "Vibration initiation conditions": [
+    508
+  ],
+  "Phase balance condition": [
+    508,
+    509
+  ],
+  "Low frequency oscillation": [
+    514
+  ],
+  "High frequency oscillation": [
+    515
+  ],
+  "Lag compensation": [
+    522,
+    523
+  ],
+  "Compensation capacitor": [
+    524,
+    525,
+    527
+  ],
+  "Miller compensation ": [
+    528
+  ],
+  "positive feedback": [
+    532,
+    534,
+    535,
+    548
+  ],
+  "Nonlinear region": [
+    533
+  ],
+  "Inter level communication feedback": [
+    538,
+    539,
+    540,
+    541,
+    542
+  ]
+}

@@ -50,7 +50,7 @@ class GLM(dspy.LM):
         self.history = []
 
         super().__init__(model, **kwargs)
-
+        self.model_name = model.split("/")[1]
         if api_key is None:
             self.model = ZhipuAI(api_key=os.getenv("GLM_API_KEY"))
         else:
@@ -61,7 +61,7 @@ class GLM(dspy.LM):
         prompt = '\n\n'.join([x['content'] for x in messages] + ['BEGIN RESPONSE:'])
 
         completions = self.model.chat.completions.create(
-            model="glm-4-plus",  # 填写需要调用的模型编码
+            model=self.model_name,  # 填写需要调用的模型编码
             messages=messages,
         )
 
@@ -81,7 +81,7 @@ class GLMVision(dspy.LM):
         self.history = []
 
         super().__init__(model, **kwargs)
-
+        self.model_name = model.split("/")[1]
         if api_key is None:
             self.model = ZhipuAI(api_key=os.getenv("GLM_API_KEY"))
         else:
@@ -122,7 +122,7 @@ class GLMVision(dspy.LM):
                 })
 
         completions = self.model.chat.completions.create(
-            model="glm-4v-plus",  # 填写需要调用的模型编码
+            model=self.model_name,
             messages=messages4vision,
         )
 
@@ -141,7 +141,7 @@ if __name__ == "__main__":
     dspy.configure(lm=lm)
 
     qa = dspy.ChainOfThought("question->answer")
-    answer = qa(question="What is the capital of France?")
+    answer = qa(question="Who are you?")
     lm.inspect_history(n=1)
 
     # lm = GLMVision("zhipu/glm-4v-plus")
