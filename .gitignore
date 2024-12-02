@@ -15,3 +15,8 @@ paper_note.md
 /dspy-project/DOTS/metric
 /dspy-project/DOTS/case
 /dspy-project/DOTS/simple_evals
+
+/dspy-project/KnowledgeTracing/output
+/dspy-project/KnowledgeTracing/metric
+
+/dspy-project/KnowledgeTracing/KCQRL/que_emb
