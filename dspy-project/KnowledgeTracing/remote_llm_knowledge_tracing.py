@@ -5,6 +5,7 @@ import dspy
 
 from utils import *
 from base_prompt_evaluate import base_prompt_evaluate
+from use_concept_prompt_evaluate import use_concept_prompt_evaluate
 
 import config
 # 不用管显示报错，实际可以运行，手动将remote_llm添加到路径中了的
@@ -14,12 +15,14 @@ from remote_llm.BaiLian import BaiLian
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--llm", type=str, default="glm-4-plus")
+    parser.add_argument("--llm", type=str, default="qwen-plus")
     parser.add_argument("--dataset_name", type=str, default="xes3g5m")
+    parser.add_argument("--prompt", type=str, default="base_prompt",
+                        choices=("base_prompt", "use_concept_prompt"))
     parser.add_argument("--fold", type=int, default=0)
-    parser.add_argument("--cold_start", type=int, default=2,
+    parser.add_argument("--cold_start", type=int, default=10,
                         help="如果是0，则每个学生预测全部数据，否则只预测前cold_start个记录")
-    parser.add_argument("--num2evaluate", type=int, default=5)
+    parser.add_argument("--num2evaluate", type=int, default=50)
     args = parser.parse_args()
 
     # 获取当前目录
@@ -30,7 +33,7 @@ if __name__ == "__main__":
     if args.llm in ["glm-4-plus"]:
         dspy_lm = GLM(f"zhipu/{args.llm}")
     elif args.llm in ["qwen-plus"]:
-        dspy_lm = GLM(f"bailian/{args.llm}")
+        dspy_lm = BaiLian(f"bailian/{args.llm}")
     else:
         raise NotImplementedError()
     dspy.configure(lm=dspy_lm)
@@ -50,11 +53,18 @@ if __name__ == "__main__":
     output_dir = os.path.join(current_dir, "output")
     if not os.path.exists(output_dir):
         os.mkdir(output_dir)
-    output_path = os.path.join(current_dir, f"output/{args.llm}_base_{args.dataset_name}_test_fold_{args.fold}_cold_start_{args.cold_start}.json")
+    output_path = os.path.join(current_dir, f"output/{args.llm}_{args.prompt}_{args.dataset_name}_test_fold_{args.fold}_cold_start_{args.cold_start}.json")
 
-    prediction = base_prompt_evaluate(
-        kt_data, question_data, output_path, args
-    )
+    if args.prompt == "base_prompt":
+        prediction = base_prompt_evaluate(
+            kt_data, question_data, output_path, args
+        )
+    elif args.prompt == "use_concept_prompt":
+        prediction = use_concept_prompt_evaluate(
+            kt_data, question_data, output_path, args
+        )
+    else:
+        raise NotImplementedError()
 
     with open(output_path, 'w', encoding="utf-8") as file:
-        file.write(json.dumps(prediction, ensure_ascii=False))
+        file.write(json.dumps(prediction, indent=2, ensure_ascii=False))
