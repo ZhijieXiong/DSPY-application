@@ -2,8 +2,8 @@ import json
 
 
 if __name__ == "__main__":
-    kc_sol_annotated_path = "/Users/dream/myProjects/DSPY_research/dspy-project/KnowledgeTracing/data/moocradar-C_746997/questions_translated_kc_sol_annotated_mapped.json"
-    kc_questions_map_path = "/Users/dream/myProjects/DSPY_research/dspy-project/KnowledgeTracing/data/moocradar-C_746997/kc_questions_map.json"
+    kc_sol_annotated_path = "/Users/dream/myProjects/DSPY_research/dspy-project/KnowledgeTracing/data/edi2020-task34/questions_translated_kc_sol_annotated_mapped_original_kc.json"
+    kc_questions_map_path = "/Users/dream/myProjects/DSPY_research/dspy-project/KnowledgeTracing/data/edi2020-task34/kc_questions_map_original_kc.json"
     with open(kc_sol_annotated_path, 'r', encoding='utf-8') as file:
         annotated_data = json.load(file)
 

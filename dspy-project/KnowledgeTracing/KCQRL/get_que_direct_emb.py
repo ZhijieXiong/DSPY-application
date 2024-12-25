@@ -18,9 +18,9 @@ def write_json(json_data, json_path):
 
 if __name__ == "__main__":
     client = ZhipuAI(api_key=os.getenv("GLM_API_KEY"))
-    question_path = "/Users/dream/myProjects/DSPY_research/dspy-project/KnowledgeTracing/data/moocradar-C_746997/question_translated.json"
-    emb_path = "/Users/dream/myProjects/DSPY_research/dspy-project/KnowledgeTracing/KCQRL/que_emb/moocradar-C_746997/qid2content_emb.json"
-    num2cal = 550
+    question_path = "/Users/dream/myProjects/DSPY_research/dspy-project/KnowledgeTracing/data/edi2020-task34/question.json"
+    emb_path = "/Users/dream/myProjects/DSPY_research/dspy-project/KnowledgeTracing/KCQRL/que_emb/edi2020-task34/qid2content_emb.json"
+    num2cal = 948
     dim_emb = 1024
 
     question = load_json(question_path)

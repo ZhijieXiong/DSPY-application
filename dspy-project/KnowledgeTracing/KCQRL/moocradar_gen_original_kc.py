@@ -74,7 +74,7 @@ if __name__ == "__main__":
         for kc in kcs:
             kcs_translated.append(kc_translation_dict[kc])
         data[q_id]["knowledge_concepts_list"] = kcs_translated
-        data[q_id]["knowledge_concepts_text"] = "\n".join(kcs_translated)
+        data[q_id]["knowledge_concepts_text"] = "####".join(kcs_translated)
 
     with open(questions_translated_path, 'w') as f:
         json.dump(data, f)

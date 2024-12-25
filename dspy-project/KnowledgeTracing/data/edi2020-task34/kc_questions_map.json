@@ -1,0 +1,9725 @@
+{
+  "square numbers": [
+    0,
+    342,
+    417
+  ],
+  "multiplication": [
+    0,
+    22,
+    383,
+    482,
+    525,
+    708,
+    728,
+    791,
+    816,
+    828,
+    839,
+    895
+  ],
+  "properties of integers": [
+    0,
+    304,
+    826
+  ],
+  "algebraic manipulation": [
+    0,
+    795,
+    852
+  ],
+  "factoring numbers": [
+    0
+  ],
+  "square of a product": [
+    0
+  ],
+  "Finding a common denominator": [
+    1,
+    113,
+    318,
+    597
+  ],
+  "Converting fractions to a common denominator": [
+    1,
+    722
+  ],
+  "Subtracting fractions": [
+    1,
+    597
+  ],
+  "Simplifying fractions": [
+    1,
+    15,
+    58,
+    73,
+    114,
+    127,
+    173,
+    179,
+    180,
+    186,
+    240,
+    270,
+    313,
+    318,
+    347,
+    400,
+    401,
+    408,
+    425,
+    500,
+    512,
+    597,
+    632,
+    663,
+    680,
+    693,
+    698,
+    722,
+    832,
+    876,
+    925,
+    930
+  ],
+  "Understanding multiplication of integers": [
+    2
+  ],
+  "Identifying correct mathematical operations to achieve a specific result": [
+    2
+  ],
+  "Solving linear equations": [
+    3,
+    5,
+    47,
+    167,
+    175,
+    178,
+    207,
+    330,
+    530,
+    646,
+    652,
+    680,
+    693,
+    765,
+    766,
+    846,
+    872,
+    894,
+    903,
+    917
+  ],
+  "Isolating variables": [
+    3,
+    178
+  ],
+  "Basic arithmetic operations": [
+    3,
+    71,
+    211,
+    248,
+    259,
+    276,
+    278,
+    372,
+    373,
+    375,
+    385,
+    472,
+    527,
+    540,
+    577,
+    606,
+    618,
+    676,
+    686,
+    735,
+    754,
+    825,
+    843,
+    870,
+    908,
+    924,
+    927
+  ],
+  "Understanding negative numbers": [
+    3,
+    178,
+    199,
+    527,
+    635
+  ],
+  "trapezium properties": [
+    4
+  ],
+  "parallel lines": [
+    4
+  ],
+  "right angle": [
+    4
+  ],
+  "perpendicular lines": [
+    4
+  ],
+  "Area of a parallelogram formula": [
+    5
+  ],
+  "Base and height relationship in a parallelogram": [
+    5
+  ],
+  "Order of operations": [
+    6,
+    40,
+    61,
+    161,
+    240,
+    276,
+    283,
+    453,
+    506,
+    585,
+    614,
+    656,
+    745,
+    758,
+    811,
+    881,
+    887,
+    923,
+    943
+  ],
+  "Distributive property of multiplication over addition": [
+    6,
+    11,
+    30,
+    373,
+    423,
+    587
+  ],
+  "Prime factorization": [
+    7,
+    98,
+    104,
+    126,
+    223,
+    260,
+    356,
+    395,
+    418,
+    633,
+    783,
+    851,
+    888,
+    918,
+    921,
+    944
+  ],
+  "Venn diagram interpretation": [
+    7,
+    102,
+    633
+  ],
+  "Lowest common multiple (LCM) calculation": [
+    7
+  ],
+  "Multiplying prime factors": [
+    7
+  ],
+  "Identifying highest powers of prime factors": [
+    7
+  ],
+  "The number of dots must be a multiple of 8": [
+    8
+  ],
+  "Since 8 is a multiple of 4, you can also draw a regular quadrilateral (square) by skipping every second dot": [
+    8
+  ],
+  "You can definitely draw a square": [
+    8
+  ],
+  "formula for area of a parallelogram": [
+    9
+  ],
+  "base times height": [
+    9
+  ],
+  "perpendicular height": [
+    9
+  ],
+  "ignore slanted height": [
+    9
+  ],
+  "Equation of a parabola in standard form": [
+    10
+  ],
+  "Formula for the line of symmetry of a parabola": [
+    10
+  ],
+  "Identifying coefficients in a quadratic equation": [
+    10
+  ],
+  "Substitution and simplification of algebraic expressions": [
+    10
+  ],
+  "Integer multiplication rules": [
+    11,
+    423
+  ],
+  "Integer addition rules": [
+    11
+  ],
+  "Properties of triangles": [
+    12
+  ],
+  "Sum of angles in a triangle": [
+    12,
+    155,
+    530
+  ],
+  "Types of triangles": [
+    12,
+    704
+  ],
+  "Right angles in triangles": [
+    12
+  ],
+  "The shape is composed of smaller squares": [
+    13
+  ],
+  "Each smaller square has a known area": [
+    13
+  ],
+  "Area of composite shapes can be found by adding the areas of simpler shapes": [
+    13
+  ],
+  "The area of a square is side length squared, but here each square's area is given as 1 square cm": [
+    13
+  ],
+  "Total area is the sum of individual areas": [
+    13
+  ],
+  "The sum of the angles in a triangle is 180 degrees": [
+    14
+  ],
+  "Subtracting the sum of known angles from 180 degrees gives the missing angle": [
+    14
+  ],
+  "Comparing fractions": [
+    15,
+    166,
+    294,
+    318,
+    425,
+    759,
+    810
+  ],
+  "Equality of fractions": [
+    15
+  ],
+  "Finding common multiples": [
+    16
+  ],
+  "Least common multiple (LCM)": [
+    16
+  ],
+  "Listing multiples of numbers": [
+    16
+  ],
+  "To reflect a point over the line y=x, switch the x and y coordinates of the point": [
+    17
+  ],
+  "The original coordinates of the red point are (3, 1)": [
+    17
+  ],
+  "Switching these coordinates gives the new point (1, 3)": [
+    17
+  ],
+  "Multiplication of integers": [
+    18,
+    27,
+    31,
+    46,
+    103,
+    177,
+    195,
+    263,
+    436,
+    457,
+    535,
+    585,
+    655,
+    732,
+    800,
+    849
+  ],
+  "Equality of expressions": [
+    18
+  ],
+  "Understanding of basic arithmetic operations": [
+    19,
+    192
+  ],
+  "Order of operations (PEMDAS/BODMAS)": [
+    19,
+    293
+  ],
+  "Ability to interpret and write mathematical expressions": [
+    19
+  ],
+  "Knowledge of parentheses usage in equations": [
+    19
+  ],
+  "A rectangle has two lines of symmetry": [
+    20
+  ],
+  "One line of symmetry runs vertically through the middle of the rectangle": [
+    20
+  ],
+  "The other line of symmetry runs horizontally through the middle of the rectangle": [
+    20
+  ],
+  "Understanding of lines of symmetry in geometric shapes": [
+    20
+  ],
+  "Dividing a quantity into equal parts": [
+    21
+  ],
+  "Writing a division as a fraction": [
+    21
+  ],
+  "Simplifying fractions by dividing numerator and denominator by their common factor": [
+    21
+  ],
+  "Interpreting the simplified fraction as the share of each individual": [
+    21
+  ],
+  "factorization": [
+    22
+  ],
+  "substitution": [
+    22,
+    523
+  ],
+  "equation solving": [
+    22
+  ],
+  "Area of a rectangle": [
+    23,
+    93,
+    338,
+    723,
+    894
+  ],
+  "Breaking down compound shapes into simpler shapes": [
+    23,
+    573
+  ],
+  "Subtracting lengths to find unknown dimensions": [
+    23
+  ],
+  "Adding areas of individual shapes to find the total area": [
+    23
+  ],
+  "Multiplication facts": [
+    24,
+    259,
+    373
+  ],
+  "Verification of arithmetic operations": [
+    24
+  ],
+  "Addition": [
+    25,
+    37,
+    69,
+    161,
+    187,
+    293,
+    453,
+    592,
+    592,
+    646,
+    653,
+    656,
+    943
+  ],
+  "Multiplication": [
+    25,
+    37,
+    69,
+    98,
+    144,
+    147,
+    161,
+    187,
+    198,
+    293,
+    366,
+    444,
+    453,
+    458,
+    516,
+    653,
+    656,
+    714,
+    747,
+    758,
+    781,
+    817,
+    825,
+    861,
+    924,
+    943
+  ],
+  "Comparing arithmetic operations": [
+    25
+  ],
+  "Convert hours to minutes": [
+    26
+  ],
+  "Add minutes": [
+    26
+  ],
+  "Convert minutes to hours and minutes": [
+    26
+  ],
+  "Divide minutes by 60 to get hours and remainder as minutes": [
+    26
+  ],
+  "Multiplication of fractions": [
+    27,
+    73,
+    107,
+    112,
+    263,
+    269,
+    296,
+    347
+  ],
+  "Division of integers": [
+    27,
+    46,
+    254,
+    436,
+    655
+  ],
+  "Simplifying expressions": [
+    27,
+    136,
+    200,
+    313,
+    423,
+    628
+  ],
+  "Matching answers to given options": [
+    27
+  ],
+  "common factor definition": [
+    28
+  ],
+  "divisibility rules": [
+    28,
+    367,
+    574,
+    675,
+    696,
+    816,
+    826,
+    890,
+    896
+  ],
+  "factorization of numbers": [
+    28
+  ],
+  "properties of factors": [
+    28
+  ],
+  "Dividing integers with the same sign results in a positive quotient": [
+    29
+  ],
+  "Divide the absolute values of the integers": [
+    29
+  ],
+  "The result of dividing 12 by 3 is 4": [
+    29
+  ],
+  "Equivalence of algebraic expressions": [
+    30,
+    36,
+    844
+  ],
+  "Factoring out common factors from an expression": [
+    30
+  ],
+  "Rules for multiplying signed numbers": [
+    31
+  ],
+  "division of fractions": [
+    32,
+    139,
+    443,
+    692,
+    842,
+    886
+  ],
+  "reciprocal of a fraction": [
+    32,
+    115,
+    538,
+    775,
+    942
+  ],
+  "multiplication of fractions": [
+    32,
+    115,
+    322,
+    336,
+    443,
+    568,
+    692,
+    775,
+    842,
+    886
+  ],
+  "Reading a number line": [
+    33
+  ],
+  "Understanding decimal places": [
+    33,
+    481,
+    843
+  ],
+  "Identifying tenths on a number line": [
+    33
+  ],
+  "Locating points between tick marks": [
+    33
+  ],
+  "Exponentiation": [
+    34,
+    147,
+    444,
+    458,
+    516,
+    758,
+    945
+  ],
+  "Multiplication of negative numbers": [
+    34
+  ],
+  "Finding factors of a number": [
+    35,
+    211,
+    369,
+    391,
+    864
+  ],
+  "Identifying common factors": [
+    35,
+    211,
+    369,
+    578,
+    864
+  ],
+  "Determining the highest common factor (HCF)": [
+    35
+  ],
+  "Area of a triangle formula": [
+    36,
+    107,
+    112,
+    386
+  ],
+  "Factoring out common factors": [
+    36
+  ],
+  "Subtraction": [
+    37,
+    646,
+    653,
+    757
+  ],
+  "Problem Analysis": [
+    37
+  ],
+  "Interpreting inequalities": [
+    38
+  ],
+  "Comparing algebraic expressions": [
+    38,
+    137
+  ],
+  "Evaluating the validity of inequalities without specific values": [
+    38
+  ],
+  "Understanding multiple-choice answer conventions": [
+    38
+  ],
+  "Analyzing given information to determine sufficiency": [
+    38
+  ],
+  "Identify parallel lines and transversal": [
+    39,
+    201,
+    664
+  ],
+  "Understand corresponding angles": [
+    39
+  ],
+  "Recognize relative positions of angles formed by a transversal": [
+    39
+  ],
+  "Identify interior angles on the same side of the transversal": [
+    39
+  ],
+  "Expression simplification": [
+    40
+  ],
+  "Algebraic manipulation": [
+    40,
+    279
+  ],
+  "Base of a parallelogram": [
+    41
+  ],
+  "Height of a parallelogram": [
+    41
+  ],
+  "Formula for the area of a parallelogram": [
+    41
+  ],
+  "Irrelevant lengths in geometric calculations": [
+    41
+  ],
+  "Understanding fractions and their reciprocals": [
+    42
+  ],
+  "Multiplying fractions": [
+    42,
+    114,
+    127,
+    128,
+    136,
+    179,
+    186,
+    270,
+    400,
+    425,
+    557,
+    648,
+    698,
+    876,
+    925,
+    929,
+    940
+  ],
+  "Division involving fractions": [
+    42
+  ],
+  "Converting division into multiplication by the reciprocal": [
+    42
+  ],
+  "Applying unit conversion to determine area coverage": [
+    42
+  ],
+  "Solving real-world problems using proportions": [
+    42
+  ],
+  "Factors of a number": [
+    43,
+    52,
+    225,
+    344,
+    422,
+    469,
+    578,
+    714,
+    921
+  ],
+  "Division without remainder": [
+    43
+  ],
+  "Checking options against known factors": [
+    43
+  ],
+  "To determine who is correct, we need to analyze the given information about angles \\( p \\) and \\( q \\).": [
+    44
+  ],
+  "We know that the sum of angles in a triangle is \\( 180^\\circ \\).": [
+    44
+  ],
+  "If \\( p \\) and \\( q \\) are two angles in a right triangle, the third angle must be \\( 90^\\circ \\).": [
+    44
+  ],
+  "Therefore, \\( p + q = 90^\\circ \\).": [
+    44
+  ],
+  "This means neither \\( p + q < 90^\\circ \\) nor \\( p = q \\) can be true if \\( p \\) and \\( q \\) are angles in a right triangle.": [
+    44
+  ],
+  "Since the problem does not specify the type of triangle, we assume it is a right triangle based on the given options.": [
+    44
+  ],
+  "Thus, both Jo and Paul are incorrect.": [
+    44
+  ],
+  "Adding positive and negative numbers": [
+    45,
+    599
+  ],
+  "Understanding greater than and less than concepts": [
+    45
+  ],
+  "Understanding fractions and reciprocals": [
+    46
+  ],
+  "Evaluating expressions involving negative numbers": [
+    46
+  ],
+  "Correctly interpreting mathematical operations": [
+    46
+  ],
+  "Angles on a straight line sum to 180 degrees": [
+    47,
+    683
+  ],
+  "Adjacent angles on a straight line": [
+    47
+  ],
+  "Subtraction of angles": [
+    47,
+    571
+  ],
+  "Reflection in a horizontal line": [
+    48
+  ],
+  "Coordinates of a point": [
+    48,
+    63
+  ],
+  "Distance from a point to a line": [
+    48
+  ],
+  "Maintaining the x-coordinate during reflection": [
+    48,
+    388
+  ],
+  "Calculating the new y-coordinate after reflection": [
+    48,
+    388
+  ],
+  "Corresponding angles are equal when two parallel lines are cut by a transversal": [
+    49
+  ],
+  "Allied (co-interior) angles are supplementary, meaning they add up to 180 degrees, not equal.": [
+    49
+  ],
+  "Understanding of inequality symbols": [
+    50
+  ],
+  "Understanding of negative numbers": [
+    50,
+    655
+  ],
+  "Knowledge of absolute value concept": [
+    50
+  ],
+  "Ability to compare values using absolute values": [
+    50
+  ],
+  "Arithmetic sequences": [
+    51
+  ],
+  "Linear patterns": [
+    51
+  ],
+  "Common difference": [
+    51,
+    441
+  ],
+  "nth term of an arithmetic sequence": [
+    51
+  ],
+  "Simplifying algebraic expressions": [
+    51,
+    54,
+    138,
+    142,
+    148,
+    150,
+    170,
+    217,
+    291,
+    319,
+    371,
+    432,
+    476,
+    717
+  ],
+  "Understanding of universal set and subsets": [
+    52
+  ],
+  "Multiples of a number": [
+    52,
+    254,
+    805
+  ],
+  "Venn diagrams and regions": [
+    52
+  ],
+  "Set theory and set operations": [
+    52
+  ],
+  "Integer properties and divisibility rules": [
+    52
+  ],
+  "Associative property of multiplication": [
+    53,
+    506
+  ],
+  "Simplifying multiplication by grouping factors": [
+    53
+  ],
+  "Multiplying by 15 as 10 plus half of 10": [
+    53
+  ],
+  "Combining 2 and 15 to form 30": [
+    53
+  ],
+  "Simplifying the expression (11×4)×30": [
+    53
+  ],
+  "Calculating 44×30": [
+    53
+  ],
+  "Efficient next step in simplifying the calculation": [
+    53
+  ],
+  "Equation substitution": [
+    54
+  ],
+  "Multiplying both sides of an equation": [
+    54
+  ],
+  "Substitution of equivalent expressions": [
+    54
+  ],
+  "Verifying equality of expressions": [
+    54
+  ],
+  "Identify the symbols used in the Mayan number system": [
+    55
+  ],
+  "Convert each Mayan symbol to its corresponding value": [
+    55
+  ],
+  "Sum the values to determine the total number represented": [
+    55
+  ],
+  "Understand the correspondence between numbers and letters in the given context": [
+    55
+  ],
+  "parallel lines and transversals": [
+    56
+  ],
+  "corresponding angles theorem": [
+    56
+  ],
+  "angle measurement": [
+    56,
+    146,
+    256,
+    317,
+    497
+  ],
+  "Multiplication of decimals": [
+    57,
+    472,
+    481,
+    803
+  ],
+  "Simplifying the product": [
+    57
+  ],
+  "A full circle measures 360 degrees": [
+    58,
+    214
+  ],
+  "Dividing degrees to find fraction of a circle": [
+    58
+  ],
+  "multiples": [
+    59,
+    558,
+    890
+  ],
+  "divisibility": [
+    59,
+    607
+  ],
+  "integer multiplication": [
+    59
+  ],
+  "Evaluate exponents": [
+    60,
+    219
+  ],
+  "Compare results of exponents": [
+    60
+  ],
+  "Understand equality in mathematical expressions": [
+    60
+  ],
+  "Interpret multiple-choice answers": [
+    60
+  ],
+  "Substitute values into algebraic expressions": [
+    61,
+    76
+  ],
+  "Multiplying decimals": [
+    61
+  ],
+  "Exponentiation with decimals": [
+    61
+  ],
+  "Rotation of points around a given center": [
+    62
+  ],
+  "Coordinate geometry transformations": [
+    62,
+    224,
+    271,
+    316,
+    358,
+    827
+  ],
+  "Translating points in a coordinate plane": [
+    62
+  ],
+  "Identifying congruent shapes in a coordinate grid": [
+    62
+  ],
+  "Comparing transformed coordinates to given options": [
+    62
+  ],
+  "Midpoint formula": [
+    63,
+    167,
+    228,
+    273,
+    871,
+    872,
+    917
+  ],
+  "Averaging numbers": [
+    63
+  ],
+  "Identify shapes based on given properties": [
+    64
+  ],
+  "Understand the definition of a quadrilateral": [
+    64
+  ],
+  "Recognize parallel lines and identify them in geometric figures": [
+    64
+  ],
+  "Count and compare line segments in a geometric shape": [
+    64
+  ],
+  "To determine which number is not a factor of 18": [
+    65
+  ],
+  "List all the factors of 18": [
+    65
+  ],
+  "Check each option to see if it is in the list of factors": [
+    65
+  ],
+  "Identify the option that is not in the list of factors": [
+    65
+  ],
+  "A trapezium is a type of quadrilateral": [
+    66
+  ],
+  "The sum of the interior angles of any quadrilateral is always 360°": [
+    66
+  ],
+  "A 180-degree rotation around the origin changes the sign of both coordinates": [
+    67
+  ],
+  "The red point (2, -1) will be at (-2, 1) after the rotation.": [
+    67
+  ],
+  "Powers of odd and even numbers": [
+    68
+  ],
+  "Properties of last digits in powers of numbers": [
+    68
+  ],
+  "Multiplication of odd numbers": [
+    68
+  ],
+  "Cycles of last digits in powers of even numbers": [
+    68
+  ],
+  "Definition of even and odd numbers": [
+    68
+  ],
+  "Order of Operations": [
+    69
+  ],
+  "Division": [
+    69,
+    293,
+    592,
+    656,
+    665,
+    757,
+    943
+  ],
+  "To rotate a point 180 degrees around the origin, you multiply both the x and y coordinates by -1": [
+    70
+  ],
+  "The original coordinates of the red point are (3, 4)": [
+    70
+  ],
+  "Multiplying both coordinates by -1 results in (-3, -4)": [
+    70
+  ],
+  "Understanding coordinate system and quadrants": [
+    70
+  ],
+  "Multiplying fractions by integers": [
+    71
+  ],
+  "Simplifying negative numbers": [
+    71
+  ],
+  "Mayan number system uses dots and bars": [
+    72
+  ],
+  "Dots represent 1 and bars represent 5": [
+    72
+  ],
+  "Single dot represents the number 1": [
+    72
+  ],
+  "Alphabetic representation of numbers may be used in some contexts": [
+    72
+  ],
+  "'A' can correspond to 1 in certain contexts": [
+    72
+  ],
+  "Division of fractions": [
+    73,
+    127,
+    296
+  ],
+  "Reciprocal of a number": [
+    73
+  ],
+  "Area of a right-angled triangle": [
+    74
+  ],
+  "Formula for area: (1/2) * base * height": [
+    74
+  ],
+  "Reading measurements from a grid": [
+    74
+  ],
+  "Resolving discrepancies between calculated and stated values": [
+    74
+  ],
+  "If 9 is a factor of a number, then 3 must also be a factor of that number": [
+    75
+  ],
+  "Factors of a number are integers that divide the number without leaving a remainder": [
+    75
+  ],
+  "Multiples of 9 can be expressed as 9k where k is an integer": [
+    75
+  ],
+  "9 can be factored into 3 × 3": [
+    75
+  ],
+  "Any multiple of 9 is also a multiple of 3": [
+    75
+  ],
+  "Evaluate inequalities": [
+    76
+  ],
+  "Understand the meaning of true and false in mathematical statements": [
+    76
+  ],
+  "Interpret the question's context and identify the correct answer based on the evaluation": [
+    76
+  ],
+  "understanding pattern growth": [
+    77
+  ],
+  "arithmetic sequence calculation": [
+    77
+  ],
+  "evaluating algebraic expressions": [
+    77
+  ],
+  "interpreting pattern rules": [
+    77
+  ],
+  "basic algebraic manipulation": [
+    77,
+    297,
+    438,
+    496
+  ],
+  "Visualizing figures and lines of symmetry": [
+    78
+  ],
+  "Understanding mirror images and folding": [
+    78
+  ],
+  "Checking options for symmetry": [
+    78
+  ],
+  "Identifying matching mirror images across a line of symmetry": [
+    78
+  ],
+  "Completing symmetric figures on a Geo board": [
+    78
+  ],
+  "Adding integers and decimals": [
+    79
+  ],
+  "Understanding positive and negative numbers": [
+    79
+  ],
+  "Understanding number lines": [
+    80,
+    99,
+    382,
+    461,
+    648,
+    676,
+    813
+  ],
+  "Addition on a number line": [
+    80
+  ],
+  "Subtraction involving negative numbers": [
+    80
+  ],
+  "Equivalent calculations": [
+    80
+  ],
+  "Interpreting graphical representations of arithmetic operations": [
+    80
+  ],
+  "Finding the least common multiple (LCM) of denominators": [
+    81
+  ],
+  "Converting fractions to have a common denominator": [
+    81,
+    131
+  ],
+  "Subtracting fractions with a common denominator": [
+    81,
+    500
+  ],
+  "Simplifying fractions by finding the greatest common divisor (GCD)": [
+    81
+  ],
+  "Adding algebraic expressions": [
+    82,
+    150,
+    370,
+    551
+  ],
+  "Combining like terms": [
+    82,
+    91,
+    150,
+    200,
+    319,
+    370,
+    423,
+    551,
+    717
+  ],
+  "Understanding algebraic notation": [
+    82
+  ],
+  "Interpreting geometric arrangements of algebraic expressions": [
+    82
+  ],
+  "Understanding the properties of angles in a circle": [
+    83
+  ],
+  "Measuring angles in a circle from different directions": [
+    83
+  ],
+  "Recognizing the full circle as 360 degrees": [
+    83
+  ],
+  "Calculating the supplementary angle in a circle": [
+    83
+  ],
+  "Interpreting the problem context to determine the most likely answer": [
+    83
+  ],
+  "alternate angles definition": [
+    84
+  ],
+  "corresponding angles definition": [
+    84
+  ],
+  "angle equality in geometric figures": [
+    84
+  ],
+  "transversal lines and angle relationships": [
+    84
+  ],
+  "Properties of trapezium": [
+    85
+  ],
+  "Supplementary angles in a trapezium": [
+    85
+  ],
+  "Isosceles trapezium properties": [
+    85
+  ],
+  "Base angles of isosceles trapezium": [
+    85
+  ],
+  "Identify properties of 72": [
+    86
+  ],
+  "Determine if 72 is a multiple of 8": [
+    86
+  ],
+  "Determine if 72 is a multiple of 9": [
+    86
+  ],
+  "Understand the Venn diagram regions": [
+    86
+  ],
+  "Identify the intersection of sets P and Q": [
+    86
+  ],
+  "Confirm 72 belongs in region B": [
+    86
+  ],
+  "Understanding of analog clock face": [
+    87
+  ],
+  "Hour hand position interpretation": [
+    87
+  ],
+  "Minute hand position interpretation": [
+    87
+  ],
+  "Time notation in 12-hour format": [
+    87
+  ],
+  "Time notation in 24-hour format": [
+    87
+  ],
+  "Least common multiple": [
+    88
+  ],
+  "Prime numbers": [
+    88,
+    104,
+    129,
+    395
+  ],
+  "Multiples of numbers": [
+    88
+  ],
+  "Divisibility rules": [
+    88,
+    133,
+    254,
+    395,
+    422,
+    469,
+    665,
+    921
+  ],
+  "Counterexamples": [
+    88
+  ],
+  "A full turn is 360 degrees": [
+    89,
+    863
+  ],
+  "Three-quarters of a turn means multiplying 360 degrees by 3/4": [
+    89
+  ],
+  "Multiplying fractions and whole numbers": [
+    89
+  ],
+  "ab represents multiplication": [
+    90
+  ],
+  "a + b represents addition": [
+    90
+  ],
+  "subtraction is the operation that results in 5": [
+    90
+  ],
+  "The symbol for subtraction is '-'": [
+    90
+  ],
+  "The context suggests 'A' is the correct symbol": [
+    90
+  ],
+  "Algebraic expressions": [
+    91,
+    844
+  ],
+  "Area of a rectangle formula": [
+    92,
+    587,
+    725
+  ],
+  "Subtraction of areas to find the shaded region area": [
+    92
+  ],
+  "Area of a square": [
+    93,
+    135,
+    338
+  ],
+  "Addition of areas": [
+    93
+  ],
+  "Multiplication of lengths": [
+    93
+  ],
+  "Combining areas of smaller sections to find the total area": [
+    93
+  ],
+  "Interpretation of geometric diagrams": [
+    93
+  ],
+  "Calculation of combined areas from individual components": [
+    93
+  ],
+  "Side-Side-Side (SSS) congruence criterion": [
+    94
+  ],
+  "similar triangles": [
+    94
+  ],
+  "Angle-Angle-Angle (AAA) similarity criterion": [
+    94
+  ],
+  "Constructing a triangle using given side lengths": [
+    95
+  ],
+  "Using a compass to draw arcs": [
+    95
+  ],
+  "Measuring angles with a protractor": [
+    95,
+    567
+  ],
+  "Reading angle measurements from a protractor scale": [
+    95
+  ],
+  "Identifying the correct answer choice based on the measured angle": [
+    95
+  ],
+  "Understanding fractions": [
+    96,
+    136,
+    140,
+    144,
+    270,
+    381,
+    512,
+    608,
+    621,
+    698,
+    759,
+    799,
+    807,
+    817,
+    832,
+    841,
+    876,
+    892
+  ],
+  "Writing whole numbers as fractions": [
+    96
+  ],
+  "Compare lengths of given expressions": [
+    97
+  ],
+  "Understand square root values and their approximations": [
+    97
+  ],
+  "Identify the largest value among given options": [
+    97
+  ],
+  "Match the correct option with the longest length": [
+    97
+  ],
+  "Identification of highest powers of prime factors": [
+    98
+  ],
+  "Calculation of least common multiple (LCM)": [
+    98
+  ],
+  "Estimating positions on a number line": [
+    99,
+    382
+  ],
+  "Converting decimals to fractions": [
+    99,
+    186,
+    382,
+    499
+  ],
+  "Comparing fractions to decimals": [
+    99
+  ],
+  "Identifying the closest fraction to a given decimal value": [
+    99
+  ],
+  "Factor Tree": [
+    100
+  ],
+  "Factors of 24": [
+    100
+  ],
+  "Division of 24 by 3": [
+    100
+  ],
+  "Finding Missing Factors in Factor Trees": [
+    100
+  ],
+  "properties of regular polygons": [
+    101
+  ],
+  "divisibility and factors": [
+    101
+  ],
+  "geometric construction of polygons": [
+    101
+  ],
+  "spatial reasoning and visualization": [
+    101
+  ],
+  "prime factorization": [
+    102,
+    435,
+    696
+  ],
+  "identification of unique and common factors": [
+    102
+  ],
+  "The product of two negative numbers is positive": [
+    103
+  ],
+  "Venn diagrams": [
+    104,
+    154,
+    888
+  ],
+  "Intersection of sets": [
+    104,
+    129,
+    418,
+    888
+  ],
+  "Factors of 90": [
+    104
+  ],
+  "Multiplication of prime factors": [
+    104,
+    126,
+    633
+  ],
+  "The exterior angle of a triangle is equal to the sum of the two non-adjacent interior angles": [
+    105
+  ],
+  "Given the exterior angle is 135°, it equals the sum of the unknown angle p and the 80° angle": [
+    105
+  ],
+  "To find p, subtract 80° from 135°": [
+    105
+  ],
+  "Vertically opposite angles are equal": [
+    106,
+    295,
+    321,
+    501
+  ],
+  "Alternate angles formed by a transversal intersecting parallel lines are equal": [
+    106
+  ],
+  "Grid dimensions interpretation": [
+    107
+  ],
+  "Unit conversion in linear measurements": [
+    107
+  ],
+  "converting fractions to a common denominator": [
+    108,
+    244,
+    299
+  ],
+  "comparing fractions": [
+    108,
+    299
+  ],
+  "simplifying fractions": [
+    108,
+    121,
+    352,
+    393,
+    426,
+    443,
+    699,
+    719,
+    763,
+    860,
+    904
+  ],
+  "understanding fraction placement on a number line": [
+    108
+  ],
+  "Understanding of basic geometry": [
+    109
+  ],
+  "Knowledge of rectangle area formula": [
+    109
+  ],
+  "Ability to interpret geometric diagrams": [
+    109
+  ],
+  "Understanding of fractions and their operations": [
+    109
+  ],
+  "The slope of a line segment": [
+    110
+  ],
+  "The negative reciprocal of a slope": [
+    110
+  ],
+  "The distance formula in coordinate geometry": [
+    110
+  ],
+  "Checking if two segments are perpendicular": [
+    110
+  ],
+  "Verifying the equality of segment lengths": [
+    110
+  ],
+  "Understanding of number lines": [
+    111,
+    372,
+    606,
+    796
+  ],
+  "Basic arithmetic operations (addition and subtraction)": [
+    111
+  ],
+  "Concept of arithmetic progression or transformation along the number line": [
+    111
+  ],
+  "Interpretation of diagrammatic representation of numbers and operations": [
+    111
+  ],
+  "Grid units and conversion to cm": [
+    112
+  ],
+  "Simplification of fractions": [
+    112,
+    166,
+    407,
+    905
+  ],
+  "Rewriting fractions with a common denominator": [
+    113
+  ],
+  "Subtracting numerators while keeping the denominator the same": [
+    113
+  ],
+  "Alternate interior angles are equal when the lines are parallel.": [
+    116
+  ],
+  "Properties of parallel lines and transversals.": [
+    116
+  ],
+  "The number line shows points at -3 and 7": [
+    117
+  ],
+  "The total length between two points on a number line is calculated by subtracting the smaller value from the larger value": [
+    117
+  ],
+  "Dividing the total length into equal intervals involves dividing the total length by the number of intervals": [
+    117
+  ],
+  "Therefore, the width of each interval is 2 units.": [
+    117
+  ],
+  "Interpreting grid diagrams": [
+    118,
+    160,
+    389,
+    465,
+    781,
+    885
+  ],
+  "Understanding variable representation by colors": [
+    118
+  ],
+  "Comparing quantities visually": [
+    118
+  ],
+  "Inequality concepts": [
+    118
+  ],
+  "Basic algebraic expressions": [
+    118,
+    626,
+    655
+  ],
+  "Calculate exponents": [
+    119
+  ],
+  "Compare numbers": [
+    119,
+    120,
+    184,
+    222
+  ],
+  "Understand inequality symbols": [
+    119,
+    184,
+    377,
+    740,
+    760
+  ],
+  "Calculate exponentiation": [
+    120,
+    752
+  ],
+  "Identify inequality symbol": [
+    120
+  ],
+  "converting whole numbers to fractions": [
+    121,
+    854,
+    860
+  ],
+  "dividing fractions": [
+    121
+  ],
+  "multiplying fractions": [
+    121,
+    426,
+    702,
+    719,
+    854,
+    904,
+    942
+  ],
+  "substitution of variables": [
+    122
+  ],
+  "basic arithmetic operations": [
+    122,
+    249,
+    250,
+    312,
+    352,
+    409,
+    446,
+    539,
+    568
+  ],
+  "comparison of numbers": [
+    122,
+    708,
+    749
+  ],
+  "understanding inequality symbols": [
+    122,
+    564
+  ],
+  "Substitute given values into expression": [
+    123
+  ],
+  "Simplify fractions": [
+    123,
+    296,
+    556,
+    847,
+    883
+  ],
+  "Compare values to determine correct relation": [
+    123
+  ],
+  "Identify symbol that represents the relation": [
+    123
+  ],
+  "Understanding arithmetic sequences": [
+    124
+  ],
+  "Identifying pattern rules": [
+    124
+  ],
+  "Applying algebraic expressions": [
+    124
+  ],
+  "Evaluating expressions": [
+    124
+  ],
+  "Comparing results": [
+    124
+  ],
+  "Pattern recognition in sequences": [
+    124
+  ],
+  "Visualize L-shaped pattern": [
+    125
+  ],
+  "Count exterior sides of L-shape": [
+    125
+  ],
+  "Identify shared internal sides do not contribute to perimeter": [
+    125
+  ],
+  "Each square unit contributes 4 sides but only outer sides count for perimeter": [
+    125
+  ],
+  "Count outer edges of L-shape": [
+    125
+  ],
+  "Each edge represents one unit length": [
+    125
+  ],
+  "Calculate perimeter by counting outer edges": [
+    125
+  ],
+  "Perimeter is 12 units": [
+    125
+  ],
+  "Simplification of exponents": [
+    126
+  ],
+  "Solving equations": [
+    127
+  ],
+  "Exponentiation of fractions": [
+    128
+  ],
+  "Simplifying fraction multiplication": [
+    128
+  ],
+  "Cube numbers": [
+    129
+  ],
+  "Multiples of 9": [
+    129,
+    154
+  ],
+  "Matching options": [
+    129
+  ],
+  "Distance formula for two points in a plane": [
+    130
+  ],
+  "Coordinates of points and their representation in the Cartesian plane": [
+    130
+  ],
+  "Calculation of square roots and basic arithmetic operations": [
+    130
+  ],
+  "Comparison of numerical values to determine greater length": [
+    130
+  ],
+  "Finding a common denominator for fractions": [
+    131
+  ],
+  "Adding fractions with a common denominator": [
+    131
+  ],
+  "Simplifying fractions (if necessary)": [
+    131,
+    208
+  ],
+  "The shape has an upper side and a lower side, each 4 grids long, and a height of 3 grids": [
+    132
+  ],
+  "This describes a trapezoid": [
+    132
+  ],
+  "The formula for the area of a trapezoid is \\( \\text{Area} = \\frac{1}{2} \\times (a + b) \\times h \\), where \\( a \\) and \\( b \\) are the lengths of the parallel sides and \\( h \\) is the height": [
+    132
+  ],
+  "Plugging in the values, we get \\( \\text{Area} = \\frac{1}{2} \\times (4 + 4) \\times 3 = \\frac{1}{2} \\times 8 \\times 3 = 4 \\times 3 = 12 \\) square grids": [
+    132
+  ],
+  "Understanding factors": [
+    133,
+    451
+  ],
+  "Checking divisibility by performing division": [
+    133
+  ],
+  "Identifying correct option from given choices": [
+    133
+  ],
+  "Reading a thermometer scale": [
+    134
+  ],
+  "Understanding temperature change": [
+    134
+  ],
+  "Basic addition of integers": [
+    134,
+    529
+  ],
+  "Interpreting labeled arrows on a diagram": [
+    134
+  ],
+  "Diagonal of a square": [
+    135
+  ],
+  "Pythagorean theorem": [
+    135,
+    196,
+    734,
+    762
+  ],
+  "Comparing areas of geometric shapes": [
+    135
+  ],
+  "Setting up equations with fractions": [
+    136
+  ],
+  "Finding reciprocals": [
+    136
+  ],
+  "Solving equations for an unknown": [
+    136
+  ],
+  "Multiplication of whole numbers": [
+    136,
+    803,
+    937
+  ],
+  "Perimeter of a square": [
+    137
+  ],
+  "Perimeter of a rectangle": [
+    137
+  ],
+  "Simplifying expressions with radicals": [
+    137
+  ],
+  "Substitution of values in algebraic expressions": [
+    137
+  ],
+  "Combining like terms in algebra": [
+    138
+  ],
+  "converting fractions to decimals": [
+    139,
+    719
+  ],
+  "division": [
+    139,
+    312,
+    374,
+    378,
+    450,
+    485,
+    519,
+    525,
+    539,
+    580,
+    580,
+    767,
+    794,
+    839,
+    890
+  ],
+  "decimal representation of fractions": [
+    139,
+    450
+  ],
+  "Identifying parts of a whole": [
+    140,
+    381,
+    621,
+    892
+  ],
+  "Recognizing highlighted and unhighlighted segments in a diagram": [
+    140
+  ],
+  "Calculating the fraction of unhighlighted segments": [
+    140
+  ],
+  "Interpreting the question mark in the context of the diagram": [
+    140
+  ],
+  "Finding prime factors of a number": [
+    141
+  ],
+  "Divisibility rules for prime numbers": [
+    141
+  ],
+  "Definition of prime numbers": [
+    141,
+    469
+  ],
+  "Definition of composite numbers": [
+    141
+  ],
+  "Understanding that 1 is not a prime number": [
+    141
+  ],
+  "Substitution in equations": [
+    142
+  ],
+  "Solving inequalities": [
+    142
+  ],
+  "Comparing inequalities": [
+    142
+  ],
+  "Logical reasoning in algebra": [
+    142
+  ],
+  "The sum of two numbers": [
+    143,
+    281
+  ],
+  "Calculating with negative numbers": [
+    143
+  ],
+  "Finding the whole from a part": [
+    144
+  ],
+  "Fraction multiplication": [
+    144,
+    166,
+    180,
+    240,
+    407,
+    518,
+    556
+  ],
+  "Basic algebraic manipulation": [
+    144,
+    442,
+    452,
+    629,
+    646,
+    899
+  ],
+  "multiplying positive and negative numbers": [
+    145
+  ],
+  "dividing positive and negative numbers": [
+    145
+  ],
+  "interpreting number line diagrams": [
+    145
+  ],
+  "understanding direction and magnitude on number lines": [
+    145
+  ],
+  "constructing triangles": [
+    146
+  ],
+  "triangle construction requirements": [
+    146
+  ],
+  "SSS congruence": [
+    146
+  ],
+  "SAS congruence": [
+    146
+  ],
+  "AAS congruence": [
+    146
+  ],
+  "ASA congruence": [
+    146
+  ],
+  "protractor use": [
+    146
+  ],
+  "Simplification of expressions": [
+    147,
+    248,
+    629,
+    751
+  ],
+  "Power of a product rule": [
+    147
+  ],
+  "Comparing expressions with exponents": [
+    147
+  ],
+  "Interpreting geometric shapes and their dimensions": [
+    148
+  ],
+  "Understanding inequalities": [
+    148
+  ],
+  "Multiplication of whole numbers by fractions": [
+    149
+  ],
+  "Division of whole numbers by fractions": [
+    149
+  ],
+  "Understanding the effect of multiplying by a fraction less than 1": [
+    149
+  ],
+  "Understanding the effect of dividing by a fraction less than 1": [
+    149
+  ],
+  "Comparing results of multiplication and division with the original number": [
+    149
+  ],
+  "Translation in coordinate geometry": [
+    151
+  ],
+  "Reflection in coordinate geometry": [
+    151
+  ],
+  "Determining transformation vectors": [
+    151
+  ],
+  "Applying transformations to geometric shapes": [
+    151
+  ],
+  "Verifying transformation accuracy through coordinates": [
+    151
+  ],
+  "Combining transformations for complex mappings": [
+    151
+  ],
+  "Understanding arithmetic operations": [
+    152
+  ],
+  "Identifying patterns in sequences": [
+    152
+  ],
+  "Applying algebraic expressions to model patterns": [
+    152
+  ],
+  "Verifying methods against known data points": [
+    152
+  ],
+  "Evaluating the correctness of mathematical models": [
+    152
+  ],
+  "": [
+    152,
+    202,
+    278,
+    465,
+    672,
+    712,
+    718,
+    729,
+    754,
+    907
+  ],
+  "Convert mixed numbers to improper fractions": [
+    153,
+    897
+  ],
+  "Multiply the whole number by the denominator": [
+    153
+  ],
+  "Add the product to the numerator": [
+    153
+  ],
+  "Write the sum over the original denominator": [
+    153
+  ],
+  "Multiples of 6": [
+    154
+  ],
+  "Integer division and remainders": [
+    154
+  ],
+  "Set notation and membership": [
+    154
+  ],
+  "Properties of isosceles triangles": [
+    155,
+    175,
+    530,
+    661,
+    846
+  ],
+  "Right triangle properties": [
+    155
+  ],
+  "Angle calculation in triangles": [
+    155
+  ],
+  "Plotting points on a coordinate plane": [
+    156,
+    268,
+    431,
+    432,
+    526,
+    801,
+    837,
+    891
+  ],
+  "Dividing complex shapes into simpler shapes": [
+    156,
+    723
+  ],
+  "Calculating the area of a rectangle": [
+    156,
+    431
+  ],
+  "Calculating the area of a triangle": [
+    156,
+    431
+  ],
+  "Adding areas of simpler shapes to find the total area": [
+    156,
+    431,
+    573
+  ],
+  "definition of factors": [
+    157
+  ],
+  "division with no remainder": [
+    157
+  ],
+  "identifying factors of a number": [
+    157
+  ],
+  "exponentiation": [
+    158,
+    383,
+    485,
+    708,
+    728,
+    791,
+    828
+  ],
+  "multiplication of negative numbers": [
+    158
+  ],
+  "Solving linear inequalities": [
+    159
+  ],
+  "Interpreting geometric diagrams": [
+    159,
+    217,
+    338,
+    894
+  ],
+  "Adding the same value to both sides of an inequality": [
+    159
+  ],
+  "Understanding the relationship between algebraic expressions and geometric shapes": [
+    159
+  ],
+  "Comparing variable lengths to constant values in geometric contexts": [
+    159
+  ],
+  "Counting elements in a diagram": [
+    160
+  ],
+  "Matching diagram elements to algebraic expressions": [
+    160
+  ],
+  "Understanding color-coded variables": [
+    160
+  ],
+  "Identifying relevant information in a figure": [
+    160
+  ],
+  "Translating visual information into equations": [
+    160,
+    808
+  ],
+  "Integer arithmetic": [
+    161,
+    868
+  ],
+  "The rectangle is centered on the y-axis": [
+    162
+  ],
+  "The vertices of the rectangle are at (-4, -2), (2, -2), (-4, -5), and (2, -5)": [
+    162
+  ],
+  "The line of symmetry must be a vertical line passing through the center of the rectangle": [
+    162
+  ],
+  "The rectangle is symmetric about the y-axis": [
+    162
+  ],
+  "The equation of the y-axis is x = 0": [
+    162
+  ],
+  "Understanding factors and multiples": [
+    163
+  ],
+  "Division of numbers": [
+    163,
+    905
+  ],
+  "Whole numbers and fractions": [
+    163
+  ],
+  "Prime and composite numbers": [
+    163
+  ],
+  "subtracting fractions with different denominators": [
+    164
+  ],
+  "finding least common denominator": [
+    164
+  ],
+  "converting fractions to equivalent fractions": [
+    164
+  ],
+  "subtracting fractions with the same denominator": [
+    164,
+    299
+  ],
+  "Multiples of 3": [
+    165,
+    688
+  ],
+  "Multiples of 4": [
+    165
+  ],
+  "Linear equations": [
+    165
+  ],
+  "Integer solutions": [
+    165
+  ],
+  "Testing specific values": [
+    165
+  ],
+  "Exponentiation rules": [
+    166
+  ],
+  "Evaluating expressions with exponents": [
+    166
+  ],
+  "Properties of a rectangle": [
+    167,
+    341,
+    359,
+    872
+  ],
+  "Coordinate geometry": [
+    167,
+    267,
+    308,
+    390,
+    455,
+    870,
+    871,
+    917
+  ],
+  "Understanding of factor trees": [
+    168
+  ],
+  "Basic multiplication and division skills": [
+    168
+  ],
+  "Knowledge of how to set up and solve simple algebraic equations": [
+    168
+  ],
+  "Understanding of Venn diagrams": [
+    169,
+    356,
+    486
+  ],
+  "Concept of multiples": [
+    169
+  ],
+  "Identifying multiples of a number": [
+    169
+  ],
+  "Relationship between multiples and factors": [
+    169
+  ],
+  "Analyzing set relationships in Venn diagrams": [
+    169
+  ],
+  "Distance formula": [
+    170,
+    267,
+    359,
+    871
+  ],
+  "Perimeter of a polygon": [
+    170
+  ],
+  "Identify the given information: two parallel lines cut by a transversal and angle p is labeled on the diagram": [
+    171
+  ],
+  "Corresponding angles are located in matching corners where a transversal crosses two parallel lines": [
+    171
+  ],
+  "Angle p is on the bottom left corner of the left side of the transversal": [
+    171
+  ],
+  "Look for the angle that is in the same position on the right side of the transversal": [
+    171
+  ],
+  "Properties of a parallelogram": [
+    172,
+    341,
+    488
+  ],
+  "Area formula for a parallelogram": [
+    172
+  ],
+  "Identifying the base and height of a parallelogram in a diagram": [
+    172
+  ],
+  "Calculating fractions of quantities": [
+    173
+  ],
+  "Dividing volumes to find fractions": [
+    173
+  ],
+  "properties of rectangles": [
+    174,
+    218,
+    600
+  ],
+  "vector addition": [
+    174,
+    355
+  ],
+  "coordinate geometry": [
+    174,
+    237,
+    275,
+    355,
+    456,
+    489,
+    552,
+    575,
+    595,
+    604,
+    609,
+    762,
+    818
+  ],
+  "The perimeter of an isosceles triangle": [
+    175
+  ],
+  "Fraction arithmetic": [
+    175
+  ],
+  "Coordinate Geometry": [
+    176
+  ],
+  "Movement in Coordinate Plane": [
+    176
+  ],
+  "Distance Calculation in Coordinates": [
+    176
+  ],
+  "Directional Movements (Left, Right, Up, Down)": [
+    176
+  ],
+  "Subtraction of integers": [
+    177,
+    199,
+    585,
+    849
+  ],
+  "Solving for an unknown variable": [
+    177,
+    585
+  ],
+  "Subtracting integers": [
+    178,
+    833
+  ],
+  "Solving equations involving fractions": [
+    179
+  ],
+  "Dividing fractions": [
+    179,
+    186,
+    698,
+    893,
+    925
+  ],
+  "Reciprocal of a fraction": [
+    179,
+    186
+  ],
+  "Canceling out common factors": [
+    180
+  ],
+  "Interpreting answer choices": [
+    180,
+    331,
+    773
+  ],
+  "Understanding coordinate geometry": [
+    181
+  ],
+  "Rotating points around the origin": [
+    181
+  ],
+  "Reversing signs of coordinates for 180-degree rotation": [
+    181
+  ],
+  "Cartesian plane and coordinates": [
+    181
+  ],
+  "Basic algebraic operations": [
+    181
+  ],
+  "Converting 12-hour time to 24-hour time": [
+    182
+  ],
+  "Subtracting time": [
+    182
+  ],
+  "Converting minutes to hours": [
+    182
+  ],
+  "Adding hours": [
+    182
+  ],
+  "Interpreting temperature data from a table": [
+    183,
+    833
+  ],
+  "Calculating temperature difference using subtraction": [
+    183
+  ],
+  "Understanding positive and negative temperatures": [
+    183,
+    833
+  ],
+  "Identifying specific data points from a schedule or timetable": [
+    183
+  ],
+  "Calculate subtraction": [
+    184
+  ],
+  "Interpret given final answer symbol": [
+    184
+  ],
+  "Identify correct symbol based on comparison": [
+    184
+  ],
+  "Understanding of inequality symbols > and <": [
+    185
+  ],
+  "Basic number line understanding for comparing negative numbers": [
+    185
+  ],
+  "Equality preservation": [
+    187
+  ],
+  "Arithmetic operations": [
+    187,
+    228,
+    614,
+    623,
+    811,
+    923
+  ],
+  "Understanding prime factorization": [
+    188,
+    590
+  ],
+  "Recognizing powers of prime numbers": [
+    188
+  ],
+  "Identifying factors from prime factorization": [
+    188,
+    851
+  ],
+  "Basic exponent rules": [
+    188
+  ],
+  "Multiplication properties of exponents": [
+    188
+  ],
+  "Understanding the relationship between a number and its powers": [
+    188
+  ],
+  "Identify prime factors from Venn diagram": [
+    189
+  ],
+  "Identify common prime factors in the intersection": [
+    189
+  ],
+  "Multiply common prime factors to find HCF": [
+    189
+  ],
+  "Identify factors of a number": [
+    190
+  ],
+  "Identify multiples of a number": [
+    190
+  ],
+  "Determine common values between two sets of numbers": [
+    190
+  ],
+  "Reflecting an object across a line of reflection": [
+    191
+  ],
+  "Maintaining equal distance from the line of reflection": [
+    191
+  ],
+  "Understanding the position of the reflected image relative to the original object": [
+    191
+  ],
+  "Multiplication by fractions less than 1": [
+    192
+  ],
+  "Division by fractions less than 1": [
+    192
+  ],
+  "Counterexamples to disprove statements": [
+    192
+  ],
+  "determine the greatest common factor": [
+    193
+  ],
+  "factor out the greatest common factor from an expression": [
+    193
+  ],
+  "compare factored expressions to original suggestions": [
+    193
+  ],
+  "Using a protractor to measure angles": [
+    194,
+    625,
+    727,
+    772
+  ],
+  "Using a ruler to measure lengths": [
+    194
+  ],
+  "Constructing a triangle with given side lengths and an angle": [
+    194
+  ],
+  "Identifying the instruments used in geometric constructions": [
+    194
+  ],
+  "Adding negative numbers": [
+    195,
+    639
+  ],
+  "Multiplication as repeated addition": [
+    195,
+    579
+  ],
+  "Triangle inequality theorem": [
+    196,
+    586
+  ],
+  "Algebraic comparison": [
+    196
+  ],
+  "Inequality symbols": [
+    196,
+    945
+  ],
+  "Associativity": [
+    197,
+    624
+  ],
+  "Distributive property": [
+    197,
+    379
+  ],
+  "Addition associativity": [
+    197
+  ],
+  "Multiplication associativity": [
+    197
+  ],
+  "Distributive property of multiplication over subtraction": [
+    198
+  ],
+  "Breaking down multiplication into smaller steps": [
+    198
+  ],
+  "Verification of results through alternative methods": [
+    198
+  ],
+  "Floor numbering in buildings": [
+    199
+  ],
+  "The perimeter of a rectangle is the sum of all its sides": [
+    200
+  ],
+  "For a rectangle with length a and width b, it has two lengths and two widths": [
+    200
+  ],
+  "The formula for the perimeter P is P = 2a + 2b": [
+    200
+  ],
+  "Locate angle p": [
+    201,
+    664
+  ],
+  "Understand alternate angles": [
+    201
+  ],
+  "Find alternate angle to p": [
+    201
+  ],
+  "Identify angle at point B as alternate to p": [
+    201
+  ],
+  "The hour hand points between 12 and 1, and the minute hand points to 6 which means it is half past the hour": [
+    202
+  ],
+  "In a 12-hour format, this time would be said as twelve thirty": [
+    202
+  ],
+  "In a 24-hour format, this time would be said as thirteen thirty": [
+    202
+  ],
+  "Understanding 12-hour and 24-hour time formats": [
+    202
+  ],
+  "Understanding of perimeter": [
+    203,
+    540
+  ],
+  "Ability to identify outer edges of compound shapes": [
+    203
+  ],
+  "Basic addition skills": [
+    203
+  ],
+  "Interpretation of geometric figures and dimensions": [
+    203
+  ],
+  "Knowledge of rectangles and their properties": [
+    203
+  ],
+  "Identify coordinates of rectangle's sides": [
+    204
+  ],
+  "Check coordinates against sides": [
+    204
+  ],
+  "Coordinates on perimeter must match x or y of sides": [
+    204
+  ],
+  "Verify option against perimeter criteria": [
+    204
+  ],
+  "The vector represented as \\(\\binom{-5}{2}\\) is a column vector in two-dimensional space": [
+    205
+  ],
+  "It has two components: -5 and 2": [
+    205
+  ],
+  "The first component -5 represents the horizontal (x) direction": [
+    205
+  ],
+  "The second component 2 represents the vertical (y) direction": [
+    205
+  ],
+  "This vector can be interpreted as moving 5 units to the left and 2 units up from the origin in the coordinate plane": [
+    205
+  ],
+  "Therefore, the vector \\(\\binom{-5}{2}\\) specifies a direction and magnitude in 2D space": [
+    205
+  ],
+  "Interpreting grid patterns": [
+    206,
+    898
+  ],
+  "Translating visual information into algebraic expressions": [
+    206,
+    217
+  ],
+  "Evaluating algebraic equations for accuracy": [
+    206
+  ],
+  "Understanding variables in equations": [
+    206
+  ],
+  "Comparing equations to visual data": [
+    206
+  ],
+  "Grid and pattern recognition in algebra": [
+    206
+  ],
+  "Vertical angles are congruent": [
+    207
+  ],
+  "Supplementary angles add up to 180°": [
+    207,
+    920
+  ],
+  "Dividing a quantity among a group": [
+    208
+  ],
+  "Fractions representing parts of a whole": [
+    208
+  ],
+  "Understanding of temperature scales": [
+    209
+  ],
+  "Comparison of temperatures": [
+    209
+  ],
+  "Freezing point of water": [
+    209,
+    764
+  ],
+  "Warmth and coldness comparison": [
+    209
+  ],
+  "Interpreting geometric figures to understand variable relationships": [
+    210
+  ],
+  "Comparing visual lengths or areas to algebraic expressions": [
+    210
+  ],
+  "Understanding inequality relationships": [
+    210
+  ],
+  "Evaluating algebraic expressions with variables and constants": [
+    210
+  ],
+  "Visual estimation of comparative sizes in diagrams": [
+    210
+  ],
+  "Understanding multiples and factors": [
+    211
+  ],
+  "distributive property of multiplication over addition": [
+    212,
+    475,
+    513
+  ],
+  "factoring out common factors": [
+    212,
+    409
+  ],
+  "If a number is a factor of another number then it divides that number evenly": [
+    213,
+    840
+  ],
+  "Factors of a number divide the number without leaving a remainder": [
+    213
+  ],
+  "The factors of 12 are 1, 2, 3, 4, 6, and 12": [
+    213
+  ],
+  "If 12 is a factor of a number, then that number can be expressed as 12 multiplied by some integer": [
+    213
+  ],
+  "Any factor of 12 is also a factor of any multiple of 12": [
+    213
+  ],
+  "Hence, another factor of that number must be 6": [
+    213
+  ],
+  "The angles p and q together form a full circle around the point of tangency": [
+    214
+  ],
+  "The angles p and q do not cover the entire circle; there is a gap where the circle is tangent to one side of angle p": [
+    214
+  ],
+  "Therefore, the sum of the angles p and q must be less than 360 degrees": [
+    214
+  ],
+  "This means p + q < 360 degrees": [
+    214
+  ],
+  "Tom is correct": [
+    214
+  ],
+  "formula for area of a triangle": [
+    215
+  ],
+  "comparison of numerical values": [
+    215,
+    564
+  ],
+  "Observe the given angle carefully": [
+    216
+  ],
+  "The angle appears to be slightly less than a right angle": [
+    216
+  ],
+  "A right angle measures 90 degrees": [
+    216
+  ],
+  "Estimate the angle based on its appearance relative to 90 degrees": [
+    216
+  ],
+  "Compare the estimated angle to the provided options": [
+    216
+  ],
+  "Select the option that is closest to the estimated angle": [
+    216
+  ],
+  "Understanding and manipulating inequalities": [
+    217
+  ],
+  "Evaluating the truth of algebraic statements": [
+    217
+  ],
+  "properties of parallelograms": [
+    218,
+    600,
+    776
+  ],
+  "diagonals in quadrilaterals": [
+    218
+  ],
+  "angle properties in rectangles": [
+    218
+  ],
+  "angle properties in parallelograms": [
+    218
+  ],
+  "Perform addition and subtraction": [
+    219
+  ],
+  "Compare numbers using inequality symbols": [
+    219
+  ],
+  "Finding the greatest common divisor (GCD)": [
+    220
+  ],
+  "Simplifying fractions by dividing the numerator and denominator by their GCD": [
+    220
+  ],
+  "Basic arithmetic operations (division)": [
+    220
+  ],
+  "Understanding and representing fractions in their simplest form": [
+    220
+  ],
+  "Reflection over the line y = x": [
+    221
+  ],
+  "Swapping coordinates to reflect a point": [
+    221
+  ],
+  "Convert between minutes and seconds": [
+    222,
+    691
+  ],
+  "Order numbers from greatest to least": [
+    222
+  ],
+  "Division by prime numbers": [
+    223,
+    783
+  ],
+  "Identifying prime numbers": [
+    223,
+    783,
+    944
+  ],
+  "Simplifying prime factorization expressions": [
+    223
+  ],
+  "Rotation of a point about a given center": [
+    224
+  ],
+  "90-degree anticlockwise rotation formula": [
+    224,
+    268
+  ],
+  "Applying the rotation formula to each vertex": [
+    224
+  ],
+  "Comparing transformed vertices with given options": [
+    224
+  ],
+  "Identify common factors": [
+    225
+  ],
+  "Determine the highest common factor": [
+    225
+  ],
+  "Mayan number system": [
+    226,
+    674
+  ],
+  "Dots and bars representation": [
+    226,
+    674
+  ],
+  "Value of dots and bars": [
+    226,
+    674
+  ],
+  "Counting dots and bars": [
+    226
+  ],
+  "Converting Mayan numerals to decimal": [
+    226
+  ],
+  "Summing values of Mayan numerals": [
+    226
+  ],
+  "understanding of symmetry": [
+    227
+  ],
+  "ability to reflect shapes across a line": [
+    227
+  ],
+  "knowledge of mirror images": [
+    227
+  ],
+  "comparison of visual patterns and colors": [
+    227
+  ],
+  "识别对称轴两侧的图形和颜色匹配": [
+    227
+  ],
+  "understanding of geometric transformations": [
+    227
+  ],
+  "visualization skills": [
+    227
+  ],
+  "Equally spaced points on a line segment": [
+    228,
+    235
+  ],
+  "Coordinates of points": [
+    228
+  ],
+  "Definition of a parallelogram": [
+    229,
+    262
+  ],
+  "Properties of symmetry in geometric shapes": [
+    229
+  ],
+  "Identification of lines of symmetry in quadrilaterals": [
+    229
+  ],
+  "Characteristics of rectangles and rhombuses as special cases of parallelograms": [
+    229
+  ],
+  "Understanding that a general parallelogram lacks lines of symmetry": [
+    229
+  ],
+  "len(p) = 1": [
+    230
+  ],
+  "len(q) = √2": [
+    230
+  ],
+  "len(r) = √5": [
+    230
+  ],
+  "addition of lengths": [
+    230
+  ],
+  "comparison of lengths": [
+    230
+  ],
+  "symbol selection based on comparison": [
+    230
+  ],
+  "Supplementary angles add up to 180 degrees": [
+    231,
+    363,
+    406,
+    802,
+    914
+  ],
+  "Parallel lines create supplementary adjacent angles when intersected by a transversal": [
+    231
+  ],
+  "Angle calculation using supplementary angle property": [
+    231
+  ],
+  "Distance formula in coordinate geometry": [
+    232
+  ],
+  "Simplifying square roots": [
+    232
+  ],
+  "Comparing numerical values": [
+    232,
+    567
+  ],
+  "Understanding of division and fractions": [
+    233
+  ],
+  "Tautology in mathematics": [
+    233
+  ],
+  "Conditions for division validity (denominator not equal to zero)": [
+    233
+  ],
+  "Interpretation of mathematical statements involving variables": [
+    233
+  ],
+  "Differentiation between always true, sometimes true, and never true statements": [
+    233
+  ],
+  "Subtracting a negative is the same as adding a positive": [
+    234
+  ],
+  "Basic arithmetic operations: addition and subtraction": [
+    234
+  ],
+  "Understanding integer values and their signs": [
+    234
+  ],
+  "Midpoint formula for a line segment": [
+    235
+  ],
+  "Coordinate geometry calculations": [
+    235
+  ],
+  "Arithmetic operations with integers and fractions": [
+    235
+  ],
+  "definition of an isosceles trapezoid": [
+    236
+  ],
+  "properties of trapezoids": [
+    236,
+    600
+  ],
+  "parallel sides in a trapezoid": [
+    236
+  ],
+  "distance formula": [
+    237,
+    275,
+    384,
+    398,
+    437,
+    456,
+    552,
+    565,
+    609,
+    762,
+    818
+  ],
+  "slope formula": [
+    237,
+    398
+  ],
+  "negative reciprocal slope": [
+    237
+  ],
+  "point-slope form of a line": [
+    237
+  ],
+  "properties of a square": [
+    237,
+    364,
+    762,
+    818
+  ],
+  "Reading data from a table": [
+    238
+  ],
+  "Understanding temperature units (Celsius)": [
+    238
+  ],
+  "Calculating the difference between two temperatures": [
+    238
+  ],
+  "Handling negative numbers in calculations": [
+    238
+  ],
+  "Find a common denominator for the fractions": [
+    239,
+    253,
+    266
+  ],
+  "Convert each fraction to have the common denominator": [
+    239,
+    266
+  ],
+  "Perform the operations with the converted fractions": [
+    239,
+    266
+  ],
+  "Simplify the result": [
+    239
+  ],
+  "Fraction subtraction": [
+    240,
+    518
+  ],
+  "Understanding the Indian number system": [
+    241,
+    594
+  ],
+  "Place values in the Indian number system": [
+    241,
+    289,
+    594
+  ],
+  "Addition of numbers": [
+    241
+  ],
+  "Numerical representation in the Indian number system": [
+    241
+  ],
+  "subtraction as addition of negative": [
+    242
+  ],
+  "commutative property of addition": [
+    242,
+    402,
+    889
+  ],
+  "arithmetic properties": [
+    242
+  ],
+  "Sum of interior angles of a quadrilateral": [
+    243,
+    251
+  ],
+  "Adding angles": [
+    243
+  ],
+  "Subtracting angles": [
+    243
+  ],
+  "finding a common denominator": [
+    244,
+    393,
+    544,
+    797,
+    854
+  ],
+  "adding fractions": [
+    244,
+    797
+  ],
+  "converting improper fractions to mixed numbers": [
+    244,
+    426,
+    797
+  ],
+  "comparing mixed numbers to whole numbers": [
+    244
+  ],
+  "The original area of the shape is 4 cm²": [
+    245
+  ],
+  "When a shape is enlarged by a scale factor, the area is increased by the square of that scale factor": [
+    245
+  ],
+  "The scale factor here is 5, so the area will be multiplied by 5² = 25": [
+    245
+  ],
+  "Therefore, the new area is 4 cm² × 25 = 100 cm²": [
+    245
+  ],
+  "Definition of an isosceles triangle": [
+    246
+  ],
+  "Formula for perimeter of a triangle": [
+    246
+  ],
+  "Addition of lengths": [
+    246,
+    720
+  ],
+  "Translation in geometry": [
+    247,
+    308
+  ],
+  "Identifying corresponding points on shapes": [
+    247
+  ],
+  "Measuring horizontal and vertical distances": [
+    247
+  ],
+  "Combining horizontal and vertical movements": [
+    247
+  ],
+  "Multiplication properties": [
+    248,
+    506,
+    629,
+    751
+  ],
+  "Distributive property of multiplication": [
+    248
+  ],
+  "Division to isolate variable": [
+    248,
+    629
+  ],
+  "distributive property": [
+    249,
+    627,
+    856
+  ],
+  "algebraic simplification": [
+    249,
+    777
+  ],
+  "division of integers": [
+    250,
+    834
+  ],
+  "sign rules for division": [
+    250
+  ],
+  "Properties of a kite": [
+    251,
+    339,
+    766
+  ],
+  "Equal adjacent sides in a kite": [
+    251
+  ],
+  "Opposite angles in a kite": [
+    251,
+    339
+  ],
+  "Calculation of remaining angles in a kite": [
+    251
+  ],
+  "Division of equal angles": [
+    251
+  ],
+  "Understanding negative numbers and their order": [
+    252
+  ],
+  "Comparing and ordering numbers": [
+    252
+  ],
+  "Matching values to corresponding items": [
+    252
+  ],
+  "Interpreting depth below sea level": [
+    252
+  ],
+  "Convert fractions to equivalent fractions with a common denominator": [
+    253,
+    603
+  ],
+  "Add the two equivalent fractions": [
+    253
+  ],
+  "Simplify the resulting fraction if necessary": [
+    253
+  ],
+  "Whole numbers": [
+    254
+  ],
+  "Substitute value into variable": [
+    255
+  ],
+  "Evaluate absolute value": [
+    255
+  ],
+  "Compare numbers using inequality signs": [
+    255
+  ],
+  "ruler": [
+    256,
+    317,
+    487
+  ],
+  "protractor": [
+    256,
+    317
+  ],
+  "compass": [
+    256,
+    487
+  ],
+  "grid paper": [
+    256
+  ],
+  "triangle construction": [
+    256,
+    317
+  ],
+  "side measurement": [
+    256
+  ],
+  "Given multiplication fact": [
+    257
+  ],
+  "Inverse operation of multiplication is division": [
+    257
+  ],
+  "Using given information to find the quotient": [
+    257
+  ],
+  "Dividing both sides of an equation by the same number maintains equality": [
+    257
+  ],
+  "When a shape is enlarged by a scale factor, the area changes by the square of that scale factor": [
+    258
+  ],
+  "Jo says the area is half as big with a scale factor of 0.5. This would mean the area is 0.5^2 = 0.25 times the original area, not half": [
+    258
+  ],
+  "Paul says with a scale factor of 2, the area is 4 times as big. This is correct because 2^2 = 4": [
+    258
+  ],
+  "Distributive property of multiplication over addition and subtraction": [
+    259,
+    653,
+    735
+  ],
+  "Exponent rules for counting factors": [
+    260
+  ],
+  "Multiplication principle": [
+    260
+  ],
+  "Time conversion between hours and minutes": [
+    261
+  ],
+  "Basic arithmetic operations (addition and division)": [
+    261
+  ],
+  "Understanding of units and their conversions": [
+    261
+  ],
+  "Interpretation of multiple-choice options": [
+    261
+  ],
+  "Properties of a square": [
+    262,
+    341,
+    484
+  ],
+  "Properties of a rhombus": [
+    262,
+    536,
+    560,
+    734,
+    737
+  ],
+  "Sign rules for multiplication": [
+    263,
+    436
+  ],
+  "Understanding rotational symmetry": [
+    264
+  ],
+  "Identifying shapes formed by intersecting circles": [
+    264
+  ],
+  "Determining the number of times a shape looks the same in one full rotation": [
+    264
+  ],
+  "Recognizing 0 and 180-degree rotations": [
+    264
+  ],
+  "Matching the order of symmetry to given options": [
+    264
+  ],
+  "Identify intersecting lines and angles": [
+    265
+  ],
+  "Recognize co-interior (allied) angles": [
+    265
+  ],
+  "Locate corresponding angles in geometric configurations": [
+    265
+  ],
+  "Identify angles formed by a transversal crossing parallel lines": [
+    265
+  ],
+  "Understand angle relationships in parallel lines cut by a transversal": [
+    265
+  ],
+  "Combine the numerators over the common denominator": [
+    266
+  ],
+  "Simplify the numerator": [
+    266
+  ],
+  "Equally spaced points on a line": [
+    267,
+    871
+  ],
+  "Linear interpolation": [
+    267
+  ],
+  "Scaling coordinates": [
+    267
+  ],
+  "Vector addition": [
+    267,
+    919
+  ],
+  "Understanding rotations in the coordinate plane": [
+    268
+  ],
+  "270-degree counterclockwise (or 90-degree clockwise) rotation formula": [
+    268
+  ],
+  "Applying rotation formulas to specific points": [
+    268
+  ],
+  "Verifying transformed points against target shape coordinates": [
+    268
+  ],
+  "Understanding of fraction as division": [
+    269
+  ],
+  "Identifying equivalent expressions": [
+    269
+  ],
+  "Matching calculations to word problems": [
+    269
+  ],
+  "Recognizing equivalent fractions": [
+    270
+  ],
+  "Interpreting bar diagrams for fractions": [
+    270
+  ],
+  "Understanding translation vectors": [
+    271
+  ],
+  "Applying vector components to coordinates": [
+    271
+  ],
+  "Checking translation direction and magnitude": [
+    271
+  ],
+  "The formula for the area of a rectangle is length times width": [
+    272
+  ],
+  "Substitute the given values into the formula": [
+    272,
+    350,
+    778
+  ],
+  "Calculate the multiplication": [
+    272
+  ],
+  "Understanding units for area measurement": [
+    272
+  ],
+  "90 degrees clockwise rotation": [
+    273
+  ],
+  "Finding image point after rotation": [
+    273
+  ],
+  "Coordinate plane": [
+    273
+  ],
+  "Centre of rotation": [
+    273
+  ],
+  "Corresponding angles theorem": [
+    274,
+    689
+  ],
+  "Parallel lines definition": [
+    274
+  ],
+  "Angle measurement interpretation": [
+    274
+  ],
+  "properties of parallelogram": [
+    275
+  ],
+  "properties of rhombus": [
+    275
+  ],
+  "shape identification": [
+    275
+  ],
+  "side length comparison": [
+    275
+  ],
+  "Understanding of positive and negative numbers": [
+    276
+  ],
+  "Rotational symmetry of shapes": [
+    277
+  ],
+  "Orders of rotational symmetry for common quadrilaterals": [
+    277
+  ],
+  "Square's rotational symmetry properties": [
+    277
+  ],
+  "Rectangle's rotational symmetry properties": [
+    277
+  ],
+  "Rhombus's rotational symmetry properties": [
+    277
+  ],
+  "Understanding number line movements": [
+    278
+  ],
+  "Interpreting diagram information": [
+    278
+  ],
+  "Substitution": [
+    279,
+    623,
+    835,
+    868
+  ],
+  "Simplification of equations": [
+    279
+  ],
+  "Verification of equations": [
+    279
+  ],
+  "Understanding grid structures": [
+    280
+  ],
+  "Visualizing removal of elements from a grid": [
+    280
+  ],
+  "Recognizing patterns in grid modifications": [
+    280
+  ],
+  "Matching modified grid patterns to given options": [
+    280
+  ],
+  "Replacing a variable with a calculated value": [
+    281
+  ],
+  "Interpreting multiple choice options": [
+    281,
+    844
+  ],
+  "Understanding of fractions and division": [
+    282
+  ],
+  "Knowledge of integer multiplication and addition": [
+    282
+  ],
+  "Ability to interpret number line diagrams": [
+    282
+  ],
+  "Understanding of inverse operations": [
+    282
+  ],
+  "Knowledge of basic algebraic manipulation": [
+    282
+  ],
+  "Simplification of arithmetic expressions": [
+    283,
+    755
+  ],
+  "A prime number has exactly two distinct positive divisors: 1 and itself": [
+    284
+  ],
+  "A multiple of 7 can be written as 7k, where k is an integer": [
+    284
+  ],
+  "For 7k to be a prime number, k must be 1 because if k were greater than 1, 7k would have more than two divisors": [
+    284
+  ],
+  "Therefore, the number is 7 * 1 = 7": [
+    284
+  ],
+  "Commutative Property of Addition": [
+    285
+  ],
+  "Order of Numbers in Addition": [
+    285
+  ],
+  "coordinate reflection": [
+    286
+  ],
+  "vertical distance calculation": [
+    286
+  ],
+  "unchanged x-coordinate in vertical reflection": [
+    286
+  ],
+  "line of reflection equation": [
+    286
+  ],
+  "Converting fractions to decimals": [
+    287,
+    294,
+    499,
+    608,
+    680,
+    774
+  ],
+  "Converting decimals to percentages": [
+    287
+  ],
+  "Understanding whole numbers and decimals in percentages": [
+    287
+  ],
+  "Fraction to percentage conversion examples": [
+    287
+  ],
+  "Decimal to percentage conversion examples": [
+    287
+  ],
+  "Knowing the length and width of each rectangle allows calculating each rectangle's area, but not necessarily the perimeter of the combined shape, as it depends on how the rectangles are placed together.": [
+    288
+  ],
+  "The area of the combined shape can be found by adding the areas of the individual rectangles.": [
+    288
+  ],
+  "Perimeter calculation depends on the arrangement of rectangles.": [
+    288
+  ],
+  "Indian number system structure": [
+    289
+  ],
+  "Conversion between Crores and Millions": [
+    289
+  ],
+  "Understanding the representation of large numbers in the Indian system": [
+    289
+  ],
+  "Understanding of basic arithmetic operations (addition and division)": [
+    290
+  ],
+  "Ability to interpret visual information and translate it into a mathematical expression": [
+    290
+  ],
+  "Knowledge of order of operations": [
+    290
+  ],
+  "Understanding of multiple-choice format and how to match answers to options": [
+    290
+  ],
+  "Understanding the properties of an isosceles hexagon": [
+    291
+  ],
+  "Identifying the side lengths from the given information": [
+    291
+  ],
+  "Calculating the perimeter by summing all side lengths": [
+    291
+  ],
+  "Substituting given numerical values into the perimeter formula": [
+    291
+  ],
+  "Factoring out common factors from algebraic expressions": [
+    291
+  ],
+  "Matching the simplified expression with the given options": [
+    291
+  ],
+  "associative property of multiplication": [
+    292,
+    522
+  ],
+  "grouping of factors does not change the product": [
+    292
+  ],
+  "Identifying fractions greater than a given fraction": [
+    294
+  ],
+  "Angles on a straight line sum to 180°": [
+    295
+  ],
+  "Sum of interior angles in a triangle is 180°": [
+    295
+  ],
+  "Understand the relationship between quantities in word problems": [
+    296
+  ],
+  "Convert word problems into mathematical expressions": [
+    296
+  ],
+  "Interpret the result in the context of the problem": [
+    296
+  ],
+  "addition pyramid structure": [
+    297
+  ],
+  "expression simplification": [
+    297,
+    857
+  ],
+  "algebraic equation solving": [
+    297
+  ],
+  "substitution method": [
+    297
+  ],
+  "term identification in algebraic expressions": [
+    297
+  ],
+  "Place the protractor with its center on the vertex of the angle": [
+    298
+  ],
+  "Ensure the baseline of the protractor aligns with one side of the angle": [
+    298
+  ],
+  "Look for the protractor that allows you to read the angle measure directly from the scale without needing to subtract from 180 degrees": [
+    298
+  ],
+  "Identify the correct protractor option based on proper alignment and direct measurement of the obtuse angle": [
+    298
+  ],
+  "Convert time units to a common unit for comparison": [
+    300
+  ],
+  "Understand the conversion factors: 1 minute = 60 seconds, 1 hour = 3600 seconds": [
+    300
+  ],
+  "Perform the conversions for each time given": [
+    300
+  ],
+  "Compare the converted times": [
+    300
+  ],
+  "Arrange the times from longest to shortest": [
+    300
+  ],
+  "The pink section is a parallelogram as it has two pairs of parallel sides": [
+    301
+  ],
+  "The area of a parallelogram can be found using the formula: base times height": [
+    301
+  ],
+  "The base of the pink section is 5 cm": [
+    301
+  ],
+  "The height of the parallelogram is the same as the width of the rectangle, which is 9 cm": [
+    301
+  ],
+  "Therefore, the area of the pink section is 5 cm * 9 cm = 45 square cm": [
+    301
+  ],
+  "coordinates of a rectangle": [
+    302
+  ],
+  "midpoint formula": [
+    302,
+    489,
+    498,
+    604,
+    776
+  ],
+  "vertical line of symmetry": [
+    302
+  ],
+  "equation of a vertical line": [
+    302,
+    877
+  ],
+  "The definition of prime numbers": [
+    303
+  ],
+  "The concept of lowest common multiple": [
+    303
+  ],
+  "The relationship between prime numbers and their factors": [
+    303
+  ],
+  "The rule that the LCM of two different prime numbers is their product": [
+    303
+  ],
+  "multiples and factors": [
+    304
+  ],
+  "distributive property of multiplication": [
+    304
+  ],
+  "definition of multiple": [
+    304
+  ],
+  "relationship between multiples of different numbers": [
+    304
+  ],
+  "The perimeter of a polygon is the sum of all its sides": [
+    305
+  ],
+  "A regular pentagon has 5 equal sides": [
+    305
+  ],
+  "Multiplication of a number by 5": [
+    305
+  ],
+  "Units of length measurement in centimeters": [
+    305
+  ],
+  "Identify coordinates of a point": [
+    306
+  ],
+  "Plot point on coordinate plane": [
+    306
+  ],
+  "Understand x-axis and y-axis": [
+    306
+  ],
+  "Move along x-axis based on x-coordinate": [
+    306
+  ],
+  "Move along y-axis based on y-coordinate": [
+    306
+  ],
+  "Locate point on x-axis": [
+    306
+  ],
+  "Match point with given options": [
+    306
+  ],
+  "Confirm coordinates match option C": [
+    306
+  ],
+  "Understanding of angles and their effects on line positions": [
+    307
+  ],
+  "Knowledge of how angle changes affect intersection points": [
+    307
+  ],
+  "Familiarity with a circle divided into quadrants and their labeling": [
+    307
+  ],
+  "Ability to visualize or draw the scenario based on angle changes": [
+    307
+  ],
+  "Understanding of basic geometry principles regarding line intersection in a circle": [
+    307
+  ],
+  "Reflection in geometry": [
+    308
+  ],
+  "Transformation of shapes": [
+    308
+  ],
+  "Analyzing transformation vectors": [
+    308
+  ],
+  "Combining transformations": [
+    308
+  ],
+  "setting up proportions": [
+    309
+  ],
+  "cross multiplication": [
+    309
+  ],
+  "simplifying expressions": [
+    309,
+    409,
+    767,
+    775
+  ],
+  "solving linear equations": [
+    309,
+    497,
+    604,
+    767,
+    776
+  ],
+  "product of two negative numbers": [
+    310
+  ],
+  "raising a negative number to an odd power": [
+    310
+  ],
+  "properties of multiplication and exponents for negative numbers": [
+    310
+  ],
+  "Start with the given expression (-9) + (-4)": [
+    311
+  ],
+  "Add the two negative numbers together, which is equivalent to adding their absolute values and keeping the negative sign": [
+    311
+  ],
+  "Add 9 and 4": [
+    311
+  ],
+  "Apply the negative sign to the sum": [
+    311
+  ],
+  "Final answer is -13 corresponds to option D": [
+    311
+  ],
+  "Finding common denominators": [
+    313,
+    759
+  ],
+  "Adding fractions": [
+    313,
+    597
+  ],
+  "Factoring out common terms": [
+    313
+  ],
+  "Reducing fractions": [
+    313
+  ],
+  "We need to determine what operation turns -5 into -9": [
+    314
+  ],
+  "The only basic operation that can make a number more negative is subtraction": [
+    314
+  ],
+  "So, we need to subtract a positive number from -5 to make it -9": [
+    314
+  ],
+  "-5 - 4 = -9": [
+    314
+  ],
+  "Therefore, the sign that belongs in the box is a minus sign and the number is 4": [
+    314
+  ],
+  "Convert mixed number to improper fraction": [
+    315
+  ],
+  "Multiply whole number by denominator": [
+    315
+  ],
+  "Add numerator to the result": [
+    315
+  ],
+  "Denominator remains unchanged": [
+    315
+  ],
+  "Improper fraction formation": [
+    315
+  ],
+  "Reflecting a point in a horizontal line": [
+    316
+  ],
+  "Finding the translation vector": [
+    316
+  ],
+  "Horizontal line equations": [
+    316
+  ],
+  "Vector subtraction": [
+    316
+  ],
+  "Dividing quantities into equal parts": [
+    318
+  ],
+  "Understanding the effect of increasing the divisor on the quotient": [
+    318
+  ],
+  "Identifying correct algebraic simplification": [
+    319
+  ],
+  "Reading a protractor": [
+    320
+  ],
+  "Interpreting angle measurements": [
+    320,
+    625
+  ],
+  "Understanding angle size in degrees": [
+    320
+  ],
+  "The sum of angles on a straight line is 180°": [
+    321
+  ],
+  "Understanding of adjacent angles": [
+    321
+  ],
+  "reciprocal": [
+    322,
+    692,
+    842,
+    886
+  ],
+  "identity property of multiplication": [
+    322
+  ],
+  "Definition of a radius": [
+    323
+  ],
+  "Definition of a diameter": [
+    323
+  ],
+  "Definition of a chord": [
+    323
+  ],
+  "Identifying the center of a circle": [
+    323
+  ],
+  "Identifying the circumference of a circle": [
+    323
+  ],
+  "John should have added the vector to each vertex coordinate of the triangle": [
+    324
+  ],
+  "The correct translation of (5,6), (5,9), (6,9) by the vector (1,0) should result in (6,6), (6,9), (7,9)": [
+    324
+  ],
+  "The error is in the translation process or initial coordinates used": [
+    324
+  ],
+  "Option D indicates this kind of error in translation direction or coordinates": [
+    324
+  ],
+  "Understanding vector addition in coordinate geometry": [
+    324
+  ],
+  "Recognizing correct application of translation vectors to geometric shapes": [
+    324
+  ],
+  "order of operations": [
+    325,
+    328,
+    368,
+    397,
+    421,
+    438,
+    448,
+    513,
+    525,
+    545,
+    615,
+    749,
+    794,
+    834,
+    839,
+    912,
+    939
+  ],
+  "multiplication of integers": [
+    325,
+    474,
+    834,
+    882
+  ],
+  "addition of integers": [
+    325,
+    474,
+    834,
+    938
+  ],
+  "understanding of crore and lakh place values": [
+    326
+  ],
+  "comparison of large numbers": [
+    326
+  ],
+  "knowledge of inequality symbols": [
+    326
+  ],
+  "Analyzing diagram structure and context": [
+    327
+  ],
+  "Evaluating given options against diagram": [
+    327
+  ],
+  "Matching diagram elements with option D": [
+    327
+  ],
+  "Confirming D as the best fit": [
+    327
+  ],
+  "Understanding visual elements and question context": [
+    327
+  ],
+  "Selecting most appropriate choice based on analysis": [
+    327
+  ],
+  "represent unknown values with variables": [
+    328
+  ],
+  "inferring operations from given output": [
+    328
+  ],
+  "solving equations by inverse operations": [
+    328
+  ],
+  "understanding operation symbols and their application": [
+    328
+  ],
+  "Let the unknown fraction be x": [
+    329
+  ],
+  "The equation is (5/8) * x = 1/6": [
+    329
+  ],
+  "Dividing fractions means multiplying by the reciprocal": [
+    329
+  ],
+  "Multiply the numerators": [
+    329,
+    666,
+    724,
+    771,
+    883
+  ],
+  "Multiply the denominators": [
+    329,
+    666,
+    724,
+    771,
+    883
+  ],
+  "Simplify fractions by dividing both the numerator and denominator by their greatest common divisor": [
+    329
+  ],
+  "Understanding compound shapes": [
+    330,
+    654
+  ],
+  "Understanding rectangles": [
+    330
+  ],
+  "Adding lengths": [
+    330
+  ],
+  "Setting up equations": [
+    330,
+    893
+  ],
+  "Visualizing geometric shapes": [
+    331
+  ],
+  "Understanding perimeter definition": [
+    331
+  ],
+  "Counting outer edges of composite shapes": [
+    331
+  ],
+  "Adding linear segments": [
+    331
+  ],
+  "The absolute value of a number is its distance from zero on the number line, regardless of direction": [
+    332,
+    786
+  ],
+  "|-3| equals 3 because -3 is 3 units away from zero": [
+    332
+  ],
+  "A regular octagon has 8 vertices, indicating there are at least 8 dots in the circle": [
+    333
+  ],
+  "By connecting every second dot, a square can be formed since it requires 4 vertices": [
+    333
+  ],
+  "A square is a regular shape with 4 equal sides which can be drawn from the given setup": [
+    333
+  ],
+  "Understanding tessellation": [
+    334
+  ],
+  "Regular polygons tessellation": [
+    334
+  ],
+  "Irregular shapes tessellation": [
+    334
+  ],
+  "Identifying shapes that fit together without gaps or overlaps": [
+    334
+  ],
+  "Recognizing tessellation patterns in given options": [
+    334
+  ],
+  "Algebraic expression simplification": [
+    335,
+    379,
+    670
+  ],
+  "Variable terms and constant terms": [
+    335
+  ],
+  "Expression rearrangement": [
+    335
+  ],
+  "Factoring basics": [
+    335
+  ],
+  "Multiple choice interpretation": [
+    335
+  ],
+  "Expression evaluation without specific values": [
+    335
+  ],
+  "bar model representation": [
+    336
+  ],
+  "fractions": [
+    336,
+    374,
+    544
+  ],
+  "comparison of fractions to a whole": [
+    336
+  ],
+  "interpreting shaded parts in a fraction model": [
+    336
+  ],
+  "Adding integers": [
+    337,
+    652,
+    867
+  ],
+  "Sum of labelled items": [
+    337
+  ],
+  "Replace symbol with calculated value": [
+    337
+  ],
+  "Adding areas of geometric shapes": [
+    338
+  ],
+  "Partitioning shapes for easier calculation": [
+    338
+  ],
+  "Efficient problem-solving techniques in geometry": [
+    338
+  ],
+  "Sum of angles in a quadrilateral": [
+    339
+  ],
+  "Congruent sides in a kite": [
+    339
+  ],
+  "Angle measurement": [
+    339
+  ],
+  "Convert fraction to decimal": [
+    340,
+    428,
+    630,
+    730,
+    760
+  ],
+  "Divide numerator by denominator": [
+    340
+  ],
+  "Match decimal to multiple choice option": [
+    340
+  ],
+  "Identify correct answer from options": [
+    340
+  ],
+  "Properties of a trapezoid": [
+    341
+  ],
+  "Definition of parallel lines": [
+    341
+  ],
+  "factors of a number": [
+    342,
+    505
+  ],
+  "pairs of factors": [
+    342
+  ],
+  "square root": [
+    342
+  ],
+  "odd number of factors": [
+    342
+  ],
+  "Understanding of exterior angles": [
+    343
+  ],
+  "Sum of angles formed with a horizontal line": [
+    343
+  ],
+  "Angle addition postulate": [
+    343,
+    838
+  ],
+  "Common factors": [
+    344
+  ],
+  "Identifying common elements in two lists": [
+    344
+  ],
+  "decimal to fraction conversion": [
+    345
+  ],
+  "fraction to decimal conversion": [
+    345
+  ],
+  "equivalence of fractions and decimals": [
+    345
+  ],
+  "Multiplication of multi-digit numbers": [
+    346,
+    787
+  ],
+  "Place value system": [
+    346,
+    787
+  ],
+  "Carrying over in multiplication": [
+    346
+  ],
+  "Understanding bar models for fractions": [
+    347
+  ],
+  "Identifying whole fractions represented by parts": [
+    347
+  ],
+  "To find the area of a rectangle, multiply the length by the width": [
+    348,
+    705
+  ],
+  "The unit for area is square units": [
+    348
+  ],
+  "Identify intersecting lines forming angle p": [
+    349
+  ],
+  "Find intersection point of these lines": [
+    349
+  ],
+  "Understand concept of vertically opposite angles": [
+    349
+  ],
+  "Locate angle directly opposite to angle p across the intersection point": [
+    349
+  ],
+  "The formula for the perimeter of a rectangle is P = 2l + 2w where l is the length and w is the width": [
+    350
+  ],
+  "Simplify the equation": [
+    350
+  ],
+  "Add the numbers": [
+    350
+  ],
+  "Properties of diagonals in a rhombus": [
+    351
+  ],
+  "Properties of diagonals in a kite": [
+    351
+  ],
+  "Conditions for bisecting diagonals in quadrilaterals": [
+    351
+  ],
+  "Identifying correct statements about geometric properties": [
+    351
+  ],
+  "finding equivalent fractions": [
+    352
+  ],
+  "cross-multiplying fractions": [
+    352
+  ],
+  "The notation [5 -2]^T represents a column vector": [
+    353
+  ],
+  "This column vector has two elements: 5 and -2": [
+    353
+  ],
+  "The superscript T stands for transpose": [
+    353
+  ],
+  "Transpose converts a row vector into a column vector": [
+    353
+  ],
+  "A horizontal line has a slope of 0": [
+    354
+  ],
+  "The equation of a horizontal line is y = constant": [
+    354
+  ],
+  "The line passes through (0, -2) which means the y-coordinate is -2": [
+    354
+  ],
+  "Therefore, the equation of the line is y = -2": [
+    354
+  ],
+  "coordinates of a point": [
+    355,
+    515
+  ],
+  "translation vector": [
+    355
+  ],
+  "subtracting integers": [
+    355
+  ],
+  "Identification of common factors": [
+    356
+  ],
+  "Concept of lowest common multiple (LCM)": [
+    356
+  ],
+  "Multiplication of prime factors to find LCM": [
+    356
+  ],
+  "Write decimal as a fraction": [
+    357
+  ],
+  "Simplify fraction using greatest common divisor": [
+    357
+  ],
+  "Find simplest form of fraction": [
+    357
+  ],
+  "180 degree rotation about a point": [
+    358
+  ],
+  "Reflection over a horizontal line": [
+    358,
+    388
+  ],
+  "Matching transformed coordinates to original coordinates": [
+    358
+  ],
+  "Coordinates of a rectangle": [
+    359
+  ],
+  "Verification of side lengths and angles": [
+    359
+  ],
+  "Let the value of the star be x": [
+    360
+  ],
+  "The equation based on the sum is x + 2 = -2": [
+    360
+  ],
+  "Subtract 2 from both sides of the equation to isolate x": [
+    360
+  ],
+  "Simplify the right side of the equation": [
+    360
+  ],
+  "Integer subtraction": [
+    361,
+    945
+  ],
+  "Integer addition": [
+    361
+  ],
+  "Equality comparison": [
+    361
+  ],
+  "types of triangles": [
+    362
+  ],
+  "rotational symmetry": [
+    362
+  ],
+  "order of rotational symmetry for triangles": [
+    362
+  ],
+  "equilateral triangle properties": [
+    362
+  ],
+  "isosceles triangle properties": [
+    362
+  ],
+  "scalene triangle properties": [
+    362
+  ],
+  "Adjacent angles on a straight line are supplementary": [
+    363
+  ],
+  "Subtracting angles from 180 degrees to find the supplementary angle": [
+    363
+  ],
+  "definition of a regular polygon": [
+    364
+  ],
+  "properties of a rhombus": [
+    364,
+    609
+  ],
+  "The vertices of angles P and Q are both at the origin (0,0)": [
+    365,
+    668
+  ],
+  "The sides of angle P pass through (1,0) and (1,2), implying one side is along the x-axis and the other is vertical": [
+    365
+  ],
+  "The sides of angle Q pass through (3,0) and (3,4), also implying one side is along the x-axis and the other is vertical": [
+    365
+  ],
+  "Angles P and Q are both right angles because each has one side along the x-axis and the other side vertical": [
+    365
+  ],
+  "Since both angles are right angles, they are congruent": [
+    365
+  ],
+  "Properties of right angles": [
+    365,
+    846
+  ],
+  "Congruence of angles": [
+    365
+  ],
+  "Sequence_of_multiples": [
+    366
+  ],
+  "Ascending_order": [
+    366
+  ],
+  "Multiples_of_14": [
+    366
+  ],
+  "definition of prime numbers": [
+    367,
+    675,
+    896
+  ],
+  "factors of 29": [
+    367
+  ],
+  "factors of 49": [
+    367
+  ],
+  "multiplication before addition": [
+    368,
+    912
+  ],
+  "parentheses change operation order": [
+    368
+  ],
+  "Comparing sets of numbers": [
+    369
+  ],
+  "Understanding the concept of divisibility": [
+    369
+  ],
+  "Understanding expression pyramids": [
+    370
+  ],
+  "Counting elements in a grid": [
+    371,
+    389,
+    465,
+    885,
+    898
+  ],
+  "Substituting values into equations": [
+    371
+  ],
+  "Comparing equations to diagram structure": [
+    371
+  ],
+  "Evaluating equation correctness based on context": [
+    371
+  ],
+  "Interpretation of arrows as movement indicators on a number line": [
+    372
+  ],
+  "Concept of positive and negative numbers": [
+    372,
+    529
+  ],
+  "Calculation of distances between points on a number line": [
+    372
+  ],
+  "Addition facts": [
+    373
+  ],
+  "cross-multiplication": [
+    374,
+    419
+  ],
+  "equation-solving": [
+    374
+  ],
+  "Visualizing composite shapes": [
+    375
+  ],
+  "Understanding unit lengths": [
+    375
+  ],
+  "Calculating rectangle dimensions from unit squares": [
+    375
+  ],
+  "Perimeter formula for rectangles": [
+    375
+  ],
+  "A multiple of 9 is a number that can be written as 9 times an integer": [
+    376
+  ],
+  "A multiple of 5 is a number that can be written as 5 times an integer": [
+    376
+  ],
+  "For a number to be both a multiple of 9 and 5, it must be a multiple of their least common multiple (LCM)": [
+    376
+  ],
+  "The LCM of 9 and 5 is 45": [
+    376
+  ],
+  "A multiple of 9 is sometimes a multiple of 5, specifically when it is a multiple of 45": [
+    376
+  ],
+  "Substitute values into expressions": [
+    377
+  ],
+  "Perform arithmetic operations with integers": [
+    377
+  ],
+  "Compare results of arithmetic operations": [
+    377
+  ],
+  "scale factor": [
+    378
+  ],
+  "rectangle dimensions": [
+    378
+  ],
+  "Equation balancing": [
+    379
+  ],
+  "Basic algebra operations": [
+    379
+  ],
+  "properties of a parallelogram": [
+    380,
+    609
+  ],
+  "properties of a right-angled triangle": [
+    380
+  ],
+  "symmetry in geometric shapes": [
+    380
+  ],
+  "intersecting points forming geometric shapes": [
+    380
+  ],
+  "Relating shaded parts to fractions": [
+    381
+  ],
+  "Dividing a whole into equal parts": [
+    381,
+    799
+  ],
+  "Calculating the value of a single part from multiple parts": [
+    381
+  ],
+  "Interpreting bar diagrams in fractions": [
+    381
+  ],
+  "Matching fractions to diagram representations": [
+    381
+  ],
+  "Comparing fractions and decimals": [
+    382
+  ],
+  "Identifying fractions on a number line": [
+    382
+  ],
+  "equidistant": [
+    384
+  ],
+  "origin": [
+    384,
+    437
+  ],
+  "coordinates": [
+    384,
+    437
+  ],
+  "sqrt function": [
+    384
+  ],
+  "calculation of distances in coordinate plane": [
+    384
+  ],
+  "Understanding of square root values": [
+    385
+  ],
+  "Comparison of numerical values": [
+    385,
+    386,
+    941
+  ],
+  "Interpretation of given lengths": [
+    385
+  ],
+  "Summation of given lengths": [
+    385
+  ],
+  "Identification of the longest length from given options": [
+    385
+  ],
+  "Coordinates and distance calculation": [
+    386
+  ],
+  "rotation about a point": [
+    387
+  ],
+  "reflection over a line": [
+    387
+  ],
+  "coordinates transformation": [
+    387
+  ],
+  "line symmetry": [
+    387
+  ],
+  "point symmetry": [
+    387
+  ],
+  "Distance between a point and a horizontal line": [
+    388
+  ],
+  "Understanding color codes in diagrams": [
+    389
+  ],
+  "Basic algebraic expression interpretation": [
+    389
+  ],
+  "Reflection in a vertical line": [
+    390
+  ],
+  "Distance calculation": [
+    390
+  ],
+  "Symmetry in reflection": [
+    390
+  ],
+  "X-coordinate transformation": [
+    390
+  ],
+  "Y-coordinate remains unchanged": [
+    390
+  ],
+  "Determining common factors between two numbers": [
+    391
+  ],
+  "Comparing lists of factors": [
+    391
+  ],
+  "Understanding what makes a factor common between two numbers": [
+    391
+  ],
+  "Evaluating the correctness of statements based on mathematical facts": [
+    391
+  ],
+  "To determine who is correct, we need to analyze the grid provided": [
+    392
+  ],
+  "The grid has 4 rows and 5 columns, making a total of 20 squares": [
+    392
+  ],
+  "Counting squares of each color to establish relationships": [
+    392
+  ],
+  "Understanding the relationship between white (w) and green (g) squares": [
+    392
+  ],
+  "Understanding the relationship between white (w) and purple (p) squares": [
+    392
+  ],
+  "Comparing Jo's and Paul's statements with the observed relationships": [
+    392
+  ],
+  "Identifying correct statement based on the grid analysis": [
+    392
+  ],
+  "converting fractions": [
+    393,
+    797
+  ],
+  "subtracting fractions": [
+    393,
+    860
+  ],
+  "Angles formed by intersecting lines": [
+    394
+  ],
+  "Sum of angles around a point": [
+    394,
+    528
+  ],
+  "Supplementary angles": [
+    394,
+    689,
+    901
+  ],
+  "Angle calculation": [
+    394
+  ],
+  "Composite numbers": [
+    395
+  ],
+  "Understanding of coordinate system": [
+    396
+  ],
+  "Ability to interpret graph coordinates": [
+    396
+  ],
+  "Knowledge of how to locate points on a graph using coordinates": [
+    396
+  ],
+  "fraction multiplication": [
+    397,
+    419,
+    538
+  ],
+  "finding common denominator": [
+    397,
+    429,
+    860
+  ],
+  "fraction subtraction": [
+    397
+  ],
+  "parallel lines definition": [
+    398
+  ],
+  "line segment length calculation": [
+    398
+  ],
+  "The lowest common multiple (LCM) of two numbers is the smallest number that is a multiple of both": [
+    399
+  ],
+  "Prime numbers have only two factors: 1 and themselves": [
+    399
+  ],
+  "Non-prime numbers have factors other than 1 and themselves": [
+    399
+  ],
+  "LCM of a prime number p and a non-prime number n is their product only if they have no common factors other than 1": [
+    399
+  ],
+  "If the non-prime number is a multiple of the prime number, the LCM is the non-prime number itself": [
+    399
+  ],
+  "The statement is not universally true": [
+    399
+  ],
+  "Finding the greatest common divisor": [
+    400,
+    930
+  ],
+  "Converting whole numbers to fractions with a common denominator": [
+    401,
+    500
+  ],
+  "Subtracting fractions with like denominators": [
+    401,
+    605
+  ],
+  "order of numbers does not change the sum": [
+    402
+  ],
+  "a + b = b + a": [
+    402
+  ],
+  "Adding hours to a given time": [
+    403,
+    685
+  ],
+  "24-hour time format": [
+    403
+  ],
+  "Subtracting 24 hours to adjust time within a day": [
+    403
+  ],
+  "Using given lengths": [
+    404
+  ],
+  "Calculate length of scaled vector": [
+    404
+  ],
+  "Calculate length of vector sum": [
+    404
+  ],
+  "Compare vector lengths": [
+    404
+  ],
+  "Approximate square roots for comparison": [
+    404
+  ],
+  "Understanding inequality symbols": [
+    405,
+    465
+  ],
+  "Comparing positive and negative numbers": [
+    405
+  ],
+  "Interpreting equality and inequality in mathematical statements": [
+    405
+  ],
+  "Angles on a straight line add up to 180 degrees": [
+    406,
+    824
+  ],
+  "Identifying supplementary angles": [
+    406
+  ],
+  "Linear pair of angles": [
+    406,
+    689
+  ],
+  "Calculating unknown angles using given angle measures": [
+    406
+  ],
+  "Cancelling out common factors": [
+    407
+  ],
+  "Adding fractions with like denominators": [
+    408,
+    930
+  ],
+  "Converting improper fractions to whole numbers": [
+    408
+  ],
+  "Understanding of division and multiplication as inverse operations": [
+    410
+  ],
+  "Ability to recognize and apply the given information in reverse operations": [
+    410
+  ],
+  "Knowledge of decimal multiplication and division": [
+    410
+  ],
+  "vector transpose notation": [
+    411
+  ],
+  "column vector representation": [
+    411
+  ],
+  "vector components and directions": [
+    411
+  ],
+  "transpose operation converting row to column vector": [
+    411
+  ],
+  "angles on a straight line add up to 180 degrees": [
+    412
+  ],
+  "subtracting angles to find unknown angle": [
+    412
+  ],
+  "Intersecting lines form angles": [
+    413
+  ],
+  "Adjacent angles on a straight line sum to 180 degrees": [
+    413,
+    914
+  ],
+  "Angles opposite each other at an intersection are equal": [
+    413
+  ],
+  "Vertical angles definition": [
+    413
+  ],
+  "Identifying vertical angles in a diagram": [
+    413
+  ],
+  "Locate the x-coordinate on the horizontal axis": [
+    414
+  ],
+  "Move vertically until you reach the y-coordinate": [
+    414
+  ],
+  "Identify the point where these coordinates meet": [
+    414
+  ],
+  "Calculating perimeter of a polygon": [
+    415
+  ],
+  "Identifying sides of an irregular pentagon": [
+    415
+  ],
+  "Evaluating expressions with multiplication and addition": [
+    415
+  ],
+  "Understanding perimeter as the sum of all sides": [
+    415
+  ],
+  "Simplifying expressions using order of operations": [
+    415
+  ],
+  "Interpreting geometric representations of algebraic expressions": [
+    416
+  ],
+  "Substitution in algebraic inequalities": [
+    416
+  ],
+  "Simplifying algebraic inequalities": [
+    416
+  ],
+  "Evaluating the truth value of inequalities": [
+    416
+  ],
+  "prime numbers": [
+    417,
+    558
+  ],
+  "multiples of 6": [
+    417
+  ],
+  "identifying sets of numbers that meet multiple criteria": [
+    417
+  ],
+  "Understanding Venn diagrams": [
+    418
+  ],
+  "Lowest common multiple": [
+    418
+  ],
+  "Union of sets": [
+    418
+  ],
+  "Multiplying prime factors considering their highest powers": [
+    418
+  ],
+  "Evaluating given options against the calculated result": [
+    418
+  ],
+  "simplifying equations": [
+    419
+  ],
+  "dividing both sides of an equation": [
+    419
+  ],
+  "Subtracting time from a given time": [
+    420
+  ],
+  "12-hour clock system": [
+    420
+  ],
+  "arithmetic operations": [
+    421,
+    438,
+    489,
+    749,
+    939
+  ],
+  "Checking divisibility of 27 by potential factors": [
+    422
+  ],
+  "Identifying non-factors from a list of options": [
+    422
+  ],
+  "The diameter of the largest circle is 32 cm": [
+    424
+  ],
+  "The diameter of the smallest circles is 1/4 of the largest circle's diameter": [
+    424
+  ],
+  "The radius of a circle is half of its diameter": [
+    424
+  ],
+  "Evaluating exponents of fractions": [
+    425
+  ],
+  "Understanding equivalent fractions": [
+    425
+  ],
+  "comparing fractions with same numerator": [
+    427,
+    660
+  ],
+  "comparing fractions with same denominator": [
+    427,
+    660
+  ],
+  "Compare decimal values": [
+    428
+  ],
+  "Identify the greater value": [
+    428
+  ],
+  "subtracting fractions with like denominators": [
+    429
+  ],
+  "subtracting fractions with unlike denominators": [
+    429
+  ],
+  "converting fractions to equivalent fractions with common denominator": [
+    429
+  ],
+  "The area of a parallelogram is given by the formula: base times height": [
+    430
+  ],
+  "base is 7 cm and the height is 3 cm": [
+    430
+  ],
+  "multiplication of base and height gives the area in square units": [
+    430
+  ],
+  "Connecting points to form a shape": [
+    431
+  ],
+  "Identifying the shape as a pentagon": [
+    431
+  ],
+  "Dividing the pentagon into simpler shapes": [
+    431
+  ],
+  "Identifying shapes on a coordinate plane": [
+    432
+  ],
+  "Calculating lengths using coordinates": [
+    432
+  ],
+  "Understanding the properties of a trapezoid": [
+    432
+  ],
+  "Calculating the area of a trapezoid": [
+    432
+  ],
+  "Applying the trapezoid area formula": [
+    432
+  ],
+  "Start with the original equation g = 4h": [
+    433
+  ],
+  "Modify and verify Katie's suggestion": [
+    433
+  ],
+  "Modify and verify Tom's suggestion": [
+    433
+  ],
+  "Compare modified equations to the original equation": [
+    433
+  ],
+  "Determine who is correct based on the comparison": [
+    433
+  ],
+  "Tessellation properties of triangles": [
+    434
+  ],
+  "Tessellation properties of quadrilaterals": [
+    434
+  ],
+  "Understanding of geometric shapes and their angles": [
+    434
+  ],
+  "Knowledge of plane filling with no gaps or overlaps": [
+    434
+  ],
+  "factors and multiples": [
+    435
+  ],
+  "common factors": [
+    435,
+    558
+  ],
+  "evaluating statements about factors": [
+    435
+  ],
+  "Sign rules for division": [
+    436
+  ],
+  "square root calculation": [
+    437,
+    748
+  ],
+  "equidistant points": [
+    437
+  ],
+  "Convert between 12-hour and 24-hour time formats": [
+    439
+  ],
+  "Subtract times": [
+    439
+  ],
+  "Convert minutes to hours": [
+    439,
+    503,
+    684,
+    798
+  ],
+  "Interpret answer choices": [
+    439
+  ],
+  "The question asks for the name of the mathematical instrument used to construct circles": [
+    440
+  ],
+  "A compass is the tool specifically designed to draw circles or circular arcs": [
+    440
+  ],
+  "It consists of two arms, one with a pointed end to hold the center point, and the other with a pencil or pen to draw the circle": [
+    440
+  ],
+  "This tool is essential in geometry for creating accurate circles and arcs": [
+    440
+  ],
+  "Identify the pattern in the sequence": [
+    441
+  ],
+  "Arithmetic sequence": [
+    441,
+    584
+  ],
+  "Adding common difference to find next term": [
+    441
+  ],
+  "Understanding of fractions": [
+    442,
+    810
+  ],
+  "Knowledge of division and multiplication of fractions": [
+    442
+  ],
+  "Ability to compare and equate fractions": [
+    442
+  ],
+  "Interpretation of variables in equations": [
+    442
+  ],
+  "Recognition of simplified forms and relationships": [
+    442
+  ],
+  "Understanding of equation solving for variables": [
+    442
+  ],
+  "Combine like terms": [
+    445,
+    642,
+    862
+  ],
+  "Simplify algebraic expressions": [
+    445,
+    596,
+    642,
+    658,
+    916
+  ],
+  "Identify and combine constant terms": [
+    445
+  ],
+  "order of operations for addition and subtraction from left to right": [
+    446
+  ],
+  "parentheses in arithmetic expressions": [
+    446,
+    939
+  ],
+  "lowest common multiple": [
+    447,
+    936
+  ],
+  "multiples of a number": [
+    447,
+    505,
+    574
+  ],
+  "finding common multiples": [
+    447
+  ],
+  "identifying the smallest common multiple": [
+    447
+  ],
+  "algebraic expressions": [
+    448,
+    794
+  ],
+  "parentheses in math expressions": [
+    448
+  ],
+  "definition of prime number": [
+    449
+  ],
+  "definition of square number": [
+    449
+  ],
+  "convert fraction to decimal": [
+    450
+  ],
+  "Listing factors of a number": [
+    451
+  ],
+  "Checking given options against the list of factors": [
+    451
+  ],
+  "Identifying non-factors": [
+    451
+  ],
+  "Inverse operations of multiplication and division": [
+    452
+  ],
+  "Understanding given mathematical relationships": [
+    452
+  ],
+  "Verification of equality": [
+    453
+  ],
+  "evaluate exponentiation": [
+    454
+  ],
+  "identify prime factors": [
+    454
+  ],
+  "determine odd or even based on factors": [
+    454
+  ],
+  "define prime number": [
+    454
+  ],
+  "count distinct positive divisors": [
+    454
+  ],
+  "compare given factors to definition of prime": [
+    454
+  ],
+  "conclude correctness of statements": [
+    454
+  ],
+  "Shape transformation": [
+    455
+  ],
+  "Rotation around a point": [
+    455
+  ],
+  "Translation of coordinates": [
+    455
+  ],
+  "Comparing transformed shapes": [
+    455
+  ],
+  "Direction of movement in coordinate plane": [
+    455
+  ],
+  "midpoint definition": [
+    456
+  ],
+  "line segment bisection": [
+    456
+  ],
+  "Rules for multiplying positive and negative numbers": [
+    457
+  ],
+  "Interpreting multiple choice answers": [
+    458,
+    761
+  ],
+  "Understanding the Cartesian coordinate system": [
+    459
+  ],
+  "Identifying x and y coordinates": [
+    459
+  ],
+  "Plotting points on a graph": [
+    459,
+    900
+  ],
+  "Interpreting graph labels": [
+    459
+  ],
+  "An arrow on a thermometer pointing from -1 to 4 represents a temperature change": [
+    460
+  ],
+  "The change in temperature is calculated by subtracting the starting temperature from the ending temperature": [
+    460
+  ],
+  "The calculation is 4 - (-1) = 4 + 1 = 5": [
+    460
+  ],
+  "This matches the +5 indicated next to the arrow": [
+    460
+  ],
+  "The calculation represented is the increase in temperature by 5 units": [
+    460
+  ],
+  "Interpreting direction of arrows on number lines": [
+    461
+  ],
+  "Subtraction operation on number lines": [
+    461
+  ],
+  "Evaluating options based on number line transitions": [
+    461
+  ],
+  "Using a Protractor": [
+    462
+  ],
+  "Measuring Angles": [
+    462
+  ],
+  "Accuracy in Measurement": [
+    462
+  ],
+  "Comparing Measurements to a Standard": [
+    462
+  ],
+  "Determining Accuracy": [
+    462
+  ],
+  "Subtraction of negative numbers": [
+    463
+  ],
+  "Temperature comparison": [
+    463
+  ],
+  "Given that 4.5 times 8.2 equals 36.9": [
+    464
+  ],
+  "To find 36.9 divided by 4.5, reverse the multiplication operation": [
+    464
+  ],
+  "Division as the inverse of multiplication": [
+    464
+  ],
+  "Multiplying numbers": [
+    465
+  ],
+  "Comparing numbers to complete inequalities": [
+    465
+  ],
+  "Identifying correct multiple choice options based on calculations": [
+    465
+  ],
+  "An obtuse angle is an angle that is greater than 90° but less than 180°": [
+    466
+  ],
+  "The question specifies that the angle is close to 180°": [
+    466
+  ],
+  "Identify the option that best represents an obtuse angle close to 180°": [
+    466
+  ],
+  "The diameter of a circle": [
+    467
+  ],
+  "The relationship between radius and diameter": [
+    467
+  ],
+  "The concept of tangent circles": [
+    467
+  ],
+  "The side length of a square containing tangent circles": [
+    467
+  ],
+  "The formula for the perimeter of a square": [
+    467
+  ],
+  "Identify the marked point on the graph": [
+    468
+  ],
+  "Observe the position on the y-axis": [
+    468
+  ],
+  "Understand the significance of the y-axis for y-coordinates": [
+    468
+  ],
+  "Recognize that points on the y-axis have an x-coordinate of 0": [
+    468
+  ],
+  "Determine the coordinates based on the axis positions": [
+    468
+  ],
+  "Identify coordinates of shapes": [
+    470
+  ],
+  "Understand rotation transformation": [
+    470
+  ],
+  "Set up and solve equations for center of rotation": [
+    470
+  ],
+  "Interpret final answer label": [
+    470
+  ],
+  "To solve division of fractions": [
+    471,
+    557,
+    602
+  ],
+  "Find the reciprocal of a whole number": [
+    471
+  ],
+  "Multiply fractions": [
+    471
+  ],
+  "Division of fractions is equivalent to multiplication by the reciprocal": [
+    471
+  ],
+  "Multiplication by powers of ten": [
+    472
+  ],
+  "Determine the number of tickets by dividing the total money by the cost per ticket": [
+    473
+  ],
+  "f84 divided by E7": [
+    473
+  ],
+  "Understand hexadecimal and convert if necessary": [
+    473
+  ],
+  "Perform division in hexadecimal if needed": [
+    473
+  ],
+  "order of operations (PEMDAS/BODMAS)": [
+    474
+  ],
+  "how to apply the distributive property correctly": [
+    475
+  ],
+  "The formula for the perimeter of a rectangle": [
+    476
+  ],
+  "Substituting values into algebraic expressions": [
+    476
+  ],
+  "Multiplying a monomial by a polynomial": [
+    476
+  ],
+  "To compare fractions": [
+    477,
+    603
+  ],
+  "Find a common denominator": [
+    477
+  ],
+  "Convert fractions to have the same denominator": [
+    477
+  ],
+  "Compare the numerators of the converted fractions": [
+    477
+  ],
+  "Use the less than sign to show which fraction is smaller": [
+    477
+  ],
+  "The formula for the volume of a cube is side length cubed": [
+    478
+  ],
+  "The side length of the larger cube is 4": [
+    478
+  ],
+  "Volume calculation for a cube with side length 4": [
+    478
+  ],
+  "Interpretation of volume as the number of small cubes": [
+    478
+  ],
+  "If 4 and 6 are common factors of the numbers A and B, then both A and B must be divisible by the least common multiple (LCM) of 4 and 6": [
+    479
+  ],
+  "The LCM of 4 and 6 is 12": [
+    479
+  ],
+  "Therefore, both A and B will be multiples of 12": [
+    479
+  ],
+  "Understanding of least common multiple (LCM)": [
+    479
+  ],
+  "Knowledge of common factors and multiples": [
+    479
+  ],
+  "Evaluating the truth of mathematical statements": [
+    479
+  ],
+  "To find the number of cows, divide the total number of legs by the number of legs per cow": [
+    480
+  ],
+  "104 legs ÷ 4 legs per cow = 26 cows": [
+    480
+  ],
+  "Division of whole numbers": [
+    480
+  ],
+  "Understanding that cows have 4 legs": [
+    480
+  ],
+  "common multiple": [
+    482
+  ],
+  "co-prime numbers": [
+    482
+  ],
+  "Angle-Side-Angle (ASA) postulate": [
+    483
+  ],
+  "Side-Angle-Side (SAS) postulate": [
+    483
+  ],
+  "Triangle uniqueness criteria": [
+    483
+  ],
+  "Properties of a regular hexagon": [
+    484
+  ],
+  "Calculating interior angles of polygons": [
+    484
+  ],
+  "Understanding exterior angles formed by intersecting polygons": [
+    484
+  ],
+  "Basic angle subtraction": [
+    484
+  ],
+  "basic algebra": [
+    485,
+    564
+  ],
+  "number sense": [
+    485
+  ],
+  "Knowledge of multiples": [
+    486
+  ],
+  "Ability to interpret symbols in mathematical contexts": [
+    486
+  ],
+  "Understanding of concentric circles in Venn diagrams": [
+    486
+  ],
+  "Criteria for placement in Venn diagram regions": [
+    486
+  ],
+  "perpendicular bisector construction": [
+    487
+  ],
+  "line measurement": [
+    487
+  ],
+  "Opposite angles in a parallelogram are equal": [
+    488
+  ],
+  "Understanding coordinates in a Cartesian plane": [
+    490
+  ],
+  "Comparing given coordinates with multiple choice options": [
+    490
+  ],
+  "Indian number system": [
+    491
+  ],
+  "Crore definition": [
+    491
+  ],
+  "Place value in Indian number system": [
+    491
+  ],
+  "linear equation form y = mx + b": [
+    492
+  ],
+  "rearranging equations": [
+    492
+  ],
+  "equation of a circle x^2 + y^2 = r^2": [
+    492
+  ],
+  "identifying non-linear equations": [
+    492,
+    520
+  ],
+  "Dividing by a fraction is the same as multiplying by its reciprocal": [
+    493
+  ],
+  "The reciprocal of 1/3 is 3/1 or simply 3": [
+    493
+  ],
+  "The diagram shows 4 distinct groups": [
+    494
+  ],
+  "Each group contains 6 dots": [
+    494
+  ],
+  "This arrangement can be described as 4 times 6": [
+    494
+  ],
+  "The total number of dots is 24": [
+    494
+  ],
+  "Option C likely represents this configuration": [
+    494
+  ],
+  "To divide by a fraction, multiply by its reciprocal": [
+    495,
+    793
+  ],
+  "The reciprocal of 1/2 is 2/1": [
+    495
+  ],
+  "Multiplying integers and fractions": [
+    495
+  ],
+  "Sign rules for multiplying integers": [
+    495
+  ],
+  "interpreting grid diagrams": [
+    496
+  ],
+  "simplifying inequalities": [
+    496
+  ],
+  "comparing sums of variables": [
+    496
+  ],
+  "inferring relationships from visual data": [
+    496
+  ],
+  "understanding positive numbers": [
+    496
+  ],
+  "analyzing colored square arrangements": [
+    496
+  ],
+  "consecutive interior angles": [
+    497
+  ],
+  "supplementary angles": [
+    497
+  ],
+  "coordinate substitution": [
+    498
+  ],
+  "arithmetic simplification": [
+    498
+  ],
+  "fraction reduction": [
+    498
+  ],
+  "Understanding finite decimals": [
+    499
+  ],
+  "Understanding repeating decimals": [
+    499
+  ],
+  "Matching results to given options": [
+    500
+  ],
+  "Vertically opposite angles are formed when two lines intersect": [
+    501
+  ],
+  "Angle p is one of the four angles formed by the intersection": [
+    501
+  ],
+  "The vertically opposite angle to p is directly across from it, not adjacent": [
+    501
+  ],
+  "Angle C is directly opposite to angle p": [
+    501
+  ],
+  "Evaluate expressions with given variable values": [
+    502
+  ],
+  "Compare values to determine truth of equations": [
+    502,
+    915
+  ],
+  "Convert hours to days": [
+    503,
+    798
+  ],
+  "Approximate the result to the nearest whole number": [
+    503
+  ],
+  "Isolate variable in equation": [
+    504
+  ],
+  "Subtraction of decimals": [
+    504
+  ],
+  "Identify answer from options": [
+    504
+  ],
+  "intersection of two lists": [
+    505
+  ],
+  "identifying correct option from given choices": [
+    505
+  ],
+  "Basic multiplication facts": [
+    506
+  ],
+  "Identifying errors in calculation steps": [
+    506
+  ],
+  "Understanding of angle measurement units": [
+    507
+  ],
+  "Interpretation of multiple choice options": [
+    507
+  ],
+  "Knowledge of angle types and their approximate measurements": [
+    507
+  ],
+  "Ability to infer from given answer options without direct calculations": [
+    507
+  ],
+  "Understanding of how to approach problems with insufficient direct information": [
+    507
+  ],
+  "Visualize the given shape on the left side of the vertical line of symmetry": [
+    508
+  ],
+  "Reflect this shape across the red line of symmetry to create a mirror image": [
+    508
+  ],
+  "Identify the option that matches this mirror image perfectly": [
+    508
+  ],
+  "Understanding of symmetry and mirror images": [
+    508
+  ],
+  "definition of prime factors": [
+    509
+  ],
+  "prime and composite numbers": [
+    509
+  ],
+  "factorization of integers": [
+    509
+  ],
+  "properties of the number 1": [
+    509
+  ],
+  "Identify dimensions of rectangles in composite shapes": [
+    510
+  ],
+  "Calculate area of rectangles": [
+    510
+  ],
+  "Add areas of individual rectangles to find total area": [
+    510
+  ],
+  "numerical expressions": [
+    511
+  ],
+  "standard form of numbers": [
+    511
+  ],
+  "place value system": [
+    511
+  ],
+  "Volume measurement and conversion": [
+    512
+  ],
+  "Division of quantities": [
+    512
+  ],
+  "Interpreting word problems": [
+    512
+  ],
+  "A trapezium generally does not have a line of symmetry unless it is an isosceles trapezium": [
+    514
+  ],
+  "A circle with a 90-degree sector removed has one line of symmetry along the bisector of the remaining 270-degree arc": [
+    514
+  ],
+  "A crescent shape typically does not have a line of symmetry": [
+    514
+  ],
+  "The correct answer is D, which implies there might be an additional shape not listed in the options A, B, and C that has a line of symmetry": [
+    514
+  ],
+  "Lines of symmetry in geometric shapes": [
+    514
+  ],
+  "Identification of shapes with lines of symmetry": [
+    514
+  ],
+  "Interpreting given options and identifying missing information": [
+    514
+  ],
+  "Analyzing provided figures to determine symmetry": [
+    514
+  ],
+  "vector translation": [
+    515
+  ],
+  "addition and subtraction of integers": [
+    515
+  ],
+  "understanding of basic algebra": [
+    517
+  ],
+  "ability to set up and solve a simple linear equation": [
+    517
+  ],
+  "knowledge of integer addition and subtraction": [
+    517
+  ],
+  "Area of a rectangle is length times height": [
+    518
+  ],
+  "Finding the area of composite figures by subtracting areas of simpler shapes": [
+    518
+  ],
+  "subtraction": [
+    519
+  ],
+  "multiplicative comparison": [
+    519
+  ],
+  "equation of a straight line": [
+    520
+  ],
+  "linear relationship between x and y": [
+    520
+  ],
+  "form y = mx + c": [
+    520
+  ],
+  "slope and y-intercept": [
+    520
+  ],
+  "Find the least common denominator (LCD)": [
+    521
+  ],
+  "Convert fractions to equivalent fractions with the same denominator": [
+    521
+  ],
+  "Subtract fractions with the same denominator": [
+    521,
+    897
+  ],
+  "Simplify fractions to simplest form": [
+    521
+  ],
+  "grouping numbers differently without changing the product": [
+    522
+  ],
+  "simplifying multiplication expressions": [
+    522
+  ],
+  "simplification": [
+    523
+  ],
+  "factoring_out_greatest_common_factor": [
+    523
+  ],
+  "perimeter_calculation": [
+    523
+  ],
+  "Understanding factor trees": [
+    524
+  ],
+  "Prime number identification": [
+    524
+  ],
+  "Correct factorization of composite numbers": [
+    524
+  ],
+  "Evaluating hierarchical structures in factor trees": [
+    524
+  ],
+  "addition": [
+    525,
+    580,
+    767,
+    794,
+    839
+  ],
+  "parentheses usage": [
+    525
+  ],
+  "Understanding x and y coordinates": [
+    526
+  ],
+  "Moving horizontally on a coordinate plane": [
+    526
+  ],
+  "Moving vertically on a coordinate plane": [
+    526
+  ],
+  "Determining direction and distance between two points on a coordinate plane": [
+    526
+  ],
+  "Adding integers with different signs": [
+    527
+  ],
+  "Angles around a point sum up to 360 degrees": [
+    528
+  ],
+  "Definition of acute angles": [
+    528,
+    824
+  ],
+  "Definition of obtuse angles": [
+    528,
+    824
+  ],
+  "Inequality concepts for angle measures": [
+    528
+  ],
+  "Understanding of number line": [
+    529,
+    645,
+    911,
+    922,
+    941
+  ],
+  "The area of a shape can be determined by the number of unit squares it contains": [
+    531
+  ],
+  "Division of total area by the number of squares to find the area of one square": [
+    531
+  ],
+  "Multiplication of the area of one square by the number of squares in the shaded section to find the total shaded area": [
+    531
+  ],
+  "The coordinates of a rectangle": [
+    532
+  ],
+  "The concept of horizontal line of symmetry": [
+    532
+  ],
+  "The concept of y-coordinate in Cartesian plane": [
+    532
+  ],
+  "The concept of averaging numbers": [
+    532
+  ],
+  "The equation of a horizontal line in Cartesian plane": [
+    532
+  ],
+  "Let the first box be x and the second box be y": [
+    533
+  ],
+  "We have the equation: t = x + y": [
+    533
+  ],
+  "We also have the equation: y = (t - 3) / 4": [
+    533
+  ],
+  "Substitute y in the first equation: t = x + (t - 3) / 4": [
+    533
+  ],
+  "Multiply all terms by 4 to clear the fraction: 4t = 4x + t - 3": [
+    533
+  ],
+  "Rearrange to solve for x: 4x = 3t + 3": [
+    533
+  ],
+  "Divide by 4: x = (3t + 3) / 4": [
+    533
+  ],
+  "Therefore, the first box [x] is (3t + 3) / 4 and the second box [y] is (t - 3) / 4": [
+    533
+  ],
+  "The y-coordinates of both endpoints are the same, which is 2": [
+    534
+  ],
+  "This indicates that the line is horizontal": [
+    534
+  ],
+  "A horizontal line is always perpendicular to the y-axis": [
+    534
+  ],
+  "Definition of a multiple": [
+    535
+  ],
+  "Addition of integers": [
+    535,
+    755,
+    788,
+    849
+  ],
+  "Divisibility rules for 7": [
+    535
+  ],
+  "Definition of a rhombus": [
+    536
+  ],
+  "Parallel sides in a rhombus": [
+    536
+  ],
+  "Equal angles in a rhombus": [
+    536
+  ],
+  "Diagonally opposite angles in a rhombus": [
+    536
+  ],
+  "The area of a parallelogram is given by the formula base times height": [
+    537
+  ],
+  "The base is denoted by b and the height by c": [
+    537
+  ],
+  "The length of the hypotenuse a is not used in this formula": [
+    537
+  ],
+  "solving equations": [
+    538
+  ],
+  "fraction division": [
+    538
+  ],
+  "Understanding of a rectangle": [
+    540
+  ],
+  "Unit length measurement": [
+    540
+  ],
+  "Formula for perimeter of a rectangle": [
+    540
+  ],
+  "The original area of the shape is given as n cm²": [
+    541
+  ],
+  "When lengths are enlarged by a scale factor of 10, the area is enlarged by the square of this factor": [
+    541
+  ],
+  "The new area is therefore the original area multiplied by the square of the scale factor": [
+    541
+  ],
+  "The area of the enlarged shape is 100n cm²": [
+    541
+  ],
+  "The area of a parallelogram can be found using the formula: Area = base × height": [
+    542
+  ],
+  "Plug in the values given: base = 20 cm, height = 4 cm": [
+    542
+  ],
+  "Area = 20 cm × 4 cm": [
+    542
+  ],
+  "Area = 80 square cm": [
+    542
+  ],
+  "Understanding that the hypotenuse is not required for area calculation in this context": [
+    542
+  ],
+  "Reflecting a point over a vertical line": [
+    543
+  ],
+  "Calculating distance between points": [
+    543,
+    837
+  ],
+  "Understanding coordinates": [
+    543
+  ],
+  "Vertical line reflection properties": [
+    543
+  ],
+  "subtraction of fractions": [
+    544
+  ],
+  "expressions and equations": [
+    545
+  ],
+  "evaluating expressions": [
+    545
+  ],
+  "parentheses in mathematical expressions": [
+    545
+  ],
+  "multiplication and addition operations": [
+    545
+  ],
+  "equivalence of algebraic expressions": [
+    545
+  ],
+  "In the Mayan number system a dot represents 1 and a line segment represents 5": [
+    546
+  ],
+  "Adding values represented by dots and line segments": [
+    546
+  ],
+  "Interpreting Mayan numeral symbols to determine the number": [
+    546
+  ],
+  "Subtraction of temperatures": [
+    547
+  ],
+  "Handling negative numbers": [
+    547
+  ],
+  "Addition of positive and negative numbers": [
+    547
+  ],
+  "Temperature units in Celsius": [
+    547
+  ],
+  "find a common denominator": [
+    548
+  ],
+  "convert fractions to have the same denominator": [
+    548
+  ],
+  "add fractions with the same denominator": [
+    548
+  ],
+  "simplify the result if necessary": [
+    548
+  ],
+  "The original area of the shape is 10 cm²": [
+    549
+  ],
+  "When lengths are enlarged by a scale factor of n, the area is enlarged by a scale factor of n²": [
+    549
+  ],
+  "The new area is therefore 10 * n² cm²": [
+    549
+  ],
+  "This shows how the area changes with the scale factor applied to the lengths": [
+    549
+  ],
+  "The area of the enlarged shape is 10n² cm²": [
+    549
+  ],
+  "The perimeter of a shape is the sum of its sides": [
+    550
+  ],
+  "Identifying and counting the sides of a given shape": [
+    550
+  ],
+  "Substituting given values for variables in an expression": [
+    550
+  ],
+  "Writing an algebraic expression for the perimeter": [
+    550
+  ],
+  "Factoring algebraic expressions": [
+    550
+  ],
+  "Identifying the correct option based on the factorised form": [
+    550
+  ],
+  "Understanding expression placement in a pyramid structure": [
+    551
+  ],
+  "square root comparison": [
+    552
+  ],
+  "Observe the pattern in the number of dots": [
+    553,
+    570
+  ],
+  "Identify the common difference between consecutive terms": [
+    553
+  ],
+  "Use the common difference to predict the next term in the sequence": [
+    553
+  ],
+  "Single-digit numbers": [
+    554
+  ],
+  "Prime factors": [
+    554
+  ],
+  "Distinct prime factors": [
+    554
+  ],
+  "Factors of numbers 1 through 9": [
+    554
+  ],
+  "Identifying numbers with exactly two distinct prime factors": [
+    554
+  ],
+  "equation manipulation": [
+    555
+  ],
+  "algebraic substitution": [
+    555
+  ],
+  "equivalence of equations": [
+    555
+  ],
+  "Isolate variables in equations": [
+    556
+  ],
+  "Fraction division": [
+    556
+  ],
+  "Cross multiplication": [
+    556
+  ],
+  "Identify equivalent fractions": [
+    556
+  ],
+  "Finding the reciprocal of a whole number": [
+    557
+  ],
+  "Understanding the concept of reciprocal": [
+    557
+  ],
+  "Replacing the question mark with the correct value": [
+    557
+  ],
+  "Identifying the correct choice from given options": [
+    557,
+    602
+  ],
+  "highest common factor (HCF)": [
+    558
+  ],
+  "product of prime factors": [
+    558
+  ],
+  "evaluating statement truthfulness": [
+    558
+  ],
+  "multiplication of positive and negative numbers": [
+    559
+  ],
+  "properties of squaring a number": [
+    559
+  ],
+  "negative of a square": [
+    559
+  ],
+  "zero property of equality": [
+    559
+  ],
+  "Tessellation definition": [
+    560
+  ],
+  "Properties of a scalene triangle": [
+    560
+  ],
+  "Tessellation of triangles": [
+    560
+  ],
+  "Tessellation of quadrilaterals": [
+    560
+  ],
+  "Understanding of plane covering without gaps or overlaps": [
+    560
+  ],
+  "Recognition of tessellation in both regular and irregular shapes": [
+    560
+  ],
+  "To translate an object to the left, the vector must have a negative x-component since leftward direction is negative on the x-axis": [
+    561
+  ],
+  "A movement of 5 squares to the left means the x-component of the vector should be -5": [
+    561
+  ],
+  "The y-component remains 0 as there is no vertical movement": [
+    561
+  ],
+  "Vector representation for translation in a coordinate system": [
+    561
+  ],
+  "To determine who is correct, calculate the expression $\\frac{1}{7}\\times15$": [
+    562
+  ],
+  "$\\frac{1}{7}\\times15 = \\frac{15}{7}$": [
+    562
+  ],
+  "Convert $\\frac{15}{7}$ to a mixed number: $2\\frac{1}{7}$": [
+    562
+  ],
+  "Understanding of equivalent fractions": [
+    562
+  ],
+  "Understanding of improper fractions and mixed numbers": [
+    562
+  ],
+  "Both Jo and Paul are correct as $\\frac{15}{7}$ and $2\\frac{1}{7}$ represent the same value.": [
+    562
+  ],
+  "The final answer C indicates that both forms are acceptable.": [
+    562
+  ],
+  "number line comparison": [
+    563
+  ],
+  "absolute value concept": [
+    563
+  ],
+  "vector length calculation": [
+    564
+  ],
+  "calculate slope of a line": [
+    565
+  ],
+  "compare slopes to determine parallelism": [
+    565
+  ],
+  "compare distances to determine equality of length": [
+    565
+  ],
+  "Understanding of million place value": [
+    566
+  ],
+  "Conversion of large numbers to scientific notation": [
+    566
+  ],
+  "Moving decimal points for scientific notation": [
+    566
+  ],
+  "Matching scientific notation to multiple-choice options": [
+    566
+  ],
+  "Understanding accuracy in measurements": [
+    567
+  ],
+  "Basic subtraction for finding differences": [
+    567
+  ],
+  "Identifying the smallest difference": [
+    567
+  ],
+  "understanding of equality and proportion": [
+    568
+  ],
+  "concept of fractions": [
+    568
+  ],
+  "interpretation of geometric shapes as units": [
+    568
+  ],
+  "Transformations of geometric shapes": [
+    569
+  ],
+  "Scale factor in enlargement": [
+    569
+  ],
+  "Properties of rectangles": [
+    569
+  ],
+  "Inverse operations to find original dimensions": [
+    569
+  ],
+  "The difference between each pattern is an increase of 4 dots": [
+    570
+  ],
+  "Formulate the pattern rule using arithmetic sequence": [
+    570
+  ],
+  "Substitute the pattern number into the formula to find the number of dots": [
+    570
+  ],
+  "Calculate the number of dots for Pattern 6 using the formula": [
+    570
+  ],
+  "The sum of the interior angles of a quadrilateral is 360°": [
+    571
+  ],
+  "The properties of a kite": [
+    571
+  ],
+  "understanding perimeter formulas": [
+    572
+  ],
+  "algebraic expression comparison": [
+    572
+  ],
+  "factoring algebraic expressions": [
+    572
+  ],
+  "identifying variables in expressions": [
+    572
+  ],
+  "evaluating expressions for equality": [
+    572
+  ],
+  "Calculating the area of rectangles": [
+    573
+  ],
+  "Understanding dimensions and their measurements": [
+    573
+  ],
+  "basic algebraic expressions": [
+    574
+  ],
+  "testing specific values": [
+    574
+  ],
+  "rotation of a shape": [
+    575
+  ],
+  "center of rotation": [
+    575
+  ],
+  "90 degree rotation formula": [
+    575
+  ],
+  "transformation verification": [
+    575
+  ],
+  "importance of center in rotation description": [
+    575
+  ],
+  "vector representation of movement": [
+    576
+  ],
+  "x and y coordinate system": [
+    576
+  ],
+  "negative and positive direction in coordinates": [
+    576
+  ],
+  "The sum of the interior angles of a triangle is always 180°": [
+    577,
+    927
+  ],
+  "Highest common factor": [
+    578
+  ],
+  "Interpretation of grid diagrams": [
+    579
+  ],
+  "Understanding variables as placeholders for numbers": [
+    579
+  ],
+  "Identifying patterns in structured layouts": [
+    579
+  ],
+  "Basic algebraic equation solving": [
+    579
+  ],
+  "equality": [
+    580
+  ],
+  "comparison": [
+    580
+  ],
+  "Understanding of numerical values": [
+    581
+  ],
+  "Scientific notation": [
+    581
+  ],
+  "Representation of large numbers": [
+    581
+  ],
+  "Multiple choice answer interpretation": [
+    581
+  ],
+  "To translate an object vertically": [
+    582
+  ],
+  "Vectors represent translation in coordinate geometry": [
+    582
+  ],
+  "Vertical translation affects the y-coordinate": [
+    582
+  ],
+  "Downward translation is represented by a negative value in the y-coordinate": [
+    582
+  ],
+  "The vector for 3 squares down is (0, -3)": [
+    582
+  ],
+  "Think of a number": [
+    583
+  ],
+  "Add 4 to n, which gives n + 4": [
+    583
+  ],
+  "Multiply the result by 3, which gives (n + 4) * 3": [
+    583
+  ],
+  "Subtract 2 from the result, which gives (n + 4) * 3 - 2": [
+    583
+  ],
+  "Finally, divide by 10, which gives ((n + 4) * 3 - 2) / 10": [
+    583
+  ],
+  "Katie's expression matches this sequence of operations": [
+    583
+  ],
+  "Multiplication is associative": [
+    583
+  ],
+  "Both expressions are mathematically equivalent": [
+    583
+  ],
+  "Katie's form matches the described steps more directly": [
+    583
+  ],
+  "Both are correct in their own context, but Katie's form is preferred for its direct matching to the steps": [
+    583
+  ],
+  "Identify pattern rule": [
+    584
+  ],
+  "Linear growth pattern": [
+    584
+  ],
+  "Calculate nth term of a sequence": [
+    584
+  ],
+  "Simplify arithmetic expression": [
+    584
+  ],
+  "Sum of two sides of a triangle must be greater than the third side": [
+    586
+  ],
+  "Interpreting composite shapes": [
+    587
+  ],
+  "Evaluating algebraic expressions": [
+    587
+  ],
+  "Correct application of dimensions in area calculation": [
+    587
+  ],
+  "Arithmetic operations with positive and negative numbers": [
+    588
+  ],
+  "Understanding of negation in mathematics": [
+    588
+  ],
+  "Interpreting geometric representations of inequalities": [
+    589
+  ],
+  "Understanding basic inequality relationships": [
+    589
+  ],
+  "Adding constants to both sides of an inequality": [
+    589
+  ],
+  "Maintaining inequality direction when adding constants": [
+    589
+  ],
+  "Evaluating inequality truth based on visual aids": [
+    589
+  ],
+  "Knowing how to determine if a number is a factor of another number using prime factorization": [
+    590
+  ],
+  "Understanding the rules of exponents": [
+    590
+  ],
+  "Knowing that for a number to be a factor, its prime factors must be present in the prime factorization of the other number with equal or lesser powers": [
+    590
+  ],
+  "Coordinate plane movement": [
+    591
+  ],
+  "X-axis translation": [
+    591
+  ],
+  "Y-axis translation": [
+    591
+  ],
+  "Distance calculation on coordinate plane": [
+    591
+  ],
+  "Start with a number": [
+    592
+  ],
+  "Matching result with options": [
+    592
+  ],
+  "multiplication of decimals": [
+    593
+  ],
+  "conversion of decimals to fractions": [
+    593,
+    715
+  ],
+  "division of whole numbers": [
+    593
+  ],
+  "interpretation of multiple choice answers": [
+    593
+  ],
+  "Adding numbers in the Indian number system": [
+    594
+  ],
+  "Recognizing number formats in the Indian system": [
+    594
+  ],
+  "visualizing shapes and reflections": [
+    595
+  ],
+  "reflection over a horizontal line": [
+    595
+  ],
+  "movement of reflected shapes": [
+    595
+  ],
+  "opposite direction movement for reflections": [
+    595
+  ],
+  "distance calculation in coordinate plane": [
+    595
+  ],
+  "To find the area of composite shapes": [
+    596
+  ],
+  "Break complex shapes into simpler shapes": [
+    596
+  ],
+  "Calculate the area of rectangles using the formula length times width": [
+    596
+  ],
+  "Add the areas of individual shapes to find the total area": [
+    596
+  ],
+  "Compare algebraic expressions to determine equivalence": [
+    596
+  ],
+  "Understanding prime numbers": [
+    598
+  ],
+  "Constructing a factor tree": [
+    598
+  ],
+  "Identifying prime factorization mistakes": [
+    598
+  ],
+  "Recognizing non-prime factors in factorization": [
+    598
+  ],
+  "Understanding decimal numbers": [
+    599
+  ],
+  "properties of quadrilaterals": [
+    600,
+    667
+  ],
+  "properties of rhombuses": [
+    600
+  ],
+  "angles in quadrilaterals": [
+    600
+  ],
+  "commutative property of multiplication": [
+    601,
+    615,
+    640,
+    804
+  ],
+  "order of numbers does not affect the product": [
+    601
+  ],
+  "Multiply by the reciprocal of the divisor": [
+    602
+  ],
+  "The reciprocal of a fraction": [
+    602
+  ],
+  "Find the least common denominator": [
+    603
+  ],
+  "Subtract fractions with a common denominator": [
+    603
+  ],
+  "Interpret the result of fraction subtraction": [
+    603
+  ],
+  "Converting whole numbers to fractions": [
+    605
+  ],
+  "Understanding negative fractions": [
+    605
+  ],
+  "Division of a line segment into equal parts": [
+    606
+  ],
+  "Interpretation of visual aids in math problems": [
+    606
+  ],
+  "common factor": [
+    607
+  ],
+  "counterexample": [
+    607
+  ],
+  "integer multiples": [
+    607
+  ],
+  "Dividing whole numbers": [
+    608,
+    841
+  ],
+  "Start with the input q": [
+    610
+  ],
+  "Multiply q by 8 to get 8q": [
+    610
+  ],
+  "Subtract 3 from 8q": [
+    610
+  ],
+  "The output is 8q - 3": [
+    610
+  ],
+  "calculate lengths of given symbols": [
+    611
+  ],
+  "add lengths together": [
+    611
+  ],
+  "approximate square roots": [
+    611
+  ],
+  "compare sum to given options": [
+    611
+  ],
+  "The shape in question is a star cross": [
+    612
+  ],
+  "To find the order of rotational symmetry, we need to determine how many times the shape looks exactly the same as it rotates through 360 degrees": [
+    612
+  ],
+  "A star cross looks the same four times as it completes a full rotation": [
+    612
+  ],
+  "Therefore, the order of rotational symmetry is 4": [
+    612
+  ],
+  "patterns of last digits of powers": [
+    613
+  ],
+  "powers of 2": [
+    613
+  ],
+  "powers of 5": [
+    613
+  ],
+  "cyclical patterns in number theory": [
+    613
+  ],
+  "analysis of number endings": [
+    613
+  ],
+  "Parentheses placement": [
+    614
+  ],
+  "To find the number of factors of a number": [
+    616
+  ],
+  "Prime numbers have only two factors: 1 and the number itself": [
+    616
+  ],
+  "11 is a prime number": [
+    616
+  ],
+  "Counting factors of a prime number": [
+    616
+  ],
+  "Identify dimensions of a rectangle": [
+    617
+  ],
+  "Formula for the area of a rectangle": [
+    617
+  ],
+  "Substitute dimensions into the area formula": [
+    617
+  ],
+  "Calculate the area using the formula": [
+    617
+  ],
+  "The square root of a number": [
+    618
+  ],
+  "The formula for the area of a triangle": [
+    618
+  ],
+  "To divide fractions, multiply the first fraction by the reciprocal of the second fraction": [
+    619,
+    724,
+    771,
+    883
+  ],
+  "Multiply the numerators together": [
+    619
+  ],
+  "Multiply the denominators together": [
+    619
+  ],
+  "Simplify the fraction": [
+    619,
+    724
+  ],
+  "Reflecting shapes over a vertical line": [
+    620
+  ],
+  "Determining the effect of translation on reflected shapes": [
+    620
+  ],
+  "Understanding the relationship between object and image distances in reflection": [
+    620
+  ],
+  "Calculating remaining fractions": [
+    621
+  ],
+  "Subtracting fractions from a whole": [
+    621
+  ],
+  "Interpreting visual fraction models": [
+    621
+  ],
+  "Find the slope of a line using two points": [
+    622
+  ],
+  "Determine if two slopes are negative reciprocals": [
+    622
+  ],
+  "Interpret the relationship between two lines based on their slopes": [
+    622
+  ],
+  "Identify if lines are parallel, perpendicular, or neither based on slope comparison": [
+    622
+  ],
+  "Expression evaluation": [
+    623,
+    835
+  ],
+  "Sign change or negation in expressions": [
+    623
+  ],
+  "Binary operations": [
+    624
+  ],
+  "Grouping of operations": [
+    624
+  ],
+  "Addition and multiplication properties": [
+    624
+  ],
+  "Aligning the protractor's baseline": [
+    625
+  ],
+  "Identifying the vertex of an angle": [
+    625
+  ],
+  "Reading the protractor scale": [
+    625
+  ],
+  "Understanding of multiples": [
+    626,
+    747
+  ],
+  "Positive integers": [
+    626
+  ],
+  "Evaluating simple mathematical statements": [
+    626
+  ],
+  "Interpretation of question context and provided answer": [
+    626
+  ],
+  "Identifying errors or misinterpretations in problem statements": [
+    626
+  ],
+  "understand the relationship": [
+    627
+  ],
+  "break down the equation": [
+    627
+  ],
+  "rewrite multiplication as a sum": [
+    627
+  ],
+  "use the distributive property": [
+    627
+  ],
+  "multiplying a sum by a number": [
+    627
+  ],
+  "Integer addition and subtraction": [
+    628
+  ],
+  "Equation verification": [
+    628
+  ],
+  "Convert decimal to percentage": [
+    630
+  ],
+  "Multiply by 100": [
+    630
+  ],
+  "Understanding percentage symbol (%)": [
+    630
+  ],
+  "The shape is a right triangle with vertices at (0,0), (5,0), and (5,2)": [
+    631
+  ],
+  "The base of the triangle is the distance between (0,0) and (5,0), which is 5 units": [
+    631
+  ],
+  "The height of the triangle is the distance between (5,0) and (5,2), which is 2 units": [
+    631
+  ],
+  "The area of a triangle is given by the formula 1/2 * base * height": [
+    631
+  ],
+  "Substituting the values, the area is 1/2 * 5 * 2 = 5 square units": [
+    631
+  ],
+  "A full circle measures 360°": [
+    632
+  ],
+  "To find the fraction of the circle that a sector represents, divide the sector's angle by 360°": [
+    632
+  ],
+  "Definition of a factor": [
+    634
+  ],
+  "How to determine factors of a number": [
+    634
+  ],
+  "Multiplication facts for the number 12": [
+    634
+  ],
+  "Comparing negative numbers": [
+    635
+  ],
+  "Ordering negative numbers": [
+    635
+  ],
+  "quadrilateral definition": [
+    636
+  ],
+  "square properties": [
+    636
+  ],
+  "rectangle properties": [
+    636
+  ],
+  "parallelogram properties": [
+    636
+  ],
+  "circle properties": [
+    636
+  ],
+  "distance on a number line": [
+    637
+  ],
+  "calculation of distance between two points": [
+    637
+  ],
+  "subtraction of negative numbers": [
+    637
+  ],
+  "addition of positive numbers": [
+    637
+  ],
+  "interpretation of variables on a number line": [
+    637
+  ],
+  "understanding of change or difference indicated on a number line": [
+    637
+  ],
+  "understanding of number line and comparison of negative numbers": [
+    638
+  ],
+  "concept of absolute value": [
+    638
+  ],
+  "interpretation of inequality statements": [
+    638
+  ],
+  "comparison of absolute values of negative numbers": [
+    638
+  ],
+  "Combining absolute values": [
+    639
+  ],
+  "Sign rules for addition of integers": [
+    639
+  ],
+  "number line representation": [
+    640
+  ],
+  "multiplication process visualization": [
+    640
+  ],
+  "labeling points on a number line": [
+    640
+  ],
+  "interpreting symbols on a number line": [
+    640
+  ],
+  "Understanding of coordinate geometry": [
+    641,
+    741,
+    822
+  ],
+  "Understanding of the properties of rectangles": [
+    641
+  ],
+  "Calculation of distance between two points on a coordinate plane": [
+    641
+  ],
+  "Calculation of area of a rectangle": [
+    641
+  ],
+  "The shape is a right triangle with vertices at (0,0), (0,3), and (3,0)": [
+    643
+  ],
+  "The base of the triangle is 3 units (from (0,0) to (3,0))": [
+    643
+  ],
+  "The height of the triangle is 3 units (from (0,0) to (0,3))": [
+    643
+  ],
+  "The area of a triangle is given by (1/2) * base * height": [
+    643
+  ],
+  "Substituting the values, the area is (1/2) * 3 * 3 = 4.5 square units": [
+    643
+  ],
+  "Understanding division and multiplication": [
+    644
+  ],
+  "Interpreting diagrams representing mathematical operations": [
+    644
+  ],
+  "Knowledge of basic arithmetic operations and their outcomes": [
+    644
+  ],
+  "Concept of less than and greater than": [
+    645,
+    911
+  ],
+  "Ability to evaluate given options": [
+    645
+  ],
+  "Knowledge of negative numbers and their placement on a number line": [
+    645
+  ],
+  "Reflecting points over a vertical line": [
+    647
+  ],
+  "Determining the effect of consecutive reflections": [
+    647
+  ],
+  "Identifying translation from original to final image": [
+    647
+  ],
+  "Calculating translation vector": [
+    647
+  ],
+  "Fractions and their representation on number lines": [
+    648
+  ],
+  "Adding fractions to whole numbers": [
+    648
+  ],
+  "Interpreting distances on number lines": [
+    648
+  ],
+  "Express decimal as fraction": [
+    649
+  ],
+  "Simplify fraction by dividing numerator and denominator by greatest common divisor": [
+    649
+  ],
+  "Identify greatest common divisor": [
+    649
+  ],
+  "Convert decimal to fraction with denominator as a power of ten": [
+    649
+  ],
+  "Let the number in the box be x": [
+    650
+  ],
+  "Add 5 to both sides to isolate x": [
+    650
+  ],
+  "Simplify the right side": [
+    650
+  ],
+  "4 is equal to 1/2 of the unknown number": [
+    651
+  ],
+  "To find the unknown number, multiply 4 by 2": [
+    651
+  ],
+  "Multiplication by 2": [
+    651
+  ],
+  "The unknown number is 8": [
+    651
+  ],
+  "Isolating the variable": [
+    652,
+    867
+  ],
+  "Verification by direct calculation": [
+    653
+  ],
+  "Interpreting geometric figures": [
+    654,
+    768
+  ],
+  "Basic subtraction": [
+    654
+  ],
+  "Identifying dimensions in geometric figures": [
+    654
+  ],
+  "Number line representation": [
+    655
+  ],
+  "A trapezoid has exactly one pair of parallel sides": [
+    657
+  ],
+  "These parallel sides are called the bases of the trapezoid": [
+    657
+  ],
+  "Other quadrilaterals like square, rectangle, and parallelogram have two pairs of parallel sides": [
+    657
+  ],
+  "Option C represents a trapezoid": [
+    657
+  ],
+  "Combine like terms in algebraic expressions": [
+    658
+  ],
+  "Rules of combining like terms": [
+    658
+  ],
+  "Algebraic rules for expression simplification": [
+    658
+  ],
+  "Interpretation of multiplication using groups": [
+    659
+  ],
+  "Interpretation of division as equal sharing": [
+    659
+  ],
+  "Understanding of multiple representations of the same diagram": [
+    659
+  ],
+  "Recognition of valid mathematical perspectives": [
+    659
+  ],
+  "Comprehension of multiple-choice answer formats": [
+    659
+  ],
+  "understanding fraction size relationship to denominator size": [
+    660
+  ],
+  "Angle sum property of triangles": [
+    661
+  ],
+  "Definition of acute and obtuse angles": [
+    661
+  ],
+  "Relationship between angles in a triangle": [
+    661
+  ],
+  "The sum of the radii of the two smaller circles equals the radius of the largest circle": [
+    662
+  ],
+  "R = 9 + 4": [
+    662
+  ],
+  "To divide by a fraction multiply by its reciprocal": [
+    663
+  ],
+  "Finding the reciprocal of a fraction": [
+    663,
+    793
+  ],
+  "Multiplying whole numbers by fractions": [
+    663
+  ],
+  "Converting improper fractions to mixed numbers or decimals": [
+    663
+  ],
+  "Understand alternate interior angles": [
+    664
+  ],
+  "Identify angle C as alternate interior angle to angle p": [
+    664
+  ],
+  "Remainders": [
+    665
+  ],
+  "Multiples": [
+    665
+  ],
+  "Simplify the fraction if necessary": [
+    666
+  ],
+  "angles in parallelograms": [
+    667
+  ],
+  "angles in rectangles": [
+    667
+  ],
+  "angles in rhombuses": [
+    667
+  ],
+  "angles in kites": [
+    667
+  ],
+  "angles in trapezoids": [
+    667
+  ],
+  "isosceles trapezoids": [
+    667
+  ],
+  "The concept of slope in coordinate geometry": [
+    668
+  ],
+  "The definition of horizontal and vertical lines": [
+    668
+  ],
+  "The definition of right and acute angles": [
+    668
+  ],
+  "The relationship between slopes and angle types": [
+    668
+  ],
+  "The interpretation of coordinates to determine line orientation": [
+    668
+  ],
+  "Understanding angle measurement with a protractor": [
+    669
+  ],
+  "Interpreting angle direction (clockwise vs counterclockwise)": [
+    669
+  ],
+  "Recognizing possible correct answers based on measurement method": [
+    669
+  ],
+  "The value in each box above is the sum of the two boxes directly below it": [
+    670
+  ],
+  "Subtraction of algebraic terms": [
+    670
+  ],
+  "Understanding of pyramid structure and number relation": [
+    670
+  ],
+  "Algebraic addition": [
+    670
+  ],
+  "simplify fractions": [
+    671
+  ],
+  "multiply fractions": [
+    671
+  ],
+  "add fractions": [
+    671
+  ],
+  "find common denominator": [
+    671
+  ],
+  "factor out common terms": [
+    671
+  ],
+  "divide fractions": [
+    671
+  ],
+  "simplify expressions": [
+    671
+  ],
+  "Identifying mathematical instruments": [
+    672
+  ],
+  "Names of common mathematical instruments": [
+    672
+  ],
+  "Understanding abbreviations or placeholders": [
+    672
+  ],
+  "Need for additional context or imagery to identify objects": [
+    672
+  ],
+  "Clarifying incomplete or unclear answers": [
+    672
+  ],
+  "Consider the possible symbols that can be placed in the boxes to make the statement true": [
+    673
+  ],
+  "Evaluate the possible operations": [
+    673
+  ],
+  "Understand the use of less than sign in inequalities": [
+    673
+  ],
+  "Simplify the expression to check the validity of the inequality": [
+    673
+  ],
+  "Match the solution with the given options": [
+    673
+  ],
+  "Positional value in Mayan system": [
+    674
+  ],
+  "Combining values to represent numbers": [
+    674
+  ],
+  "method to check if a number is prime": [
+    675
+  ],
+  "square root concept": [
+    675
+  ],
+  "Calculating distance between two points on a number line": [
+    676
+  ],
+  "Interpreting number line segments and their lengths": [
+    676
+  ],
+  "Identifying relevant information in a diagram": [
+    676
+  ],
+  "Recognizing distractions in a problem": [
+    676
+  ],
+  "The product of two numbers is -20": [
+    677
+  ],
+  "One number must be positive and the other negative because the product is negative": [
+    677
+  ],
+  "Possible pairs include 4 and -5, -4 and 5, 1 and -20, -1 and 20, 2 and -10, -2 and 10": [
+    677
+  ],
+  "Any of these pairs would satisfy the condition that their product is -20": [
+    677
+  ],
+  "Simplify expressions involving subtraction of negative numbers": [
+    678
+  ],
+  "Perform addition of integers with different signs": [
+    678
+  ],
+  "Understanding 12-hour and 24-hour clock systems": [
+    679,
+    685
+  ],
+  "Counting backwards in time": [
+    679
+  ],
+  "Knowledge of midnight representation in time notation": [
+    679
+  ],
+  "Understanding fractions and decimals": [
+    680,
+    703
+  ],
+  "Interpreting distance on a number line": [
+    680,
+    765
+  ],
+  "Setting up equations based on given conditions": [
+    680,
+    765
+  ],
+  "Comparing distances on a number line": [
+    680
+  ],
+  "Knowing the perimeter of each square gives the side length since perimeter = 4 * side": [
+    681
+  ],
+  "When combining squares, the perimeter of the new shape depends on how they are placed together": [
+    681
+  ],
+  "The area of the combined shape is simply the sum of the areas of the individual squares": [
+    681
+  ],
+  "Jo is incorrect because the perimeter of the combined shape can vary based on the arrangement": [
+    681
+  ],
+  "Paul is correct because the area of the combined shape can be determined from the areas of the individual squares": [
+    681
+  ],
+  "Rotational symmetry": [
+    682,
+    704,
+    823
+  ],
+  "Rectangle properties": [
+    682
+  ],
+  "Degrees of rotation": [
+    682
+  ],
+  "Order of symmetry": [
+    682
+  ],
+  "Addition of angles": [
+    683
+  ],
+  "Subtraction to find unknown angle": [
+    683
+  ],
+  "Convert 12-hour time to 24-hour time": [
+    684
+  ],
+  "Calculate time duration between two given times": [
+    684
+  ],
+  "Add time durations": [
+    684
+  ],
+  "Calculate total time spent in hours": [
+    684
+  ],
+  "Modular arithmetic for time calculation": [
+    685
+  ],
+  "Understanding of concatenation": [
+    686
+  ],
+  "Substitution of variables into expressions": [
+    686
+  ],
+  "Evaluating expressions with operations and variables": [
+    686
+  ],
+  "Interpreting symbols in mathematical expressions": [
+    686
+  ],
+  "Matching operation symbols to their meanings in given choices": [
+    686
+  ],
+  "A diameter is a line segment that passes through the center of the circle and whose endpoints lie on the circle": [
+    687
+  ],
+  "A radius is a line segment from the center of the circle to any point on the circle": [
+    687
+  ],
+  "Line segment properties in a circle": [
+    687
+  ],
+  "Neither Tom nor Katie is correct if the line segment does not pass through the center and does not start from the center": [
+    687
+  ],
+  "Identify divisibility of numbers": [
+    688
+  ],
+  "Understand Venn diagram regions": [
+    688
+  ],
+  "Multiples of 5": [
+    688
+  ],
+  "Intersection of multiples of 3 and 5": [
+    688
+  ],
+  "Outside both circles in Venn diagram": [
+    688
+  ],
+  "Placement of numbers in Venn diagram based on properties": [
+    688
+  ],
+  "Properties of parallel lines cut by a transversal": [
+    689
+  ],
+  "Visualize the given figure and the red line of symmetry": [
+    690
+  ],
+  "Reflect the upper half of the figure over the red line": [
+    690
+  ],
+  "Understand symmetry and reflection": [
+    690
+  ],
+  "Identify the correct reflection that matches one of the provided options": [
+    690
+  ],
+  "Compare numerical values": [
+    691,
+    850
+  ],
+  "Ordering numbers": [
+    691
+  ],
+  "Understanding fractions in time measurements": [
+    691
+  ],
+  "simplification of fractions": [
+    692,
+    715
+  ],
+  "The perimeter of a triangle": [
+    693
+  ],
+  "Isosceles triangle properties": [
+    693,
+    720
+  ],
+  "Fraction operations": [
+    693
+  ],
+  "Factor trees break down numbers into prime factors": [
+    694
+  ],
+  "Prime numbers are numbers greater than 1 that have no divisors other than 1 and themselves": [
+    694
+  ],
+  "Different numbers a and b must appear as distinct prime factors in the tree": [
+    694
+  ],
+  "Evaluating options involves checking for two different prime factors": [
+    694
+  ],
+  "Option C contains two different prime factors fitting the criteria": [
+    694
+  ],
+  "The sum of the interior angles of a trapezoid is 360°": [
+    695
+  ],
+  "Add given angles": [
+    695
+  ],
+  "Subtract the sum of given angles from 360° to find the unknown angle": [
+    695
+  ],
+  "least common multiple": [
+    696,
+    890
+  ],
+  "properties of multiples": [
+    696
+  ],
+  "identify the line of reflection and the object's original position": [
+    697
+  ],
+  "understand the criteria for correct reflection": [
+    697
+  ],
+  "compare reflected images to the criteria of correct reflection": [
+    697
+  ],
+  "determine equidistance of points from the line of reflection": [
+    697
+  ],
+  "correct reflection means points are equidistant but on opposite side of line of reflection": [
+    697
+  ],
+  "cross-multiplying to compare fractions": [
+    699
+  ],
+  "equivalent fractions": [
+    699
+  ],
+  "Identify lines of symmetry in shapes": [
+    700
+  ],
+  "Determine if a line divides a shape into two identical halves": [
+    700
+  ],
+  "Recognize mirror-image halves in shapes": [
+    700
+  ],
+  "Interpret geometric figures and their symmetry": [
+    700
+  ],
+  "Analyze provided options for symmetry characteristics": [
+    700
+  ],
+  "Calculating perimeter of composite shapes": [
+    701
+  ],
+  "Identifying outer edges in geometric figures": [
+    701
+  ],
+  "Understanding perimeter calculation for squares and triangles": [
+    701
+  ],
+  "Evaluating different methods of calculating perimeter": [
+    701
+  ],
+  "Interpreting geometric figures and their dimensions": [
+    701
+  ],
+  "Comparing mathematical expressions for equivalence": [
+    701
+  ],
+  "Selecting the most appropriate method for clarity and accuracy": [
+    701
+  ],
+  "dividing a quantity into equal parts": [
+    702
+  ],
+  "finding a fraction of a quantity": [
+    702
+  ],
+  "interpreting word problems involving fractions": [
+    702
+  ],
+  "Number line interpretation": [
+    703
+  ],
+  "Proportional reasoning": [
+    703
+  ],
+  "Basic algebra for solving equations": [
+    703,
+    935
+  ],
+  "Conversion between fractions and decimals": [
+    703
+  ],
+  "Order of rotational symmetry": [
+    704,
+    823
+  ],
+  "Equilateral triangle properties": [
+    704
+  ],
+  "Rotational symmetry in equilateral triangle": [
+    704
+  ],
+  "Comparing rotational symmetry orders": [
+    704
+  ],
+  "The length is 14cm and the width is 2.5cm": [
+    705
+  ],
+  "Multiply 14cm by 2.5cm to get 35 square centimeters": [
+    705
+  ],
+  "The area of the rectangle is 35 square centimeters": [
+    705
+  ],
+  "Understanding the Mayan number system structure based on powers of 20": [
+    706
+  ],
+  "Mayan number system uses dots for units and bars for 5": [
+    706
+  ],
+  "Breaking down numbers into multiples of 20 and remaining units": [
+    706
+  ],
+  "Representing numbers in the Mayan system with positional values": [
+    706
+  ],
+  "Combining symbols in the correct positional values to form the number": [
+    706
+  ],
+  "The product of two numbers is -24. We need to find pairs of numbers that multiply to -24.": [
+    707
+  ],
+  "Consider the factors of 24: 1, 2, 3, 4, 6, 8, 12, and 24.": [
+    707
+  ],
+  "For the product to be negative, one number must be positive and the other negative.": [
+    707
+  ],
+  "Possible pairs are (1, -24), (-1, 24), (2, -12), (-2, 12), (3, -8), (-3, 8), (4, -6), (-4, 6).": [
+    707
+  ],
+  "even and odd numbers": [
+    708
+  ],
+  "multiplicative relationships": [
+    708
+  ],
+  "Start with the given equation 2x = y": [
+    709
+  ],
+  "Substitute y with 2x in inequalities": [
+    709
+  ],
+  "Simplify inequalities": [
+    709
+  ],
+  "Evaluate the truth of simplified inequalities": [
+    709
+  ],
+  "Compare the results to determine who is correct": [
+    709
+  ],
+  "Final answer is A": [
+    709
+  ],
+  "Definition of a fillet": [
+    710
+  ],
+  "Properties of a fillet": [
+    710
+  ],
+  "Interpretation of geometric shapes and their features": [
+    710
+  ],
+  "The sum of the interior angles of a polygon": [
+    711,
+    846
+  ],
+  "Formula for the sum of interior angles (n-2) * 180 degrees": [
+    711
+  ],
+  "Regular polygon properties": [
+    711
+  ],
+  "Division to find individual angle size in a regular polygon": [
+    711
+  ],
+  "The shape described is a rectangle with rounded corners": [
+    712
+  ],
+  "A standard rectangle area calculation is length times width": [
+    712
+  ],
+  "Rounded corners remove a small portion of the area from each corner": [
+    712
+  ],
+  "The area of the shape is slightly less than the area of a standard rectangle with the same dimensions": [
+    712
+  ],
+  "Without the radius of the rounded corners, the exact area cannot be determined": [
+    712
+  ],
+  "The area is less than 15 square units but more than 0 square units": [
+    712
+  ],
+  "Option B represents an answer acknowledging the area is less than 15 square units but more than 0 square units": [
+    712
+  ],
+  "The width of rectangle P is 20 cm": [
+    713
+  ],
+  "The scale factor for enlargement is 2": [
+    713,
+    756
+  ],
+  "To find the new width for rectangle Q, multiply the original width by the scale factor": [
+    713
+  ],
+  "Understanding scale factors and their application in geometry": [
+    713
+  ],
+  "Rectangle dimensions and properties": [
+    713
+  ],
+  "Divisibility": [
+    714
+  ],
+  "Comparison of statements": [
+    714
+  ],
+  "Correctness of statements": [
+    714
+  ],
+  "subtraction of decimals": [
+    715
+  ],
+  "Determine the increase in dots per pattern in the original shape": [
+    716
+  ],
+  "Find the average increase per pattern": [
+    716
+  ],
+  "Apply the average increase to the new shape": [
+    716
+  ],
+  "Calculate the total number of dots for Pattern 100 in the new shape": [
+    716
+  ],
+  "Enlargements can make shapes bigger or smaller depending on the scale factor": [
+    718
+  ],
+  "Scale factors can be integers or fractions": [
+    718
+  ],
+  "Scale factors between 0 and 1 make shapes smaller": [
+    718
+  ],
+  "Scale factors greater than 1 make shapes larger": [
+    718
+  ],
+  "Scale factors can be any real number": [
+    718
+  ],
+  "Neither Tom nor Katie is correct": [
+    718
+  ],
+  "converting decimals to fractions": [
+    719,
+    904
+  ],
+  "Perimeter of a triangle": [
+    720
+  ],
+  "Visualizing figures on a Geo board": [
+    721
+  ],
+  "Identifying lines of symmetry in figures": [
+    721
+  ],
+  "Understanding symmetry and mirror images": [
+    721
+  ],
+  "Evaluating options to complete symmetric figures": [
+    721
+  ],
+  "Matching halves across a line of symmetry": [
+    721
+  ],
+  "Understanding fractions on a number line": [
+    722
+  ],
+  "Calculating distances between fractions": [
+    722,
+    832
+  ],
+  "Setting up and solving equations with fractions": [
+    722
+  ],
+  "Coordinates and plotting points": [
+    723
+  ],
+  "Area of a triangle": [
+    723
+  ],
+  "Summing areas of geometric shapes": [
+    723
+  ],
+  "Simplifying quadrilaterals into triangles": [
+    723
+  ],
+  "Calculating total area from parts": [
+    723
+  ],
+  "The distance between two vertical lines": [
+    725
+  ],
+  "The distance between two horizontal lines": [
+    725
+  ],
+  "Interpreting linear equations as lines in the coordinate plane": [
+    725
+  ],
+  "The area of a rectangle": [
+    726
+  ],
+  "Scale factor and its effect on area": [
+    726
+  ],
+  "Calculating the area of an enlarged shape": [
+    726
+  ],
+  "Multiplying the original area by the square of the scale factor": [
+    726
+  ],
+  "Identifying the vertex and sides of an angle": [
+    727,
+    772
+  ],
+  "Reading a protractor scale": [
+    727,
+    772
+  ],
+  "Interpreting measurement options": [
+    727
+  ],
+  "multiple_choice Interpretation": [
+    728
+  ],
+  "To determine who is correct, we need to look at the positions of angles p and q": [
+    729
+  ],
+  "Alternate angles are formed when a transversal intersects two parallel lines, and they are on opposite sides of the transversal but inside the parallel lines": [
+    729
+  ],
+  "Corresponding angles are on the same side of the transversal and in the same relative position": [
+    729
+  ],
+  "In the diagram, angles p and q are on opposite sides of the transversal and inside the parallel lines": [
+    729
+  ],
+  "Therefore, angles p and q are alternate interior angles": [
+    729
+  ],
+  "Paul is correct in saying that angles p and q are alternate": [
+    729
+  ],
+  "Jo is incorrect in saying that angles p and q are corresponding": [
+    729
+  ],
+  "Understanding angle relationships in parallel lines cut by a transversal": [
+    729
+  ],
+  "Compare decimals": [
+    730,
+    760
+  ],
+  "Understand inequality signs": [
+    730
+  ],
+  "Visualizing symmetry": [
+    731
+  ],
+  "Identifying completed side of a figure": [
+    731
+  ],
+  "Reflecting a figure over a line of symmetry": [
+    731
+  ],
+  "Comparing images to select the correct option": [
+    731
+  ],
+  "Division of integers by decimals": [
+    732
+  ],
+  "Sign rules for multiplication and division": [
+    732
+  ],
+  "Converting division by a fraction to multiplication by its reciprocal": [
+    732
+  ],
+  "recognize the numerator and the denominator": [
+    733
+  ],
+  "understand the meaning of numerator": [
+    733
+  ],
+  "understand the meaning of denominator": [
+    733
+  ],
+  "express fractions in words": [
+    733
+  ],
+  "know how to say common fractions aloud": [
+    733
+  ],
+  "Solving algebraic equations": [
+    734
+  ],
+  "Understanding geometric shapes and their properties": [
+    734
+  ],
+  "Understanding of equivalent expressions": [
+    735
+  ],
+  "Understanding number line representation": [
+    736,
+    754
+  ],
+  "Interpreting arrow directions on a number line": [
+    736
+  ],
+  "Identifying midpoint between two numbers on a number line": [
+    736
+  ],
+  "Recognizing integers on a number line": [
+    736
+  ],
+  "Properties of an equilateral triangle": [
+    737
+  ],
+  "Symmetry and geometric construction": [
+    737
+  ],
+  "Interpreting geometric figures from circle arrangements": [
+    737
+  ],
+  "Understanding circle radii and center distances": [
+    737
+  ],
+  "Let the unknown be represented by a variable": [
+    738
+  ],
+  "Isolate the variable by adding the same number to both sides of the equation": [
+    738
+  ],
+  "Simplify the equation to solve for the variable": [
+    738
+  ],
+  "Interpret the result to answer the question": [
+    738
+  ],
+  "Finding multiples of a number": [
+    739,
+    742,
+    773
+  ],
+  "Identifying common multiples": [
+    739,
+    742,
+    773
+  ],
+  "Determining the lowest common multiple": [
+    739,
+    773
+  ],
+  "Calculate a/b which is 4/3": [
+    740
+  ],
+  "Calculate b/a which is 3/4": [
+    740
+  ],
+  "Compare 4/3 and 3/4": [
+    740
+  ],
+  "A represents > in this context": [
+    740
+  ],
+  "Ability to identify corresponding vertices": [
+    741
+  ],
+  "Calculation of horizontal and vertical distances between points": [
+    741
+  ],
+  "Knowledge of translations in geometry": [
+    741
+  ],
+  "Least common multiple concept": [
+    742
+  ],
+  "common multiples": [
+    743
+  ],
+  "infinite number of common multiples": [
+    743
+  ],
+  "highest common factor": [
+    743,
+    936
+  ],
+  "coprime numbers": [
+    743
+  ],
+  "multiplication is commutative": [
+    744
+  ],
+  "order of factors does not change the product": [
+    744
+  ],
+  "expression involving only multiplication": [
+    744
+  ],
+  "expression involving both addition and multiplication": [
+    744
+  ],
+  "Expression interpretation": [
+    745
+  ],
+  "Fraction representation": [
+    745
+  ],
+  "Identify dimensions of compound shape": [
+    746
+  ],
+  "Determine missing dimensions by subtraction": [
+    746
+  ],
+  "List all side lengths": [
+    746
+  ],
+  "Add all side lengths to find perimeter": [
+    746
+  ],
+  "Understanding of perimeter concept": [
+    746
+  ],
+  "Sequence and order of numbers": [
+    747
+  ],
+  "distance formula for points in a plane": [
+    748
+  ],
+  "coordinates of points": [
+    748
+  ],
+  "origin in coordinate system": [
+    748
+  ],
+  "comparing distances": [
+    748
+  ],
+  "equidistant concept": [
+    748
+  ],
+  "A regular polygon has all sides and angles equal": [
+    750
+  ],
+  "The number of lines of symmetry in a regular polygon equals the number of its sides": [
+    750
+  ],
+  "A pentagon has 5 sides": [
+    750
+  ],
+  "Equation solving": [
+    751
+  ],
+  "Division properties": [
+    751
+  ],
+  "Substitute values into expression": [
+    752
+  ],
+  "Perform multiplication": [
+    752
+  ],
+  "Evaluate expression": [
+    752
+  ],
+  "Identify common multiples": [
+    753
+  ],
+  "Understand divisibility rules": [
+    753
+  ],
+  "Calculate least common multiple": [
+    753
+  ],
+  "Recognize patterns in number sequences": [
+    753
+  ],
+  "Interpreting direction and magnitude on a number line": [
+    754
+  ],
+  "Comparison of integers": [
+    755,
+    945
+  ],
+  "Evaluation of arithmetic statements": [
+    755
+  ],
+  "The width of rectangle P is 5 cm": [
+    756
+  ],
+  "To find the width of rectangle Q, multiply the width of rectangle P by the scale factor": [
+    756
+  ],
+  "Multiplication of length and scale factor": [
+    756
+  ],
+  "Fraction Simplification": [
+    757
+  ],
+  "Comparison of values": [
+    758
+  ],
+  "Correct interpretation of exponents": [
+    758
+  ],
+  "Number line representation of fractions": [
+    759,
+    810
+  ],
+  "Rounded corners": [
+    761
+  ],
+  "Standard corner angle": [
+    761
+  ],
+  "Angle reduction due to rounding": [
+    761
+  ],
+  "Inferring angle size from given options": [
+    761
+  ],
+  "perpendicular distance": [
+    762,
+    818
+  ],
+  "squaring a fraction": [
+    763
+  ],
+  "squaring the numerator": [
+    763
+  ],
+  "squaring the denominator": [
+    763
+  ],
+  "Understanding temperature scales": [
+    764
+  ],
+  "Comparing temperatures": [
+    764
+  ],
+  "Warmth comparison in temperatures": [
+    764
+  ],
+  "Fractions and their representation on a number line": [
+    765
+  ],
+  "Sum of interior angles in a quadrilateral": [
+    766
+  ],
+  "Symmetry in geometric shapes": [
+    766
+  ],
+  "Inscribed circle in a quadrilateral": [
+    766
+  ],
+  "factoring": [
+    767,
+    857
+  ],
+  "Identifying labeled elements in diagrams": [
+    768
+  ],
+  "Understanding line and intersection labels": [
+    768
+  ],
+  "Recognizing diagram notation conventions": [
+    768
+  ],
+  "adding and subtracting integers": [
+    769
+  ],
+  "negation of integers": [
+    769
+  ],
+  "evaluating the truth of mathematical statements": [
+    769
+  ],
+  "understanding positive and negative values": [
+    769
+  ],
+  "basic algebraic expressions manipulation": [
+    769
+  ],
+  "The adjacent angles of a parallelogram are supplementary, meaning they add up to 180°": [
+    770
+  ],
+  "The adjacent angle of q is 130°": [
+    770
+  ],
+  "Subtract the adjacent angle from 180° to find the measure of angle q": [
+    770
+  ],
+  "Simplify the fraction by dividing both numerator and denominator by their greatest common divisor": [
+    771
+  ],
+  "Matching measurement to multiple-choice options": [
+    772
+  ],
+  "Comparing decimal values": [
+    774
+  ],
+  "Understanding number line placement": [
+    774
+  ],
+  "Converting decimals back to fractions": [
+    774
+  ],
+  "division as multiplication by reciprocal": [
+    775,
+    942
+  ],
+  "formula for the area of a trapezoid": [
+    777
+  ],
+  "comparison of algebraic expressions": [
+    777
+  ],
+  "The formula for the perimeter of a rectangle is P = 2(l + w) where l is the length and w is the width": [
+    778
+  ],
+  "Simplify inside the parentheses first": [
+    778
+  ],
+  "Multiply": [
+    778
+  ],
+  "The perimeter of the rectangle is 33 cm.": [
+    778
+  ],
+  "Intersecting lines form vertical angles which are equal": [
+    779,
+    914
+  ],
+  "Adjacent angles formed by intersecting lines are supplementary": [
+    779
+  ],
+  "Supplementary angles sum up to 180 degrees": [
+    779
+  ],
+  "Solving linear equations for an unknown angle": [
+    779
+  ],
+  "vertical angles": [
+    780
+  ],
+  "congruent angles": [
+    780
+  ],
+  "intersecting lines": [
+    780
+  ],
+  "angle identification": [
+    780
+  ],
+  "Counting objects in a grid": [
+    781
+  ],
+  "Understanding variable representation in equations": [
+    781,
+    885
+  ],
+  "Solving simple algebraic equations": [
+    781
+  ],
+  "Matching equation solutions to options": [
+    781
+  ],
+  "Observe the pattern in the number of squares": [
+    782
+  ],
+  "Identify the common difference": [
+    782
+  ],
+  "Use the common difference to predict the next terms": [
+    782
+  ],
+  "Calculate the number of squares in Pattern 6": [
+    782
+  ],
+  "The original area of the shape is n cm²": [
+    784
+  ],
+  "When lengths are enlarged by a scale factor, the area is enlarged by the square of that scale factor": [
+    784
+  ],
+  "The scale factor for the lengths is 4": [
+    784
+  ],
+  "The scale factor for the area is therefore 4² = 16": [
+    784
+  ],
+  "The new area is 16 times the original area": [
+    784
+  ],
+  "A regular hexagon has 6 sides and a regular pentagon has 5 sides": [
+    785
+  ],
+  "For a regular hexagon to be formed, the circle must be divided into 6 equal parts": [
+    785
+  ],
+  "For a regular pentagon to be formed, the circle must be divided into 5 equal parts": [
+    785
+  ],
+  "Since the ring has 10 equally spaced dots, it can be divided into 5 equal parts but not into 6 equal parts": [
+    785
+  ],
+  "Paul can connect every other dot to form a regular pentagon": [
+    785
+  ],
+  "Jo cannot connect the dots to form a regular hexagon because 10 dots cannot be evenly divided into 6 parts": [
+    785
+  ],
+  "The absolute value of -16 is the distance of 16 units from zero": [
+    786
+  ],
+  "Therefore, the absolute value of -16 is 16": [
+    786
+  ],
+  "Addition of multi-digit numbers": [
+    787
+  ],
+  "The sum of two numbers is equal to a given number": [
+    788
+  ],
+  "Basic algebraic equation formation": [
+    788
+  ],
+  "Solving a simple linear equation": [
+    788
+  ],
+  "Let the two numbers be x and y. We know that x * y = -30": [
+    789
+  ],
+  "Since the product is negative, one of the numbers must be positive and the other negative": [
+    789
+  ],
+  "Possible pairs include (5, -6), (-5, 6), (3, -10), (-3, 10), (2, -15), (-2, 15), (1, -30), (-1, 30)": [
+    789
+  ],
+  "Any of these pairs would satisfy the condition that their product is -30": [
+    789
+  ],
+  "The answer C likely represents one of these pairs or an equivalent solution": [
+    789
+  ],
+  "Understanding bar models": [
+    790
+  ],
+  "Basic division concepts": [
+    790
+  ],
+  "Interpreting visual representations of numbers": [
+    790
+  ],
+  "Identifying parts and wholes in diagrams": [
+    790
+  ],
+  "Evaluating options against a given visual model": [
+    790
+  ],
+  "In a right-angled triangle the angles add up to 180°": [
+    792
+  ],
+  "The right angle itself is 90°": [
+    792
+  ],
+  "The other two angles must therefore add up to 90°": [
+    792
+  ],
+  "To find angle s, you subtract the given angle of 25° from 90°": [
+    792
+  ],
+  "Exterior angle theorem": [
+    792,
+    838,
+    846,
+    901
+  ],
+  "Multiplying a whole number by a fraction": [
+    793
+  ],
+  "Basic multiplication skills": [
+    793
+  ],
+  "solving inequalities": [
+    795,
+    852
+  ],
+  "properties of inequality": [
+    795
+  ],
+  "non-negative numbers": [
+    795
+  ],
+  "arasigning values to variables": [
+    795
+  ],
+  "Basic fraction concepts": [
+    796
+  ],
+  "Ability to interpret distance on a number line": [
+    796
+  ],
+  "Knowledge of how to add units to find total segments": [
+    796
+  ],
+  "Ability to convert units into fractions": [
+    796
+  ],
+  "comparing fractions to whole numbers": [
+    797
+  ],
+  "Approximate decimal values to nearest whole number": [
+    798
+  ],
+  "Interpreting shaded areas in geometric figures": [
+    799
+  ],
+  "Relating fractions to division": [
+    799
+  ],
+  "Identifying fractions from visual representations": [
+    799
+  ],
+  "Division of integers and decimals": [
+    800
+  ],
+  "Rules of signs for multiplication and division": [
+    800
+  ],
+  "Finding midpoints using the midpoint formula": [
+    801
+  ],
+  "Properties of quadrilaterals": [
+    801
+  ],
+  "Identifying properties of parallelograms": [
+    801
+  ],
+  "Understanding the relationship between a kite and its midpoint quadrilateral": [
+    801
+  ],
+  "Recognizing a rectangle as a special type of parallelogram": [
+    801
+  ],
+  "If p and q are supplementary, then p + q = 180 degrees": [
+    802
+  ],
+  "Addition of whole numbers": [
+    803
+  ],
+  "non-commutative property of division": [
+    804
+  ],
+  "Factors and divisibility": [
+    805
+  ],
+  "Comparison of multiples": [
+    805
+  ],
+  "Examples of multiples of 4 and 20": [
+    805
+  ],
+  "Identify the two vertical lines and the diagonal line intersecting them, forming various angles": [
+    806
+  ],
+  "Allied (co-interior) angles are the angles on the same side of the transversal and inside the two vertical lines": [
+    806
+  ],
+  "Recognize the position of angles in relation to the transversal and the vertical lines": [
+    806
+  ],
+  "Understand the properties of angles formed by a transversal intersecting two parallel lines": [
+    806
+  ],
+  "Numerator and denominator roles": [
+    807
+  ],
+  "Pronouncing fractions": [
+    807
+  ],
+  "Interpreting visual patterns": [
+    808
+  ],
+  "Understanding proportional relationships": [
+    808
+  ],
+  "Basic algebraic equations": [
+    808
+  ],
+  "Grid analysis": [
+    808
+  ],
+  "Understanding of floor levels and basement levels": [
+    809
+  ],
+  "Basic subtraction skills": [
+    809
+  ],
+  "Ability to subtract a negative number": [
+    809
+  ],
+  "Interpretation of word problems involving levels and floors": [
+    809
+  ],
+  "Matching numerical answers to given options": [
+    809
+  ],
+  "Identifying fractions between two given fractions": [
+    810
+  ],
+  "Comparison of numbers": [
+    811
+  ],
+  "Simplify the fraction 18/30": [
+    812
+  ],
+  "Find the greatest common divisor (GCD) of 18 and 30": [
+    812
+  ],
+  "Divide both the numerator and the denominator by 6": [
+    812
+  ],
+  "The simplified fraction is 3/5": [
+    812
+  ],
+  "Identifying numbers between integers": [
+    813
+  ],
+  "Comparing numbers to determine their position on a number line": [
+    813
+  ],
+  "Recognizing negative numbers": [
+    813
+  ],
+  "Interpreting arrows on a number line to indicate specific values": [
+    813
+  ],
+  "A diameter is a line segment that passes through the center of a circle and whose endpoints lie on the circle": [
+    814
+  ],
+  "In diagram D, the line segment goes through the center of the circle and ends on both sides of the circle's edge": [
+    814
+  ],
+  "This matches the definition of a diameter": [
+    814
+  ],
+  "Place the protractor so that its straight edge aligns with one side of the angle": [
+    815
+  ],
+  "Ensure the center of the protractor is exactly over the angle's vertex": [
+    815
+  ],
+  "Rotate the protractor so that one side of the angle aligns with the 0-degree line on the protractor": [
+    815
+  ],
+  "Identify the protractor that allows reading the obtuse angle easily, which is more than 90 degrees but less than 180 degrees": [
+    815
+  ],
+  "Recognize the correct protractor alignment for direct measurement of the obtuse angle without needing to subtract from 180 degrees": [
+    815
+  ],
+  "definition of a common multiple": [
+    816
+  ],
+  "least common multiple concept": [
+    816
+  ],
+  "Inverse operations": [
+    817
+  ],
+  "square side length calculation": [
+    818
+  ],
+  "square vertex determination": [
+    818
+  ],
+  "The expression on the left side of the equation is a fraction (a + b) / c": [
+    819
+  ],
+  "This fraction represents division of (a + b) by c": [
+    819
+  ],
+  "The expression on the right side of the equation (a + b) ÷ c also represents division of (a + b) by c": [
+    819
+  ],
+  "Since both left and right sides of the equation represent the same operation, the relationship is always true for any values of a, b, and c (assuming c is not zero)": [
+    819
+  ],
+  "The relationship holds true for the given condition that a, b, and c are different numbers": [
+    819
+  ],
+  "line of symmetry": [
+    820
+  ],
+  "mirror images": [
+    820
+  ],
+  "identical halves": [
+    820
+  ],
+  "visualize or draw a line": [
+    820
+  ],
+  "divide shape into two matching halves": [
+    820
+  ],
+  "Properties of exponents": [
+    821
+  ],
+  "Simplifying expressions with exponents": [
+    821
+  ],
+  "Equality of exponential expressions": [
+    821
+  ],
+  "Knowledge of geometric transformations including translation and rotation": [
+    822
+  ],
+  "Ability to visualize the effect of translations on coordinates": [
+    822
+  ],
+  "Understanding of how rotation around a specific point affects object positioning": [
+    822
+  ],
+  "Knowledge of 90-degree clockwise rotation effects in the coordinate plane": [
+    822
+  ],
+  "Understanding of the relationship between pre-image and image in geometric transformations": [
+    822
+  ],
+  "An equilateral triangle has all sides and angles equal": [
+    823
+  ],
+  "Equilateral triangle rotates to match itself three times before returning to original position": [
+    823
+  ],
+  "Rotation by 120 degrees matches the triangle to itself": [
+    823
+  ],
+  "Order of rotational symmetry is 3 for an equilateral triangle": [
+    823
+  ],
+  "Sum of angles on a straight line": [
+    824
+  ],
+  "Relationship between angle types and their measures": [
+    824
+  ],
+  "Logic and reasoning in angle properties": [
+    824
+  ],
+  "Understanding of numerical values and symbols": [
+    825
+  ],
+  "definition of multiples": [
+    826
+  ],
+  "algebraic expressions manipulation": [
+    826
+  ],
+  "Reflecting a point over the line y = -x": [
+    827
+  ],
+  "Translating a point using a vector": [
+    827
+  ],
+  "To find a common factor of two numbers": [
+    829
+  ],
+  "Determine the factors of each number": [
+    829
+  ],
+  "Identify prime numbers": [
+    829
+  ],
+  "Recognize that 1 is a common factor of all integers": [
+    829
+  ],
+  "Compare factors to find common factors": [
+    829
+  ],
+  "Understand that the number 1 is always a common factor": [
+    829
+  ],
+  "Identify the correct choice representing the common factor": [
+    829
+  ],
+  "Analyze diagrams to understand represented calculations": [
+    830
+  ],
+  "Identify and compare calculations to diagram": [
+    830
+  ],
+  "Recognize mismatch between options and diagram representation": [
+    830
+  ],
+  "To solve basic algebraic equations": [
+    831
+  ],
+  "Understanding of addition and subtraction of integers": [
+    831
+  ],
+  "Identifying the correct operation to solve simple equations": [
+    831
+  ],
+  "Identifying fraction positions on a number line": [
+    832
+  ],
+  "Dividing a fraction into equal parts": [
+    832
+  ],
+  "Calculating temperature difference": [
+    833
+  ],
+  "Simplification": [
+    835
+  ],
+  "Perimeter calculation": [
+    835
+  ],
+  "Start with the input value p": [
+    836
+  ],
+  "Multiply p by 5": [
+    836
+  ],
+  "Add 2 to the result": [
+    836
+  ],
+  "Identify the output expression": [
+    836
+  ],
+  "Match the output expression to the given options": [
+    836
+  ],
+  "Understanding coordinate systems": [
+    837
+  ],
+  "Understanding horizontal and vertical movements": [
+    837
+  ],
+  "Interpreting movement directions on a coordinate plane": [
+    837
+  ],
+  "Properties of equilateral triangles": [
+    838
+  ],
+  "Properties of squares": [
+    838
+  ],
+  "decimal numbers": [
+    839
+  ],
+  "Prime factorization of 15 is 3 and 5": [
+    840
+  ],
+  "If 15 is a factor of a number then 3 and 5 are also factors of that number": [
+    840
+  ],
+  "Factors of a number divide that number evenly": [
+    840
+  ],
+  "Interpreting geometric shapes": [
+    841
+  ],
+  "Calculating part of a whole": [
+    841
+  ],
+  "conversion of improper fractions to mixed numbers": [
+    842
+  ],
+  "Multiplication of decimal numbers": [
+    843
+  ],
+  "Find the slope of a line segment using two points": [
+    845
+  ],
+  "Compare slopes to determine if lines are parallel": [
+    845
+  ],
+  "Determine if slopes are negative reciprocals to check for perpendicularity": [
+    845
+  ],
+  "Interpret results to conclude relationship between line segments": [
+    845
+  ],
+  "Properties of a pentagon": [
+    846
+  ],
+  "Write decimals as fractions": [
+    847
+  ],
+  "Find greatest common divisor": [
+    847
+  ],
+  "The shape consists of 5 squares": [
+    848
+  ],
+  "Each square has a side length of 1": [
+    848
+  ],
+  "The area of one square is 1 * 1 = 1": [
+    848
+  ],
+  "Since there are 5 squares, the total area is 5 * 1 = 5": [
+    848
+  ],
+  "The unit of area is square units": [
+    848
+  ],
+  "Evaluate algebraic expressions": [
+    850
+  ],
+  "Substitute values into variables": [
+    850
+  ],
+  "Identify true statements based on calculations": [
+    850
+  ],
+  "Factors and multiples": [
+    851,
+    918
+  ],
+  "combining like terms": [
+    852
+  ],
+  "dividing both sides of an inequality": [
+    852
+  ],
+  "multiplying both sides of an inequality": [
+    852
+  ],
+  "understanding inequality signs": [
+    852
+  ],
+  "non-negative values of a variable": [
+    852
+  ],
+  "Understanding grid systems": [
+    853
+  ],
+  "Identifying coordinates in a grid": [
+    853
+  ],
+  "Visualizing changes in a pattern": [
+    853
+  ],
+  "Matching visual outcomes to options": [
+    853
+  ],
+  "dividing fractions by multiplying by the reciprocal": [
+    854
+  ],
+  "Visualize the angle in question": [
+    855
+  ],
+  "Determine if the angle is acute, right, or obtuse": [
+    855
+  ],
+  "Compare the angle to known angles like 90 degrees or 180 degrees": [
+    855
+  ],
+  "Select the option that most closely matches the estimated size of the angle": [
+    855
+  ],
+  "simplifying algebraic expressions": [
+    856
+  ],
+  "comparing algebraic expressions": [
+    856
+  ],
+  "exponent rules": [
+    857
+  ],
+  "multiplication of exponents": [
+    857
+  ],
+  "factoring out the greatest common factor": [
+    858
+  ],
+  "expanding factored expressions": [
+    858
+  ],
+  "comparing equivalent expressions": [
+    858
+  ],
+  "Start with the given equation 3c = d": [
+    859
+  ],
+  "To check Tom's equation, subtract 20 from both sides of the original equation": [
+    859
+  ],
+  "To check Katie's equation, multiply both sides of the original equation by 4": [
+    859
+  ],
+  "Understanding equality and operations on equations": [
+    859
+  ],
+  "Both Tom and Katie are correct": [
+    859
+  ],
+  "C represents that both are correct": [
+    859
+  ],
+  "subtracting numerators": [
+    860
+  ],
+  "Volume of a cube": [
+    861
+  ],
+  "Cubing a number": [
+    861
+  ],
+  "Combine constant terms": [
+    862
+  ],
+  "Simplify expression": [
+    862
+  ],
+  "Half of 360 degrees is 180 degrees": [
+    863
+  ],
+  "Determining the highest common factor": [
+    864
+  ],
+  "triangle inequality theorem": [
+    865
+  ],
+  "sum of two sides greater than the third side": [
+    865
+  ],
+  "evaluating side lengths for triangle formation": [
+    865
+  ],
+  "In an isosceles triangle the base angles are equal": [
+    866,
+    903
+  ],
+  "The sum of the angles in any triangle is 180°": [
+    866
+  ],
+  "Subtract the sum of the base angles from 180° to find the vertex angle": [
+    866
+  ],
+  "Solving simple equations": [
+    867
+  ],
+  "Equation evaluation": [
+    868
+  ],
+  "area of a triangle formula": [
+    869
+  ],
+  "base and height identification": [
+    869
+  ],
+  "calculation of areas for comparison": [
+    869
+  ],
+  "rechecking calculations for accuracy": [
+    869
+  ],
+  "interpretation of provided answer versus calculated results": [
+    869
+  ],
+  "The distance between two points": [
+    870
+  ],
+  "Interpreting grid-based diagrams": [
+    870
+  ],
+  "Circle properties and terminology": [
+    870
+  ],
+  "Slope of a line": [
+    871
+  ],
+  "Line segment division": [
+    871
+  ],
+  "Understanding of angles and their effect on line inclination": [
+    873
+  ],
+  "Knowledge of how changing angles affects the intersection point of two lines": [
+    873
+  ],
+  "Ability to interpret shaded regions in geometric diagrams": [
+    873
+  ],
+  "Identifying and locating points and regions in a geometric diagram": [
+    873
+  ],
+  "Understanding the relationship between angle measures and line positions": [
+    873
+  ],
+  "The scale factor for the enlargement is 1.5": [
+    874
+  ],
+  "To find the original length of rectangle P, divide the length of Q by the scale factor": [
+    874
+  ],
+  "9 cm divided by 1.5 equals 6 cm": [
+    874
+  ],
+  "Sum of interior angles of a polygon": [
+    875
+  ],
+  "Formula for each interior angle of a regular polygon": [
+    875
+  ],
+  "Identification of a regular pentagon": [
+    875
+  ],
+  "Interior angle of a regular pentagon": [
+    875
+  ],
+  "Interpretation of shaded angle in a diagram": [
+    875
+  ],
+  "x-coordinate of a point on the line": [
+    877
+  ],
+  "Similar triangles have corresponding angles that are equal": [
+    878
+  ],
+  "The ratio of corresponding sides in similar triangles is constant": [
+    878
+  ],
+  "Identify corresponding sides and angles in similar triangles": [
+    878
+  ],
+  "Calculate the ratio of corresponding sides to find missing lengths": [
+    878
+  ],
+  "Use the ratio to determine the length of the missing side in the smaller triangle": [
+    878
+  ],
+  "tessellation properties of regular polygons": [
+    879
+  ],
+  "internal angles of a regular pentagon": [
+    879
+  ],
+  "tessellation properties of irregular polygons": [
+    879
+  ],
+  "types of irregular pentagons that can tessellate": [
+    879
+  ],
+  "understanding of regular versus irregular polygons": [
+    879
+  ],
+  "contextual accuracy in geometric statements": [
+    879
+  ],
+  "Understanding of Indian number system": [
+    880
+  ],
+  "Understanding of international number system": [
+    880
+  ],
+  "Ability to compare numbers": [
+    880,
+    911,
+    922
+  ],
+  "Knowledge of symbols for comparison (> and <)": [
+    880
+  ],
+  "Evaluate arithmetic expressions": [
+    881,
+    915
+  ],
+  "Equality in equations": [
+    881
+  ],
+  "properties of negative numbers": [
+    882
+  ],
+  "simplification of expressions": [
+    882
+  ],
+  "equality of expressions": [
+    882
+  ],
+  "The area of a parallelogram is given by the formula: Area = base * height": [
+    884
+  ],
+  "Substituting the given values into the formula": [
+    884
+  ],
+  "Solving linear equations by division": [
+    884
+  ],
+  "Summing elements to form an equation": [
+    885
+  ],
+  "Matching equation to given answer choices": [
+    885
+  ],
+  "Bracket placement in arithmetic expressions": [
+    887
+  ],
+  "Arithmetic operations including multiplication, subtraction, and addition": [
+    887
+  ],
+  "Unique elements in sets": [
+    888
+  ],
+  "Prime factors of 90": [
+    888
+  ],
+  "non-commutative property of subtraction": [
+    889
+  ],
+  "Identifying the shape formed by connecting points": [
+    891
+  ],
+  "Finding midpoints of line segments": [
+    891
+  ],
+  "Connecting midpoints to form a new shape": [
+    891
+  ],
+  "Identifying properties of a square": [
+    891
+  ],
+  "Recognizing that connecting midpoints of a kite forms a square": [
+    891
+  ],
+  "Counting equal parts": [
+    892
+  ],
+  "Comparing fractions to given options": [
+    892
+  ],
+  "Interpreting shaded areas in diagrams": [
+    892
+  ],
+  "Solving for a variable": [
+    893
+  ],
+  "Dividing decimals": [
+    893
+  ],
+  "Compound shapes": [
+    894
+  ],
+  "Understanding dimensions and scale": [
+    894
+  ],
+  "Basic algebra manipulation": [
+    894
+  ],
+  "understanding fractions": [
+    895,
+    928
+  ],
+  "solving for a variable": [
+    895
+  ],
+  "properties of prime numbers": [
+    896
+  ],
+  "smallest prime number": [
+    896
+  ],
+  "Convert improper fractions back to mixed numbers": [
+    897
+  ],
+  "Understanding variable representation in patterns": [
+    898
+  ],
+  "Simplifying expressions based on patterns": [
+    898
+  ],
+  "Matching simplified expressions to given options": [
+    898
+  ],
+  "Understanding of equality and proportion": [
+    899
+  ],
+  "Knowledge of fractions and their operations": [
+    899
+  ],
+  "Ability to multiply fractions": [
+    899
+  ],
+  "Understanding of simplification of fractions": [
+    899
+  ],
+  "Understanding coordinate system": [
+    900
+  ],
+  "Identifying quadrants in coordinate plane": [
+    900
+  ],
+  "Interpreting given coordinates": [
+    900
+  ],
+  "The interior angles of a triangle sum to 180°": [
+    901
+  ],
+  "Angle measurement and relationships in triangles": [
+    901
+  ],
+  "Observe patterns in sequences": [
+    902,
+    916
+  ],
+  "Identify the common difference in an arithmetic sequence": [
+    902
+  ],
+  "Determine the first term of a sequence": [
+    902
+  ],
+  "Formulate the nth term of an arithmetic sequence": [
+    902
+  ],
+  "Verify the formula with given data points": [
+    902
+  ],
+  "The sum of angles in any triangle is 180 degrees": [
+    903
+  ],
+  "dividing by a fraction": [
+    904
+  ],
+  "Subtraction of numbers": [
+    905
+  ],
+  "Understanding of intervals on a number line": [
+    905
+  ],
+  "The given vertices form a rectangle": [
+    906
+  ],
+  "The horizontal line of symmetry will be midway between the highest and lowest y-coordinates": [
+    906
+  ],
+  "Finding midpoint of two numbers": [
+    906
+  ],
+  "Equation of a horizontal line": [
+    906
+  ],
+  "Understanding the concept of line symmetry": [
+    907
+  ],
+  "Visualizing the folding of shapes along given lines": [
+    907
+  ],
+  "Identifying matching halves when a shape is folded": [
+    907
+  ],
+  "Recognizing mirror images formed by folding": [
+    907
+  ],
+  "Evaluating multiple options to find the correct line of symmetry": [
+    907
+  ],
+  "Subtraction method": [
+    908
+  ],
+  "Understanding area": [
+    909
+  ],
+  "Basic division": [
+    909
+  ],
+  "Basic multiplication": [
+    909
+  ],
+  "Interpreting geometric shapes and shaded areas": [
+    909
+  ],
+  "Working with units of measurement": [
+    909
+  ],
+  "A fillet is a right angle": [
+    910
+  ],
+  "Angles that add up to 90 degrees are complementary": [
+    910
+  ],
+  "Setting up an equation to represent the sum of angles": [
+    910
+  ],
+  "Solving a simple linear equation for a variable": [
+    910
+  ],
+  "Dividing both sides of an equation by a constant": [
+    910
+  ],
+  "Knowledge of negative numbers": [
+    911
+  ],
+  "Understanding of placement on number line based on value": [
+    911
+  ],
+  "PEMDAS": [
+    912
+  ],
+  "parentheses change order of operations": [
+    912
+  ],
+  "standard order of operations": [
+    912
+  ],
+  "order of rotational symmetry": [
+    913
+  ],
+  "quadrilaterals": [
+    913
+  ],
+  "rotational symmetry in shapes": [
+    913
+  ],
+  "square and rectangle symmetry": [
+    913
+  ],
+  "scalene quadrilaterals and parallelograms symmetry": [
+    913
+  ],
+  "Substitute values into equations": [
+    915
+  ],
+  "Identify common difference in arithmetic sequences": [
+    916
+  ],
+  "Apply formula for nth term of an arithmetic sequence": [
+    916
+  ],
+  "Equation of a line": [
+    917
+  ],
+  "Perpendicular lines": [
+    917
+  ],
+  "Point-slope formula": [
+    917
+  ],
+  "Checking divisibility by prime factors": [
+    918
+  ],
+  "Understanding the composition of composite numbers": [
+    918
+  ],
+  "Reflection across the line y = x": [
+    919
+  ],
+  "Translation using a vector": [
+    919
+  ],
+  "Coordinate transformation": [
+    919
+  ],
+  "Intersecting lines form angles that are adjacent and supplementary": [
+    920
+  ],
+  "Parallel lines do not intersect": [
+    920
+  ],
+  "If two lines intersect, they will form angles that are not supplementary to angles on the same side of the transversal if the lines were parallel": [
+    920
+  ],
+  "Power of a number": [
+    921
+  ],
+  "Concept of betweenness": [
+    922
+  ],
+  "Knowledge of inequality symbols and their meaning": [
+    922
+  ],
+  "Doubling a number": [
+    924
+  ],
+  "Identify temperature from a table": [
+    926
+  ],
+  "Calculate temperature difference": [
+    926
+  ],
+  "Understand positive and negative temperature values": [
+    926
+  ],
+  "Angle measurement units": [
+    927
+  ],
+  "Solving for an unknown angle in a triangle": [
+    927
+  ],
+  "basic multiplication": [
+    928
+  ],
+  "basic division": [
+    928
+  ],
+  "calculating parts of a whole": [
+    928
+  ],
+  "interpreting geometric shapes and their divisions": [
+    928
+  ],
+  "Isaac has used 4/5 of his Lego bricks and this fraction equals 1200 bricks": [
+    929
+  ],
+  "Setting up equations to represent word problems": [
+    929
+  ],
+  "Solving equations by using reciprocals": [
+    929
+  ],
+  "Identifying correct mathematical operations from multiple choices": [
+    929
+  ],
+  "definition of a square": [
+    931
+  ],
+  "properties of a quadrilateral": [
+    931
+  ],
+  "right angles": [
+    931
+  ],
+  "equal sides": [
+    931
+  ],
+  "polygon properties": [
+    931
+  ],
+  "Commutative property of multiplication": [
+    932
+  ],
+  "Understanding symbols in equations": [
+    932
+  ],
+  "Division operation": [
+    932
+  ],
+  "Solving for variables in simple equations": [
+    932
+  ],
+  "Substitution of values in equations": [
+    932
+  ],
+  "definition of a chord": [
+    933
+  ],
+  "definition of an arc": [
+    933
+  ],
+  "characteristics of a circle": [
+    933
+  ],
+  "distinguishing between a chord and an arc": [
+    933
+  ],
+  "factoring out a common factor": [
+    934
+  ],
+  "common factor identification": [
+    934
+  ],
+  "algebraic expression manipulation": [
+    934
+  ],
+  "The sum of the interior angles of a quadrilateral is 360 degrees": [
+    935
+  ],
+  "properties of numbers": [
+    936
+  ],
+  "factors and multiples relationship": [
+    936
+  ],
+  "Decimal multiplication rules": [
+    937
+  ],
+  "Adjusting decimal places in the product": [
+    937
+  ],
+  "solve for a variable in an equation": [
+    938
+  ],
+  "isolation of variable by addition": [
+    938
+  ],
+  "simplification of arithmetic expression": [
+    938
+  ],
+  "To divide a fraction by a whole number, you can multiply the fraction by the reciprocal of the whole number": [
+    940
+  ],
+  "The reciprocal of a number": [
+    940
+  ],
+  "Simplifying fractions if necessary": [
+    940
+  ],
+  "Concept of negative numbers": [
+    941
+  ],
+  "Ordering of negative numbers": [
+    941
+  ],
+  "Placement of numbers on a number line": [
+    941
+  ],
+  "Factor trees": [
+    944
+  ],
+  "Evaluating factorization options": [
+    944
+  ],
+  "Understanding of compound shapes": [
+    946
+  ],
+  "Knowledge of rectangle properties": [
+    946
+  ],
+  "Ability to interpret geometric figures and their dimensions": [
+    946
+  ],
+  "Basic subtraction of fractions": [
+    946
+  ],
+  "Knowledge of how to determine missing lengths in geometric figures": [
+    946
+  ],
+  "vector representation": [
+    947
+  ],
+  "coordinate system": [
+    947
+  ],
+  "x-axis positive direction": [
+    947
+  ],
+  "y-axis negative direction": [
+    947
+  ]
+}

@@ -1,21 +1,7 @@
-<p align="center">
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="center" width="30%">
-</p>
-<p align="center"><h1 align="center">DSPY_RESEARCH</h1></p>
-<p align="center">
-	<!-- local repository, no metadata badges. --></p>
-<p align="center">Built with the tools and technologies:</p>
-<p align="center">
-	<img src="https://img.shields.io/badge/Python-3776AB.svg?style=default&logo=Python&logoColor=white" alt="Python">
-</p>
-<br>
-
----
-
 #  Project Structure
 
 ```sh
-└── DSPY_research/
+└── DSPY_application/
     ├── dspy-learn
     │   ├── 01_basic_qa.py
     │   ├── 02_cot_qa.py

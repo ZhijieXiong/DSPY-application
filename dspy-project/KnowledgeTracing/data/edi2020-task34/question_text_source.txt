@@ -1,0 +1,4 @@
+1 OCR https://simpletex.cn/ai/latex_ocr, pdf
+2 kaggle Eedi - Mining Misconceptions in Mathematics train.csv
+3 human
+4 image description from vision LLM

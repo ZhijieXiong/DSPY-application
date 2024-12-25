@@ -7,10 +7,10 @@ import argparse
 # Parse command-line arguments
 parser = argparse.ArgumentParser(description='Process some files.')
 parser.add_argument('--original_question_file', type=str,
-                    default="/Users/dream/myProjects/DSPY_research/dspy-project/KnowledgeTracing/data/moocradar-C_746997/questions_translated_step_by_step.json",
+                    default="/Users/dream/myProjects/DSPY_research/dspy-project/KnowledgeTracing/data/edi2020-task34/questions_step_by_step.json",
                     help='Path to the output question file of get_step_by_step_solutions.py')
 parser.add_argument('--annotated_question_file', type=str,
-                    default="/Users/dream/myProjects/DSPY_research/dspy-project/KnowledgeTracing/data/moocradar-C_746997/questions_translated_kc_annotation.json",
+                    default="/Users/dream/myProjects/DSPY_research/dspy-project/KnowledgeTracing/data/edi2020-task34/questions_kc_annotation.json",
                     help='Path to the target question file')
 args = parser.parse_args()
 
@@ -70,7 +70,7 @@ if not os.path.exists(annotated_question_file):
 else:
     with open(annotated_question_file, 'r') as file:
         annotated_question = json.load(file)
-num2evaluate = 550
+num2evaluate = 450
 progress_bar = tqdm(total=num2evaluate)
 counter = 0
 for key, item in data.items():
